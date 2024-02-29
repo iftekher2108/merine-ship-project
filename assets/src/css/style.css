@@ -1,0 +1,406 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap'); */
+
+
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+:root {
+    --nav-text:white;
+}
+
+/* h1,h2,h3,h4,h5,h6 {
+font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+p,span,button,a{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+} */
+
+
+
+/* ===================== navbar ============================== */
+.menu {
+    background: rgb(255, 255, 255);
+    backdrop-filter:blur(0.3px) ;
+}
+.slide-content {
+    background: rgba(255, 255, 255, 0.11);
+    backdrop-filter:blur(1.3px) ;
+}
+
+.menu ul li {
+    list-style: none;   
+}
+
+.menu ul li a {
+
+    font-weight: bold;
+    letter-spacing: 2px;
+    padding:0.3rem;
+    transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    position: relative;
+}
+
+.menu ul li a::after{
+    content: '';
+    position: absolute;
+    top: 100%;
+    left: 0%;
+    height: 3px;
+    border-radius:5px;
+    width: 0%;
+    text-align: center;
+    background: var(--sp-primary);
+    transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    -ms-border-radius:5px;
+    -o-border-radius:5px;
+}
+
+.menu ul li a:hover::after {
+    width: 100%;
+    background: var(--sp-primary);
+
+}
+
+.menu ul li a.active {
+    background: var(--sp-primary);
+    color: var(--sp-white);
+    padding: 0.3rem 1rem !important;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+}
+
+.menu ul li a.active:hover {
+    color: var(--sp-white);
+}
+.menu ul li a.active:hover::after {
+    width: 0%;
+    background: white;
+}
+/* ======================= custom slide ============================= */
+
+
+.custom-slide {
+    min-height: 100%;
+}
+
+/* ====================== about us ========================== */
+.about-us {
+    background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)),url(../../images/about-us.jpg);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:scroll
+}
+
+.about-us .dots {
+    font-size: 9px;
+    text-align: center;
+}
+
+
+/* ====================== about us ========================== */
+
+
+
+/* ========================= we unite =============================== */
+
+/* .we-unite {
+    background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.6)),url(../../images/we-unite.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center;
+    background-attachment:scroll;
+} */
+
+/* ======================== we unite =================================== */
+
+
+/* ======================== partner slide img ========================== */
+.partner-slide img {
+    height: 90px;
+    width: 150px;
+
+}
+
+/* ========================= partner slide img ========================== */
+
+/* ========================= services ================================== */
+.servise-section {
+    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(../../images/services-bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+/* ========================= services ================================== */
+
+
+/* ============================= our value ============================== */
+.card-content {
+    transition: all 0.4s ease-in-out;
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+}
+
+.card-content .content {
+    background: var(--sp-primary);
+    transition: all 0.4s ease-in-out;
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+}
+
+.card-content:hover .content {
+    opacity: 0;
+}
+
+/* .card-content .content:hover {
+    background: rgba(var(--sp-secondary-bg-rgb), var(--sp-bg-opacity-50));
+} */
+
+/* ============================= our value ============================== */
+
+
+/* ============================= news section ============================== */
+.slick-prev,
+.slick-next
+{
+    font-size: 0;
+    line-height: 0;
+    position: absolute;
+    top: 50%;
+    display: block;
+    width: 20px;
+    height: 20px;
+    padding: 0px;
+    -webkit-transform: translate(0, -50%);
+    -ms-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+    cursor: pointer;
+    color: transparent;
+    border: none;
+    outline: none;
+    background: transparent;
+    -moz-transform: translate(0, -50%);
+    -o-transform: translate(0, -50%);
+}
+
+.latest-news .slick-prev:before,
+.latest-news .slick-next:before
+{
+    /*font-family: 'slick';
+    */background: var(--sp-primary);
+    font-weight: bold;
+    border: 2px solid var(--sp-primary);
+    font-size: 1.3rem;
+    margin: auto;
+    padding:0.5rem 1rem;
+    padding-top: 0.1rem;
+    /*padding-bottom: ;
+    */z-index: 10;
+    opacity: .75;
+    color: var(--sp-white);
+    box-shadow: var(--sp-box-shadow);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    border-radius: 30rem;
+    -webkit-border-radius: 30rem;
+    -moz-border-radius: 30rem;
+    -ms-border-radius: 30rem;
+    -o-border-radius: 30rem;
+    transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+}
+
+.latest-news .slick-prev
+{
+    left:-5.5%;
+    z-index: 5;
+}
+[dir='rtl'] .slick-prev
+{
+    right: -25px;
+    left: auto;
+}
+.latest-news .slick-prev:before
+{
+    content: '‹';
+}
+[dir='rtl'] .slick-prev:before
+{
+    content: '→';
+}
+
+.latest-news .slick-next
+{
+    right: -2%;
+    
+}
+[dir='rtl'] .slick-next
+{
+    right: auto;
+    left: -25px;
+}
+.latest-news .slick-next:before
+{
+    content: '›';
+}
+
+.latest-news .slick-prev:hover:before,
+.latest-news .slick-prev:focus:before,
+.latest-news .slick-next:hover:before,
+.latest-news .slick-next:focus:before
+{
+    opacity: 1;
+    color: white;
+    background: var(--sp-dark);
+    border: 2px solid var(--sp-dark);
+
+}
+.latest-news .news-content {
+    background:linear-gradient(to bottom,transparent,rgba(0,0,0,0.8));
+}
+.latest-news .news-content h3{
+    overflow: hidden;
+display: -webkit-box;
+-webkit-box-orient: vertical;
+-webkit-line-clamp: 2;
+}
+
+.latest-news .news-content a {
+    white-space: nowrap;
+}
+
+.latest-news .news-content a i {
+      
+    border-radius: 50%;
+    width: 1.5rem;
+    height: 1.5rem;
+    padding: 0.5rem;
+    padding-top: 0.35rem;
+    padding-left: 0.45rem;
+    transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    /* background:#EED484; */
+    background: var(--sp-primary);
+}
+
+
+.latest-news .news-content a:hover i {
+    transform: translateX(10px);
+    -webkit-transform: translateX(10px);
+    -moz-transform: translateX(10px);
+    -ms-transform: translateX(10px);
+    -o-transform: translateX(10px);
+}
+/* ============================= news section ================================ */
+
+
+
+/* =============================== footer ============================== */
+
+:where(.quick-link,.widget-3) ul li {
+    list-style-type: square;
+    color: var(--sp-primary);
+}
+:where(.quick-link,.widget-3) ul li a {
+    transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+}
+
+:where(.quick-link,.widget-3) ul li a:hover {
+    color: var(--sp-primary) !important;
+}
+
+.social-icon a {
+    color: var(--sp-white);
+    padding: 0.2rem 0.55rem;
+    background: var(--sp-primary);
+    border:2px solid var(--sp-primary);
+    border-radius: 50%;
+    transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+     box-shadow: var(--sp-box-shadow);
+}
+
+.social-icon a:hover {
+    color: var(--sp-primary);
+    background: var(--sp-white);
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+   
+}
+
+/* ========================== footer ======================================= */
+
+
+
+/* ============================== service section page ====================================== */
+.service-hero {
+    min-height: 100vh;
+    background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(../../images/service/SERVICES-1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.contact-us-hero {
+    min-height: 70vh;
+    background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(../../images/contact-banner.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+/* ============================== service section page ======================================= */
