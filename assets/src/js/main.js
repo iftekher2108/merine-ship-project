@@ -2,9 +2,9 @@ console.log($('.slick-slide'))
 console.log('iftekher mahmud pervez')
 console.log($('.slick-slide'))
 
-$(document).ready(function(){
+// $(document).ready(function(){
 
-})
+// })
 
 $('.custom-slide').slick({
 //     slidesToShow: 1,
@@ -22,9 +22,9 @@ $('.news-slide').slick({
   slidesToScroll: 1,
   arrows: true,
   dots: false,
-  // autoplay: false,
-  // infinite:false,
-  // autoplaySpeed: 1000,
+  autoplay: true,
+  infinite:true,
+  autoplaySpeed: 1500,
 })
 
 $('.partner-slide').slick({
