@@ -13,6 +13,8 @@
 
 
 html {
+    margin: 0;
+    padding: 0;
     overflow-x: hidden;
 }
 
@@ -33,17 +35,22 @@ p,span,button,a{
 
 
 /* ===================== navbar ============================== */
-.menu {
-    background: var(--sp-thin-light);
-    backdrop-filter:blur(0.3px) ;
-}
+
 .slide-content {
     background: rgba(204, 97, 97, 0.11);
     backdrop-filter:blur(1.3px);
 }
 
+/* .menu {
+    background: var(--sp-thin-light);
+} */
+
 .menu ul li {
     list-style: none;   
+}
+
+.nav-menu {
+    display: block;
 }
 
 .menu ul li a {
@@ -230,6 +237,7 @@ p,span,button,a{
 
 
 /* ============================= news section ============================== */
+
 .slick-prev,
 .slick-next
 {
@@ -285,7 +293,7 @@ p,span,button,a{
 
 .latest-news .slick-prev
 {
-    left:-5.5%;
+    left:-5%;
     z-index: 5;
 }
 [dir='rtl'] .slick-prev
@@ -304,7 +312,7 @@ p,span,button,a{
 
 .latest-news .slick-next
 {
-    right: -2%;
+    right: -3%;
     
 }
 [dir='rtl'] .slick-next
