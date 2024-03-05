@@ -1,70 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SMTA Group</title>
-
-    <!-- custom bootstrap 5.3.2 -->
-    <link rel="stylesheet" href="./assets/src/scss/custom-boot.min.css">
-
-    <!-- fontawesome 6.5.1 -->
-    <link rel="stylesheet" href="./assets/plugins/fontawesome/css/all.min.css">
-
-    <!-- slick style -->
-    <link rel="stylesheet" href="./assets/plugins/slick/slick.css">
-    <link rel="stylesheet" href="./assets/plugins/slick/slick-theme.css">
-    <!-- custom style -->
-    <link rel="stylesheet" href="./assets/src/css/style.css">
-</head>
-
-<body>
-
-    <div class="menu-section">
-
-
-        <!-- nav menu bar -->
-        <div class="p-3 fixed-top z-3 w-100">
-
-            <div class="menu w-100 rounded-1 text-primary position-relative">
-                <div class="row align-items-start justify-content-between px-3">
-                    <div class="col-lg-2 col-md-3 col-sm-4">
-                        <div class="logo z-4 px-3 py-1 h-100">
-                            <img src="./assets/images/logo.png" width="130" class="img-fluid" alt="logo">
-                            <!-- <h2 class="text-white">LOGO HERE</h2> -->
-                        </div>
-                    </div>
-
-                    <div class="col-lg-10 col-md-6 col-sm-6 align-self-center">
-                        <div class="px-4">
-                            <nav class="d-flex align-items-start mt-3 user-select-none">
-                                <ul
-                                    class="d-lg-flex d-xl-flex d-xxl-flex menu-items d-block text-right gap-4 w-100 justify-content-end align-items-end">
-                                    <li class=""><a href="./index.html" class="nav-link"> Home </a></li>
-                                    <li class=""><a href="" class="nav-link"> About </a></li>
-                                    <li class=""><a href="" class="nav-link"> Business </a></li>
-                                    <li class=""><a href="./service.html" class="nav-link active"> Services </a></li>
-                                    <li class=""><a href="" class="nav-link"> News And Evants</a></li>
-                                    <li class=""><a href="" class="nav-link"> Gellery </a></li>
-                                    <li><a href="" class="nav-link">Career</a></li>
-                                    <li><a href="./contact.html" class="nav-link">Contact Us</a></li>
-                                    <a href="https://www.bb.org.bd/en/index.php/econdata/exchangerate" target="_blank"
-                                        class="nav-link text-end fw-bold px-3 py-2 text-white bg-primary rounded-2 ms-3">Exchange</a>
-                                </ul>
-
-                            </nav>
-                        </div>
-
-
-                    </div>
-                </div>
-            </div>
-
-        </div>
-        <!-- nav menu bar -->
-
-
+    <?php include './component/header.php'; ?>
 
         <!-- service hero -->
 
@@ -292,83 +227,10 @@
                 </div>
             </div>
 
-
-
-
-
-
         </div>
 
         <!-- block 1 -->
 
+        <?php include './component/footer.php'; ?>
 
 
-
-
-
-
-
-
-
-        <footer class="bg-black p-4 pb-2">
-            <div class="row g-3">
-
-                <div class="col-lg-2 col-md-6 col-sm-12">
-                    <div>
-                        <!-- <h2 class="text-white">LOGO HERE</h2> -->
-                        <img src="./assets/images/logo.png" class="mb-4" width="150" alt="logo">
-                    </div>
-                </div>
-
-                <div class="col-lg-6 col-md-6 col-sm-12 align-self-center text-white">
-                    <h5 class="text-primary text-uppercase fw-bold">Office Address:</h5>
-                    <hr>
-                    <p class="text-primary fw-bold m-0">Address:</p>
-                    <p class="m-0">
-                        House: 517/3, Road: 10, <br>
-                        DOHS Baridhara, Dhaka <br>
-                        Bangladesh
-                    </p>
-                    <span class="text-primary fw-bold">Phone:</span>
-                    <p class="m-0">+880 1810-020098</p>
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                    <div class="widget-3">
-                        <div class="social-icon">
-                            <div class="d-flex fs-5 my-3 gap-3 justify-content-end">
-                                <a href="" title="Facebook"> <i class="fa-brands fa-facebook"></i> </a>
-                                <a href="" title="Twitter"> <i class="fa-brands fa-x-twitter"></i> </a>
-                                <a href="" title="Youtube"> <i class="fa-brands fa-square-youtube"></i> </a>
-                                <a href="" title="Linkedin"> <i class="fa-brands fa-linkedin-in"></i> </a>
-                                <!-- <a href=""> </a> -->
-
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-            <hr class="border-primary">
-            <p class="text-white text-center small">© 2024 SMTA-Group, All rights reserved <br>
-                Developed By <span class=" fw-bold text-orange">Innovative Soft</span></p>
-        </footer>
-
-
-
-        <!-- bootstrap 5.3.2 -->
-        <script src="./assets/plugins/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-
-        <!-- jquery 3.7.1 -->
-        <script src="./assets/plugins/jquery/dist/jquery.min.js"></script>
-
-        <!-- slick js -->
-        <script src="./assets/plugins/slick/slick.min.js"></script>
-
-        <!-- custom js -->
-        <script src="./assets/src/js/main.js"></script>
-</body>
-
-</html>

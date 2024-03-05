@@ -66,7 +66,7 @@ $('.partner-slide').slick({
          $('.info-content,.navbar-nav').slideUp(300);
       }
       else {
-        $('.info-content,.navbar-nav ').slideDown(300);
+        $('.info-content,.navbar-nav').slideDown(300);
         
       }
     })

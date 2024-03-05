@@ -297,6 +297,22 @@ p,span,button,a{
     background-size: cover;
     background-attachment: scroll;
 }
+.servise-section .card {
+    transition: all 0.4s ease-in-out;
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+}
+
+.servise-section .card:hover {
+    box-shadow: var(--sp-box-shadow);
+    background: var(--sp-primary) !important;
+    margin-top: -10px;
+} 
+.servise-section .card:hover :where(h2,p) {
+   color: white !important; 
+}
 
 /* ========================= services ================================== */
 
@@ -552,3 +568,23 @@ p,span,button,a{
 }
 
 /* ============================== contact us page ================================================= */
+
+
+
+/* =============================== news page section =============================================== */
+
+.news-hero {
+    height: 80vh;
+    overflow: hidden;
+}
+
+.news-hero .feature-content {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    background: rgba(49, 49, 49, 0.089);
+}
+
+/* =============================== news page section ================================================ */
