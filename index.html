@@ -23,29 +23,27 @@
 <body>
 
     <div class="menu-section">
-
-
         <!-- nav menu bar -->
+        <div class="fixed-top">
+            <div class="container info-content">
+                <div class=" d-flex align-items-center justify-content-between mt-3">
+                    <div>
 
-        <div class="nav-section fixed-top z-7 w-100 px-lg-6 px-xl-7 px-xxl-8 px-md-5 px-sm-5">
-            <div class="info-content d-flex align-items-center justify-content-between mt-3">
-                <div>
-
-                </div>
-
-                <div>
-                    <div class="d-flex align-items-center gap-2  text-white">
-                        <span class=" text-primary"><i class="fa-solid fa-envelope"></i></span>
-                        <p class="p-0 m-0">info@smta-group.com</p>
                     </div>
-                    <div class="d-flex align-items-center gap-2 text-white">
-                        <span class=" text-primary"><i class="fa-solid fa-square-phone"></i></span>
-                        <p class="p-0 m-0">+880 1810-020098</p>
+
+                    <div>
+                        <div class="d-flex align-items-center gap-2  text-white">
+                            <span class=" text-primary"><i class="fa-solid fa-envelope"></i></span>
+                            <p class="p-0 m-0">info@smta-group.com</p>
+                        </div>
+                        <div class="d-flex align-items-center gap-2 text-white">
+                            <span class=" text-primary"><i class="fa-solid fa-square-phone"></i></span>
+                            <p class="p-0 m-0">+880 1810-020098</p>
+                        </div>
                     </div>
-                </div>
 
 
-                <!-- <div class="social-icon">
+                    <!-- <div class="social-icon">
                     <div class="d-flex fs-6 my-2 gap-2 justify-content-end">
                         <a href="" title="Facebook"> <i class="fa-brands fa-facebook"></i> </a>
                         <a href="" title="Twitter"> <i class="fa-brands fa-x-twitter"></i> </a>
@@ -54,53 +52,127 @@
                     </div>
                 </div> -->
 
+                </div>
+
             </div>
 
-            <div class="menu w-100 rounded-1 text-primary position-relative">
-                <div class="row align-items-center justify-content-between px-3">
-                    <div class="col-lg-2 col-md-3 logo col-sm-6 p-0 m-0 p-1">
+
+            <nav class="navbar menu  navbar-expand-lg">
+                <div class="container">
+
+                    <a class="navbar-brand" href="index.html">
                         <img src="./assets/images/logo.png" width="130" class="img-fluid z-4 p-0 m-0" alt="logo">
-                        <!-- <h2 class="text-white">LOGO HERE</h2> -->
+                    </a>
+                    <button class="navbar-toggler shadow-none" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
 
-                    </div>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
 
-                    <div class="col-lg-10 nav-width col-md-6 col-sm-6 p-0 m-0">
-                        <div class="menu-container w-100 d-flex justify-content-end">
-                            <button
-                                class="menu-toggle  d-lg-none d-md-block d-xl-none d-sm-block me-3 mt-3  btn btn-primary"><i
-                                    class="fa-solid fa-bars"></i></button>
+                        <ul class="navbar-nav gap-2 ms-auto mb-2 mb-lg-0 me-2">
 
-                            <div class="px-4 nav-menu">
-                                <nav class="d-flex  align-items-center mt-3 user-select-none">
-                                    <ul
-                                        class="d-lg-flex d-xl-flex d-xxl-flex menu-items d-block text-right gap-2 w-100 justify-content-end align-items-end">
-                                        <li class=""><a href="./index.html" class="nav-link active"> Home </a></li>
-                                        <li class=""><a href="" class="nav-link"> About </a></li>
-                                        <li class=""><a href="" class="nav-link"> Business </a></li>
-                                        <li class=""><a href="./service.html" class="nav-link"> Services </a></li>
-                                        <li class=""><a href="" class="nav-link"> News & Evants</a></li>
-                                        <li class=""><a href="" class="nav-link"> Gellery </a></li>
-                                        <li><a href="" class="nav-link">Career</a></li>
-                                        <li><a href="./contact.html" class="nav-link">Contact Us</a></li>
-                                        <a href="https://www.bb.org.bd/en/index.php/econdata/exchangerate"
-                                            target="_blank"
-                                            class="nav-link text-end fw-bold px-3 py-1 text-white bg-primary rounded-2 ms-3">Exchange
-                                            Rate</a>
-                                    </ul>
+                            <li class="nav-item"><a href="./index.html" class="nav-link active"> Home </a></li>
+                            <li class="nav-item"><a href="" class="nav-link"> About </a></li>
+                            <li class="nav-item"><a href="./service.html" class="nav-link"> Services </a></li>
 
-                                </nav>
-                            </div>
-                            
-                        </div>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                                    aria-expanded="false">
+                                    Business
+                                </a>
+                                <ul class="dropdown-menu animate slideIn" aria-labelledby="dropdownMenuButton">
+                                    <li><a class="dropdown-item" href="#">items-1</a></li>
+                                    <li>
+                                        <a class="dropdown-item" href="#">item-2</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item">
+                                            items-3 <i class="fa-solid small fa-caret-right"></i>
+                                        </a>
+                                        <ul class="dropdown-menu dropdown-submenu animate slideIn">
+                                            <li>
+                                                <a class="dropdown-item" href="#">Submenu item 5 <i
+                                                        class="fa-solid small fa-caret-right"></i> </a>
+                                                <ul class="dropdown-menu dropdown-submenu animate slideIn">
+                                                    <li>
+                                                        <a class="dropdown-item" href="#">Multi level 1</a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="#">Multi level 2</a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <li>
+                                                <a class="dropdown-item" href="#">Submenu item 2</a>
+                                            </li>
+                                            <li>
+                                                <a class="dropdown-item" href="#">Submenu item 3 <i
+                                                        class="fa-solid small fa-caret-right"></i> </a>
+                                                <ul class="dropdown-menu dropdown-submenu animate slideIn">
+                                                    <li>
+                                                        <a class="dropdown-item" href="#">Multi level 1</a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="#">Multi level 2</a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <li>
+                                                <a class="dropdown-item" href="#">Submenu item 4</a>
+                                            </li>
+                                            <li>
+                                                <a class="dropdown-item" href="#">Submenu item 5 <i
+                                                        class="fa-solid small fa-caret-right"></i> </a>
+                                                <ul class="dropdown-menu dropdown-submenu animate slideIn">
+                                                    <li>
+                                                        <a class="dropdown-item" href="#">Multi level 1</a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="dropdown-item" href="#">Multi level 2</a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
 
 
+                            <li class="nav-item"><a href="" class="nav-link"> News & Evants</a></li>
+                            <li class="nav-item"><a href="" class="nav-link"> Gellery </a></li>
+                            <li><a href="" class="nav-link">Career</a></li>
+                            <li><a href="./contact.html" class="nav-link">Contact Us</a></li>
 
+                            <!-- <li class="nav-item dropdown"><a href="#" role="button" data-bs-toggle="dropdown"
+                                    aria-expanded="false" class="nav-link dropdown-toggle"> Business </a>
+
+                                <ul class="dropdown-menu animate slideIn">
+                                    <li><a class="dropdown-item" href="#">Action</a></li>
+                                    <li><a class="dropdown-item" href="#">Another action</a></li>
+                                    <li>
+                                        <hr class="dropdown-divider">
+                                    </li>
+                                    <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                </ul>
+
+                            </li> -->
+                            <li>
+                                <a href="https://www.bb.org.bd/en/index.php/econdata/exchangerate" target="_blank"
+                                    class="nav-link active">Exchange Rate</a>
+                            </li>
+                                
+
+                        </ul>
 
                     </div>
                 </div>
-            </div>
+            </nav>
+
 
         </div>
+
         <!-- nav menu bar -->
 
         <!-- slide content -->
@@ -197,7 +269,7 @@
         </div>
 
         <div class="row">
-            <div class="col-lg-6 col-md-12 col-sm-12 p-0 m-0">
+            <div class="col-lg-6 col-md-12 col-sm-12 pe-lg-0 pe-sm-auto">
                 <img src="./assets/images/Our-vision.jpg" class="img-fluid w-100 m-0 p-0" alt="image">
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12 p-0 m-0">
@@ -653,26 +725,26 @@
 
 
     <footer class="bg-black p-4 pb-2">
-        <div class="row g-3">
+        <div class="row g-3 align-items-center">
 
-            <div class="col-lg-2 col-md-4 col-sm-12">
+            <div class="col-lg-4 col-md-4 col-sm-12">
                 <div>
                     <!-- <h2 class="text-white">LOGO HERE</h2> -->
                     <img src="./assets/images/logo.png" class="mb-4" width="150" alt="logo">
                 </div>
             </div>
 
-            <div class="col-lg-6 col-md-8 col-sm-12 align-self-center text-white">
+            <div class="col-lg-4 col-md-8 col-sm-12 align-self-center text-white">
                 <h5 class="text-primary text-uppercase fw-bold">Office Address:</h5>
                 <hr>
-                <p class="text-primary fw-bold m-0">Address:</p>
                 <p class="m-0">
                     House: 517/3, Road: 10, <br>
                     DOHS Baridhara, Dhaka <br>
                     Bangladesh
                 </p>
-                <span class="text-primary fw-bold">Phone:</span>
-                <p class="m-0">+880 1810-020098</p>
+                <p class="m-0"><span class="text-primary fw-bold">Phone: </span>+880 1810-020098</p>
+                <p class="m-0"><span class="text-primary fw-bold">Mail: </span>info@smta-group.com</p>
+
             </div>
 
             <div class="col-lg-4 col-md-12 col-sm-12">
