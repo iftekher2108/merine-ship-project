@@ -6,6 +6,16 @@ console.log($('.slick-slide'))
 
 // })
 
+// navigation hover effect menu show
+$('.menu ul li a.dropdown-toggle,.dropdown-menu').on('mouseenter',function(){
+  $('.dropdown-menu').addClass('show');
+})
+$('.dropdown').on('mouseleave',function(){
+  $('.dropdown-menu').removeClass('show');
+})
+// navigation hover effect menu show
+
+
 $('.custom-slide').slick({
 //     slidesToShow: 1,
 //   slidesToScroll: 1,
@@ -69,4 +79,23 @@ $('.partner-slide').slick({
         $('.info-content,.navbar-nav').slideDown(300);
         
       }
+    })
+
+
+    // mirpur office
+    $(".smta-1").click(function(){
+      $('.office-1').siblings().fadeOut(300);
+      $(".office-1").fadeIn(300);
+      $(this).siblings().removeClass('text-white bg-primary').addClass('text-primary')
+      $(this).addClass('text-white bg-primary');
+      
+    })
+
+    // dhaka office 
+    $(".smta-2").click(function(){
+      $('.office-2').siblings().fadeOut(300);
+      $(".office-2").fadeIn(300);
+      $(this).siblings().removeClass('text-white bg-primary').addClass('text-primary')
+      $(this).addClass('text-white bg-primary');
+  
     })

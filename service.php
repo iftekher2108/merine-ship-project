@@ -23,8 +23,56 @@
         <div class="p-5">
 
             <div class="py-2">
-                <h2 class="text-uppercase display-5 text-primary mb-4 text-center fw-bold">marine services</h2>
-                <div class="row  justify-content-between mx-0 my-4">
+                <h2 class="text-uppercase display-5 text-primary mb-4 text-center fw-bold">Our services</h2>
+                <div class="py-4 my-3">
+
+        <div class="service row g-3">
+
+            <div class="col-lg-4 col-md-6 col-sm-12">
+                <div class="card bg-primary text-white rounded p-4">
+                    <h2 class="text-uppercase fw-bold mb-3">Dredging and engineering</h2>
+                    <p>
+
+
+                        Maintenance dredging removes unwanted silt, sand or sludge from existing channels, lakes,
+                        ponds and rivers. Performed by our long-reach excavator, we improve ...
+
+
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 col-sm-12">
+                <div class="card bg-primary text-white rounded p-4">
+                    <h2 class="text-uppercase fw-bold mb-3">Shipping and Merine</h2>
+                    <p>
+                        SMTA specializes in small and medium fabrication for structures and equipment used in the
+                        renewable energy, marine, and offshore oil and gas industries…
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 col-sm-12">
+                <div class="card bg-primary text-white rounded p-4">
+                    <h2 class="text-uppercase fw-bold mb-3">Constraction and Engineering</h2>
+                    <p>
+                        SMTA Marin for many years has been called upon for towage projects across the Bay of Bangle,
+                        Gulf and red sea. We offer a wide range of services to our customers...
+                    </p>
+                </div>
+            </div>
+
+        </div>
+
+
+    </div>
+               
+               
+               
+               
+               
+               
+                <!-- <div class="row  justify-content-between mx-0 my-4">
                     <div class="col">
                         <div class="bg-primary text-white p-3">
                             <span class="display-5 mb-1">
@@ -79,9 +127,8 @@
                         </div>
                     </div>
 
+                </div> -->
 
-
-                </div>
             </div>
 
 

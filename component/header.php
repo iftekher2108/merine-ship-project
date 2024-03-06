@@ -32,11 +32,11 @@
                     </div>
 
                     <div class="d-flex gap-3 align-items-center flex-wrap">
-                        <div class="d-flex align-items-center gap-2  text-white">
+                        <div class="d-flex align-items-center gap-2 text-dark fw-bold">
                             <span class=" text-primary"><i class="fa-solid fs-4 fa-envelope"></i></span>
                             <p class="p-0 m-0">info@smta-group.com</p>
                         </div>
-                        <div class="d-flex align-items-center gap-2 text-white">
+                        <div class="d-flex align-items-center gap-2 text-dark fw-bold">
                             <span class=" text-primary"><i class="fa-solid fs-4 fa-square-phone"></i></span>
                             <p class="p-0 m-0">+880 1810-020098</p>
                         </div>
@@ -57,7 +57,7 @@
             </div>
 
 
-            <nav class="navbar menu  navbar-expand-lg">
+            <nav class="navbar menu navbar-expand-lg">
                 <div class="container">
 
                     <a class="navbar-brand" href="index.html">
@@ -69,13 +69,13 @@
                         <i class="fa-solid text-white p-1 fs-3 fa-bars"></i>
                     </button>
 
-                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <div class="collapse  navbar-collapse" id="navbarSupportedContent">
 
                         <ul class="navbar-nav gap-2 ms-auto mb-2 mb-lg-0 me-2">
 
                             <li class="nav-item"><a href="./index.php" class="nav-link active"> Home </a></li>
                             <li class="nav-item"><a href="" class="nav-link"> About </a></li>
-                            <li class="nav-item"><a href="./service.html" class="nav-link"> Services </a></li>
+                            <li class="nav-item"><a href="./service.php" class="nav-link"> Services </a></li>
 
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"

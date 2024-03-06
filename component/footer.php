@@ -42,7 +42,7 @@
         </div>
 
         <hr class="border-primary">
-        <p class="text-white text-center small">© 2024 SMTA-Group, All rights reserved <br>
+        <p class="text-white ms-3 small">© 2024 SMTA-Group, All rights reserved
             Developed By <span class=" fw-bold text-orange">Innovative Soft</span></p>
     </footer>
 
