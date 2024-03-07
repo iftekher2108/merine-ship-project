@@ -25,19 +25,19 @@
         <div class="col-lg-6 col-md-12 col-sm-12">
             <h3>Office Information</h3>
             <div class="row g-3 mt-3">
-                <div class="col-lg-4 col-md-12 col-sm-12">
+                <div class="col-lg-5 col-md-12 col-sm-12">
 
                     <div class="border border-1 border-primary cursor-pointer">
-                        <h5 class="mb-0 text-white smta-1 p-2 bg-primary">SMTA Dhaka</h5>
-                        <h5 class="mb-0 text-primary smta-2 p-2">SMTA Mirpur</h5>
+                        <h5 class="mb-0 text-white smta-1 p-2 bg-primary">Corporate Office</h5>
+                        <h5 class="mb-0 text-primary smta-2 p-2">Chittagong Office</h5>
                     </div>
 
 
 
                 </div>
-                <div class="col-lg-8 col-md-12 col-sm-12 position-relative">
+                <div class="col-lg-7 col-md-12 col-sm-12 position-relative">
                     <div class="office-1 position-absolute">
-                        <h4 class="text-uppercase fw-bold">Dhaka Address</h4>
+                        <h4 class="text-uppercase fw-bold">Corporate Address</h4>
                         <div class="w-25">
                             <hr>
                         </div>
@@ -55,14 +55,14 @@
                     </div>
 
                     <div class="office-2 hide position-absolute">
-                        <h4 class="text-uppercase fw-bold">Mirpur Address</h4>
+                        <h4 class="text-uppercase fw-bold">Chittagong Address</h4>
                         <div class="w-25">
                             <hr>
                         </div>
                         <div>
                             <span class="fw-bold text-primary">Address: </span>
                             <p>House: 517/3, Road: 10, <br>
-                                DOHS Baridhara, Dhaka <br>
+                                DOHS, Chittagong <br>
                                 Bangladesh</p>
                         </div>
 
@@ -83,29 +83,29 @@
 
                     <div class="col-lg-6 col-md-12 col-sm-12">
                         <div class="form-floating border-1 border-bottom border-primary mb-3">
-                            <input type="text" class="form-control border-0 shadow-none " id="floatingInput" placeholder="name@example.com">
-                            <label for="floatingInput" class="text-primary">Full Name</label>
+                            <input type="text" class="form-control border-0 shadow-none " id="floatingInput1" placeholder="name@example.com">
+                            <label for="floatingInput1" class="text-primary">Full Name</label>
                         </div>
                     </div>
 
                     <div class="col-lg-6 col-md-12 col-sm-12">
                         <div class="form-floating border-1 border-bottom border-primary mb-3">
-                            <input type="email" class="form-control border-0 shadow-none" id="floatingInput" placeholder="name@example.com">
-                            <label for="floatingInput" class="text-primary">Email Address</label>
+                            <input type="email" class="form-control border-0 shadow-none" id="floatingInput2" placeholder="name@example.com">
+                            <label for="floatingInput2" class="text-primary">Email Address</label>
                         </div>
                     </div>
 
                     <div class="col-lg-6 col-md-12 col-sm-12">
                         <div class="form-floating border-1 border-bottom border-primary mb-3">
-                            <input type="text" class="form-control border-0 shadow-none" id="floatingInput" placeholder="name@example.com">
-                            <label for="floatingInput" class="text-primary">Email Address</label>
+                            <input type="text" class="form-control border-0 shadow-none" id="floatingInput3" placeholder="name@example.com">
+                            <label for="floatingInput3" class="text-primary">Email Address</label>
                         </div>
                     </div>
 
                     <div class="col-lg-6 col-md-12 col-sm-12">
                         <div class="form-floating border-1 border-bottom border-primary mb-3">
-                            <input type="text" class="form-control border-0 shadow-none" id="floatingInput" placeholder="name@example.com">
-                            <label for="floatingInput" class="text-primary">Email Address</label>
+                            <input type="text" class="form-control border-0 shadow-none" id="floatingInput4" placeholder="name@example.com">
+                            <label for="floatingInput4" class="text-primary">Email Address</label>
                         </div>
                     </div>
 

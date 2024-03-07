@@ -7,7 +7,8 @@ console.log($('.slick-slide'))
 // })
 
 // navigation hover effect menu show
-$('.menu ul li a.dropdown-toggle,.dropdown-menu').on('mouseenter',function(){
+$('.menu ul li a.dropdown-toggle,.dropdown-menu').on('mouseenter',function(e){
+  e.preventDefault();
   $('.dropdown-menu').addClass('show');
 })
 $('.dropdown').on('mouseleave',function(){
