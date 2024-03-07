@@ -27,7 +27,6 @@
 
         .dropdown-menu .dropdown-submenu {
             display: none;
-            // position: absolute;
             position: static;
             left: 25%;
             top: 7px;
@@ -431,11 +430,9 @@
         
         .dropdown-menu .dropdown-submenu {
             display: none;
-            // position: absolute;
             position: static;
             left: 25%;
             top: 7px;
-
             transition: all 0.3s ease-in-out;
             -webkit-transition: all 0.3s ease-in-out;
             -moz-transition: all 0.3s ease-in-out;

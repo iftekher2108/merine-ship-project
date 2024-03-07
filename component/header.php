@@ -15,6 +15,7 @@
     <!-- slick style -->
     <link rel="stylesheet" href="./assets/plugins/slick/slick.css">
     <link rel="stylesheet" href="./assets/plugins/slick/slick-theme.css">
+    
     <!-- custom style -->
     <link rel="stylesheet" href="./assets/src/css/style.css">
     <link rel="stylesheet" href="./assets/src/scss/responsive.min.css">
