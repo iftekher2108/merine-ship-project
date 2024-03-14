@@ -1,4 +1,4 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
 
 * {
@@ -11,8 +11,6 @@
 
 
 html {
-    margin: 0;
-    padding: 0;
     overflow-x: hidden;
 }
 
@@ -24,18 +22,26 @@ html {
     display: none;
 }
 
-/* h1,h2,h3,h4,h5,h6 {
-font-family: "Roboto", sans-serif;
-  font-weight: 700;
-  font-style: normal;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
 }
 
-p,span,button,a{
+p,
+span,
+button,
+a {
     font-family: "Open Sans", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
-} */
+}
 
 
 
@@ -50,8 +56,17 @@ p,span,button,a{
     background: var(--sp-thin-light);
 } */
 
+.nav-menu {
+    transition: all 0.3s linear;
+    -webkit-transition: all 0.3s linear;
+    -moz-transition: all 0.3s linear;
+    -ms-transition: all 0.3s linear;
+    -o-transition: all 0.3s linear;
+}
 
 .menu ul li {
+    white-space: nowrap;
+    padding: 0.2rem;
     transition: all 0.3s ease-in-out;
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
@@ -59,8 +74,12 @@ p,span,button,a{
     -o-transition: all 0.3s ease-in-out;
 }
 
+.menu ul li:focus a {
+    border: 1px dashed black !important;
+}
 
 .menu ul li a {
+    color: var(--bs-dark);
     font-weight: bold;
     padding: 0.2rem;
     transition: all 0.3s ease-in-out;
@@ -71,8 +90,6 @@ p,span,button,a{
     position: relative;
 }
 
-.menu ul li a.dropdown:hover .dropdown-menu {
-}
 
 .menu ul li a.dropdown-toggle::after {
     color: var(--sp-primary);
@@ -89,6 +106,7 @@ p,span,button,a{
 }
 
 .dropdown-menu li {
+    font-size: 14px;
     position: relative;
     transition: all 0.3s ease-in-out;
     -webkit-transition: all 0.3s ease-in-out;
@@ -96,7 +114,8 @@ p,span,button,a{
     -ms-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
 }
-.dropdown-menu .dropdown-item i{
+
+.dropdown-menu .dropdown-item i {
     margin-left: 1rem;
 }
 
@@ -118,7 +137,7 @@ p,span,button,a{
     left: auto;
 }
 
-.dropdown-menu>li:is(:focus,:hover)>.dropdown-submenu {
+.dropdown-menu>li:is(:focus, :hover)>.dropdown-submenu {
     display: block;
 }
 
@@ -174,7 +193,7 @@ p,span,button,a{
 /* dropdown menu animation */
 
 
-.menu ul li a::before {
+.menu ul li.nav-item a::before {
     content: '';
     position: absolute;
     top: 100%;
@@ -196,14 +215,14 @@ p,span,button,a{
     -o-border-radius: 5px;
 }
 
-.menu ul li a:hover::before {
+.menu ul li.nav-item a:hover::before {
     width: 100%;
     background: var(--sp-primary);
 
 }
 
-
-.menu ul li a.active {
+.menu .active {
+    white-space: nowrap;
     background: var(--sp-primary);
     color: white !important;
     padding: 0.2rem 0.8rem !important;
@@ -223,12 +242,42 @@ p,span,button,a{
     background: transparent;
 }
 
-/* ======================= custom slide ============================= */
+a.exchange {
+    text-decoration: none;
+}
 
+/* ======================= custom slide ============================= */
 
 .custom-slide {
     min-height: 100%;
 }
+
+/* ======================= custom slide ============================= */
+
+
+/* ========================== mission vision block-img  ====================================== */
+.block-img {
+    overflow: hidden;
+}
+
+.block-img img {
+    transition: all 0.4s ease-in-out;
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+}
+
+.block-img:hover img {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+
+/* ========================== mission vision block-img  ====================================== */
+
 
 /* ====================== about us ========================== */
 .about-us {
@@ -291,11 +340,11 @@ p,span,button,a{
 }
 
 .client .card:hover img {
-    transform: scale(0.8);
-    -webkit-transform: scale(0.8);
-    -moz-transform: scale(0.8);
-    -ms-transform: scale(0.8);
-    -o-transform: scale(0.8);
+    transform: scale(0.9);
+    -webkit-transform: scale(0.9);
+    -moz-transform: scale(0.9);
+    -ms-transform: scale(0.9);
+    -o-transform: scale(0.9);
 }
 
 
@@ -310,6 +359,7 @@ p,span,button,a{
     background-size: cover;
     background-attachment: scroll;
 }
+
 .service .card {
     transition: all 0.4s ease-in-out;
     -webkit-transition: all 0.4s ease-in-out;
@@ -322,9 +372,10 @@ p,span,button,a{
     box-shadow: var(--sp-box-shadow);
     background: var(--sp-primary) !important;
     margin-top: -10px;
-} 
-.service .card:hover :where(h2,p) {
-   color: white !important; 
+}
+
+.service .card:hover :where(h2, p) {
+    color: white !important;
 }
 
 /* ========================= services ================================== */
@@ -332,6 +383,7 @@ p,span,button,a{
 
 /* ============================= our value ============================== */
 .card-content {
+    overflow: hidden;
     transition: all 0.4s ease-in-out;
     -webkit-transition: all 0.4s ease-in-out;
     -moz-transition: all 0.4s ease-in-out;
@@ -351,6 +403,23 @@ p,span,button,a{
 .card-content:hover .content {
     opacity: 0;
 }
+
+.card-content img {
+    transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+}
+
+.card-content:hover img {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+
 
 /* .card-content .content:hover {
     background: rgba(var(--sp-secondary-bg-rgb), var(--sp-bg-opacity-50));
@@ -445,6 +514,27 @@ p,span,button,a{
 
 }
 
+.latest-news .news-slide .slide {
+    overflow: hidden;
+
+}
+
+.latest-news .news-slide .slide img {
+    transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+}
+
+.latest-news .news-slide .slide:hover img {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+
 .latest-news .news-content {
     background: linear-gradient(to bottom, transparent, rgba(0, 0, 0, 0.8));
 }
@@ -502,6 +592,8 @@ p,span,button,a{
 }
 
 :where(.quick-link, .widget-3) ul li a {
+    text-decoration: none;
+    color: white;
     transition: all 0.3s ease-in-out;
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
@@ -539,7 +631,11 @@ p,span,button,a{
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
-
+    transform: translateY(-7px);
+    -webkit-transform: translateY(-7px);
+    -moz-transform: translateY(-7px);
+    -ms-transform: translateY(-7px);
+    -o-transform: translateY(-7px);
 }
 
 /* ========================== footer ======================================= */
@@ -580,8 +676,53 @@ p,span,button,a{
     background: transparent !important;
 }
 
+.contact-us form :where(input[type=text], input[type=email], textarea,select):focus {
+    border: 1px dashed black !important;
+
+}
+
 .contact-us form :where(input[type=text], input[type=email], textarea):focus+label::after {
     background: transparent !important;
+}
+
+.contact-menu {
+    display: none;
+    background: rgba(0, 0, 0, 0.4);
+}
+
+.slide-menu .slide-2 {
+    animation: right_slide 0.5s 0.1s ease forwards;
+    -webkit-animation: right_slide 0.5s 0.1s ease forwards;
+}
+
+.slide-menu .slide-1 {
+    animation: right_slide 0.5s ease forwards;
+    -webkit-animation: right_slide 0.5s ease forwards;
+}
+
+@keyframes right_slide {
+    0% {
+        transform: translateX(100%);
+        -webkit-transform: translateX(100%);
+        -moz-transform: translateX(100%);
+        -ms-transform: translateX(100%);
+        -o-transform: translateX(100%);
+}
+
+    100% {
+        transform: translateX(0%);
+        -webkit-transform: translateX(0%);
+        -moz-transform: translateX(0%);
+        -ms-transform: translateX(0%);
+        -o-transform: translateX(0%);
+}
+}
+
+
+.contact-section {
+    height: 100vh;
+    overflow-y: scroll;
+
 }
 
 /* ============================== contact us page ================================================= */

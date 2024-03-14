@@ -2,12 +2,6 @@
 
 @media screen and (max-width: 576px) {
 
-    .menu-section {
-        padding: 0 !important;
-
-        // .menu-toggle {
-
-        // }
         .menu {
             background: transparent;
 
@@ -44,8 +38,6 @@
             left: auto;
         }
 
-
-    }
 
     // hero-slide section
     .custom-slide {
@@ -375,36 +367,24 @@
             z-index: 2;
         }
 
-        [dir='rtl'] .slick-prev {
-            right: -25px;
-            left: auto;
-        }
+
 
         .slick-prev:before {
             content: '‹';
         }
 
-        [dir='rtl'] .slick-prev:before {
-            content: '→';
-        }
 
         .slick-next {
             right: 3%;
 
         }
 
-        [dir='rtl'] .slick-next {
-            right: auto;
-            left: -25px;
-        }
+
 
         .slick-next:before {
             content: '›';
         }
 
-        [dir='rtl'] .slick-next:before {
-            content: '←';
-        }
 
 
     }
@@ -416,10 +396,10 @@
 // =========================================== 992px ==================================================
 
 @media screen and (max-width: 992px) {
-    .menu-section {
 
         .navbar-nav {
             padding: 1rem;
+            width: 100%;
             background: var(--sp-thin-light);
             border-radius: 10px;
             -webkit-border-radius: 10px;
@@ -440,7 +420,6 @@
             -o-transition: all 0.3s ease-in-out;
         }
 
-    }
 
 
     // hero-slide section

@@ -3,35 +3,26 @@
 
 <!-- main section  -->
 <div class="news-hero position-relative">
-    <img src="./assets/images/services-bg.jpg" class="img-fluid" alt="feature-img">
+    <img src="./assets/images/new-events.jpg" class="img-fluid" alt="feature-img">
 
     <div class="feature-content position-absolute text-white px-4 top-50 translate-middle-y">
-        <h1 class="fw-bold">News And Events</h1>
-        <p class="small">short description</p>
+        <h1 class="display-4 fw-bold text-uppercase">News And Events</h1>
+        <p class="small col-lg-6 col-md-8 col-sm-10">
+            A short description is a short piece of text that supports the app title. Once Play Store users land on your app's store listing page, the first screen they see ...
+        </p>
     </div>
 
 </div>
 
 <div class="container-fluid">
 
-
-    <nav aria-label="breadcrumb" class="my-3 ms-3">
-        <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="#">Home</a></li>
-            <li class="breadcrumb-item"><a href="#">Library</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Data</li>
-        </ol>
-    </nav>
-
-    <hr>
-
     <div class="row g-2 m-0 py-4">
 
-        <div class="col-xxl-8 col-xl-8 col-lg-8 col-md-12 col-sm-12 p-2">
+        <div class="col-xxl-8 col-xl-8 col-lg-8 col-md-12 col-sm-12 m-auto p-2">
             <h1 class="text-primary text-capitalize fw-bold">news Events title here</h1>
             <hr>
-            <div class="d-flex align-items-center justify-content-between mb-4">
-                <p class="p-0 m-0"><span class="text-primary fw-bold">Catagory: </span><a href="" class="text-decoration-none">Catagory </a> | <a href="" class="text-decoration-none">SubCatagory</a> | <a href="" class="text-decoration-none">Sub sub Catagory</a> </p>
+            <div class="d-flex align-items-center justify-content-end mb-4">
+                <!-- <p class="p-0 m-0"><span class="text-primary fw-bold">Catagory: </span><a href="" class="text-decoration-none">Catagory </a> | <a href="" class="text-decoration-none">SubCatagory</a> </p> -->
                 <p class="p-0 m-0"><span class="text-primary fw-bold">Date: </span>29 Feb 2024</p>
             </div>
             <div class="news-content text-justify">
@@ -67,28 +58,16 @@
                 </p>
             </div>
 
-            <div class="col-lg-8 col-md-8 col-sm-8">
-
-                <div class="d-flex gap-1 flex-wrap">
-                    <?php
-                    for ($i = 0; $i < 25; $i++) {
-                    ?>
-                        <span class="badge bg-primary">Tags<?php echo $i; ?></span>
-                    <?php } ?>
-                </div>
-
-            </div>
-
-
-
 
         </div>
 
-        <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-12 col-sm-12">
+        <!-- <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-12 col-sm-12">
             <div class="letest-news-section border border-1 border-primary">
                 <h3 class="fw-bold text-center text-white p-3 bg-primary">Letest News</h3>
                 <div class="p-2">
-                    <?php for ($i = 0; $i < 5; $i++) { ?>
+                    <?php
+                    //  for ($i = 0; $i < 5; $i++) { 
+                    ?>
                         <a class="nav-link news " href="#">
                             <div class="row g-2 mb-2 rounded shadow-sm">
                                 <div class="col-3 mx-0 p-0">
@@ -100,7 +79,8 @@
                                 </div>
                             </div>
                         </a>
-                    <?php } ?>
+                    <?php // } 
+                    ?>
                     <div class="w-100 p-2 mt-2">
                         <a href="#" class="btn btn-primary rounded-0 w-100 text-center">Read More</a>
                     </div>
@@ -108,7 +88,7 @@
                 </div>
             </div>
 
-        </div>
+        </div> -->
 
     </div>
 

@@ -23,8 +23,15 @@
     </div>
 
     <div>
-        <img src="./assets/images/image-3.PNG" class="ratio w-100">
+        <img src="./assets/images/banner-img-3.jpg" class="ratio w-100">
     </div>
+
+    <div>
+        <img src="./assets/images/banner-img-4.jpg" class="ratio w-100">
+    </div>
+    <!-- <div>
+        <img src="./assets/images/image-3.PNG" class="ratio w-100">
+    </div> -->
 
     <div>
         <img src="./assets/images/image-4.PNG" class="ratio w-100">
@@ -58,7 +65,7 @@
                 deserunt sit cum numquam soluta, hic modi ex sequi. Harum, mollitia. Veritatis, delectus!
             </p>
         </div>
-        <div class="col-lg-6 col-md-12 col-sm-12">
+        <div class="col-lg-6 col-md-12 col-sm-12 block-img">
             <img src="./assets/images/welcometoSMTA.jpeg" class="img-fluid w-100" alt="images">
         </div>
 
@@ -70,29 +77,28 @@
 
 <div class="bg-primary">
     <div class="row">
-        <div class="col-lg-6 col-md-12 col-sm-12 p-0 m-0">
+        <div class="col-lg-6 col-md-12 col-sm-12 p-0">
             <div class="mv-content text-white p-4">
                 <span class="display-5"><i class="fa-solid fa-ferry"></i></span>
                 <h1 class="text-uppercase fw-bold mb-2">Our Mission</h1>
-                <h4 class="text-uppercase fw-bold mb-2">MISSION CHARTERING</h4>
+                <h4 class="text-uppercase fw-bold mb-2">Innovation for Progress</h4>
                 <p>
-                    SMTA Group provides sustainable towage and related services to the maritime industry, always
-                    exceeding the clients’ expectations in the Republic of Bangladesh.
+                    SMTA is dedicated to pushing the boundaries of maritime technology and design. We strive to develop and implement innovative solutions that enhance efficiency, safety, and performance in every aspect of our vessels.
                 </p>
                 <p class="d-none d-lg-block d-xl-block d-xxl-block">
-                    The SMTA culture represents the maritime spirit of a 24/7 attitude, combined with a
+                    We culture represents the maritime spirit of a 24/7 attitude, combined with a
                     determination to comply with the promises and to satisfy its clients and business relations.
                 </p>
             </div>
         </div>
-        <div class="col-lg-6 col-md-12 col-sm-12 ps-0 m-0">
-            <img src="./assets/images/Mission.jpg" class="img-fluid w-100 m-0 p-0" alt="image">
+        <div class="col-lg-6 col-md-12 col-sm-12 block-img p-0 m-0">
+            <img src="./assets/images/Mission.jpg" class="img-fluid w-100 p-0 m-0" alt="image">
         </div>
 
     </div>
 
     <div class="row">
-        <div class="col-lg-6 col-md-12 col-sm-12 pe-lg-0 pe-sm-auto">
+        <div class="col-lg-6 col-md-12 col-sm-12 pe-lg-0 block-img pe-sm-auto">
             <img src="./assets/images/Our-vision.jpg" class="img-fluid w-100 m-0 p-0" alt="image">
         </div>
         <div class="col-lg-6 col-md-12 col-sm-12 p-0 m-0">
@@ -160,7 +166,7 @@
             <div class="col">
                 <div class="about-content text-white text-center text-truncate">
                     <span class="display-3 mb-2"><i class="fa-solid fa-people-line"></i></span>
-                    <h1 class="mb-2 text-uppercase fw-bold">200+</h1>
+                    <!-- <h1 class="mb-2 text-uppercase fw-bold">200+</h1> -->
                     <P class="small">SMTA Group employees</P>
                 </div>
             </div>
@@ -179,7 +185,7 @@
             <div class="col">
                 <div class="about-content text-white text-center text-truncate">
                     <span class="display-3 mb-2"><i class="fa-solid fa-ferry"></i></span>
-                    <h1 class="mb-2 text-uppercase fw-bold">800+</h1>
+                    <!-- <h1 class="mb-2 text-uppercase fw-bold">800+</h1> -->
                     <P class="small">vessels</P>
                 </div>
             </div>
@@ -198,7 +204,7 @@
             <div class="col">
                 <div class="about-content text-white text-center text-truncate">
                     <span class="display-3 mb-2"><i class="fa-solid fa-building-columns"></i></span>
-                    <h1 class="mb-2 text-uppercase fw-bold">22.5</h1>
+                    <!-- <h1 class="mb-2 text-uppercase fw-bold">22.5</h1> -->
                     <P class="small">million TEU (estimated)</P>
                 </div>
             </div>
@@ -217,7 +223,7 @@
             <div class="col">
                 <div class="about-content text-white text-center text-truncate">
                     <span class="display-3 mb-2"><i class="fa-solid fa-city"></i></span>
-                    <h1 class="mb-2 text-uppercase fw-bold">675</h1>
+                    <!-- <h1 class="mb-2 text-uppercase fw-bold">675</h1> -->
                     <P class="small">offices</P>
                 </div>
             </div>
