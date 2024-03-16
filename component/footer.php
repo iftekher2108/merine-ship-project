@@ -1,7 +1,7 @@
 <footer class="bg-black p-3">
-    <div class="row g-3 p-7 align-items-center">
+    <div class="row g-3 p-7">
 
-        <div class="col-lg-3 col-md-4 col-sm-12 align-self-start text-white">
+        <div class="col-lg-3 col-md-4 col-sm-12 text-white">
             <div>
                 <img src="./assets/images/logo-2.png" class="mb-3" width="250" alt="logo">
             </div>
@@ -19,11 +19,11 @@
         </div>
 
 
-        <div class="col-lg-3 col-md-8 col-sm-12 align-self-center text-white">
+        <div class="col-lg-3 col-md-8 col-sm-12 text-white">
         </div>
 
 
-        <div class="col-lg-3 col-md-8 col-sm-12 align-self-center">
+        <div class="col-lg-3 col-md-8 col-sm-12">
             <h3 class="fw-bold text-uppercase text-primary">Quick Link</h3>
             <div class="quick-link ">
                 <ul class="list-unstyled small ms-4">

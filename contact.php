@@ -215,7 +215,7 @@
 
                                                             <div class="col-lg-12 col-md-12 col-sm-12">
                                                                 <div class="mb-3">
-                                                                    <input type="checkbox" class="form-check-input confirm me-2" name="" id="floatingTextarea2">
+                                                                    <input type="checkbox" class="form-check-input border-primary confirm me-2" name="" id="floatingTextarea2">
                                                                     <label for="confirm" class="form-check-label">I agree with your <span class="text-primary">Tarm & Condition</span></label>
                                                                 </div>
                                                             </div>
@@ -366,7 +366,7 @@
 
                                                             <div class="col-lg-12 col-md-12 col-sm-12">
                                                                 <div class="mb-3">
-                                                                    <input type="checkbox" class="form-check-input confirm me-2" name="" id="floatingTextarea2">
+                                                                    <input type="checkbox" class="form-check-input border-primary confirm me-2" name="" id="floatingTextarea2">
                                                                     <label for="confirm" class="form-check-label">I agree with your <span class="text-primary">Tarm & Condition</span></label>
                                                                 </div>
                                                             </div>
@@ -515,7 +515,7 @@
 
                                                             <div class="col-lg-12 col-md-12 col-sm-12">
                                                                 <div class="mb-3">
-                                                                    <input type="checkbox" class="form-check-input confirm me-2" name="" id="floatingTextarea2">
+                                                                    <input type="checkbox" class="form-check-input border-primary confirm me-2" name="" id="floatingTextarea2">
                                                                     <label for="confirm" class="form-check-label">I agree with your <span class="text-primary">Tarm & Condition</span></label>
                                                                 </div>
                                                             </div>

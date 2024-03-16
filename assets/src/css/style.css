@@ -74,12 +74,9 @@ a {
     -o-transition: all 0.3s ease-in-out;
 }
 
-.menu ul li:focus a {
-    border: 1px dashed black !important;
-}
 
 .menu ul li a {
-    color: var(--bs-dark);
+    color: var(--sp-primary);
     font-weight: bold;
     padding: 0.2rem;
     transition: all 0.3s ease-in-out;
@@ -96,7 +93,7 @@ a {
 }
 
 .menu ul li .dropdown-menu {
-    background: rgba(255, 255, 255, 0.26);
+    background: rgba(0, 0, 0, 0.1);
     backdrop-filter: blur(2px);
     padding: 1rem;
 }
@@ -214,6 +211,7 @@ a {
     -ms-border-radius: 5px;
     -o-border-radius: 5px;
 }
+
 
 .menu ul li.nav-item a:hover::before {
     width: 100%;
@@ -699,6 +697,7 @@ a.exchange {
     animation: right_slide 0.5s ease forwards;
     -webkit-animation: right_slide 0.5s ease forwards;
 }
+
 
 @keyframes right_slide {
     0% {

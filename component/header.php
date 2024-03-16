@@ -65,7 +65,7 @@
                     <div class="collapse m-auto navbar-collapse" id="navbarSupportedContent">
 
                         <div class="d-flex align-items-center justify-content-around w-100">
-                            <ul class="navbar-nav align-items-center w-100 justify-content-around m-auto small mb-lg-0">
+                            <ul class="navbar-nav align-items-center w-100 justify-content-around m-auto text-primary small mb-lg-0">
 
                                 <li class="nav-item"><a href="./index.php" class="nav-link"> Home </a></li>
                                 <li class="nav-item"><a href="" class="nav-link"> About </a></li>
@@ -73,14 +73,69 @@
 
                                 <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                        Business
+                                        Enterprise
                                     </a>
                                     <ul class="dropdown-menu animate slideIn" aria-labelledby="dropdownMenuButton">
-                                        <li><a class="dropdown-item" href="#">items-1</a></li>
+                                        <!-- <li><a class="dropdown-item" href="#">Constraction and Engineering</a></li>
                                         <li>
-                                            <a class="dropdown-item" href="#">item-2</a>
+                                            <a class="dropdown-item" href="#">Shipping and Merine Services</a>
+                                        </li> -->
+
+                                        <li>
+                                            <a class="dropdown-item">
+                                                Dredging <i class="fa-solid small fa-caret-right"></i>
+                                            </a>
+                                            <ul class="dropdown-menu dropdown-submenu animate slideIn">
+                                                <li>
+                                                    <a class="dropdown-item" href="#">Dredging and engineering
+                                                         <!-- <i class="fa-solid small fa-caret-right"></i> -->
+                                                         </a>
+                                                    <!-- <ul class="dropdown-menu dropdown-submenu animate slideIn">
+                                                        <li>
+                                                            <a class="dropdown-item" href="#">Sub sub item 5</a>
+                                                        </li>
+                                                        <li>
+                                                            <a class="dropdown-item" href="#">Multi level 2</a>
+                                                        </li>
+                                                    </ul> -->
+                                                </li>
+
+                                            </ul>
                                         </li>
+
                                         <li>
+                                            <a class="dropdown-item" href="#">Shipping/Constraction <i class="fa-solid small fa-caret-right"></i> </a>
+                                            <ul class="dropdown-menu dropdown-submenu animate slideIn">
+                                                <li>
+                                                    <a class="dropdown-item" href="#">M/S SMTA Shipping and Merine Services</a>
+                                                </li>
+                                                <li>
+                                                    <a class="dropdown-item" href="#">M/S SMTA Constraction and Engineering</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+
+                                        <!-- <li>
+                                            <a class="dropdown-item">
+                                                items-3 <i class="fa-solid small fa-caret-right"></i>
+                                            </a>
+                                            <ul class="dropdown-menu dropdown-submenu animate slideIn">
+                                                <li>
+                                                    <a class="dropdown-item" href="#">Shipping/Constraction <i class="fa-solid small fa-caret-right"></i> </a>
+                                                    <ul class="dropdown-menu dropdown-submenu animate slideIn">
+                                                        <li>
+                                                            <a class="dropdown-item" href="#">M/S SMTA Shipping and Merine Services</a>
+                                                        </li>
+                                                        <li>
+                                                            <a class="dropdown-item" href="#">M/S SMTA Constraction and Engineering</a>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+
+                                            </ul>
+                                        </li> -->
+
+                                        <!-- <li>
                                             <a class="dropdown-item">
                                                 items-3 <i class="fa-solid small fa-caret-right"></i>
                                             </a>
@@ -125,21 +180,22 @@
                                                     </ul>
                                                 </li>
                                             </ul>
-                                        </li>
+                                        </li> -->
+
                                     </ul>
                                 </li>
-                            <li class="nav-item"><a href="" class="nav-link"> Gellery </a></li>
+                                <li class="nav-item"><a href="" class="nav-link"> Gellery </a></li>
 
-                            <a class="navbar-brand d-lg-block mx-5 m-auto d-md-none d-none" href="index.php">
-                                <img src="./assets/images/logo-2.png" width="230" class="img-fluid  z-4" alt="logo">
-                            </a>
+                                <a class="navbar-brand d-lg-block mx-5 m-auto d-md-none d-none" href="index.php">
+                                    <img src="./assets/images/logo-2.png" width="230" class="img-fluid  z-4" alt="logo">
+                                </a>
 
                                 <li class="nav-item"><a href="./news.php" class="nav-link"> News & Evants</a></li>
                                 <li class="nav-item"><a href="" class="nav-link">Career</a></li>
                                 <li class="nav-item"><a href="./contact.php" class="nav-link">Contact Us</a></li>
-                                
+
                                 <li class="ms-lg-4">
-                                        <a href="https://www.bb.org.bd/en/index.php/econdata/exchangerate" target="_blank" class=" bg-primary exchange py-2 px-5 rounded-pill">Exchange Rate</a>
+                                    <a href="https://www.bb.org.bd/en/index.php/econdata/exchangerate" target="_blank" class=" bg-primary exchange text-white py-2 px-5 rounded-pill">Exchange Rate</a>
                                 </li>
                             </ul>
 
@@ -160,7 +216,7 @@
                                 </ul>
 
                             </li> -->
-                        
+
 
 
 

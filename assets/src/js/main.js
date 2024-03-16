@@ -177,7 +177,7 @@ $(document).ready(function () {
     function (res, textStatus, jqXHR) {
       $.each(res.data, function (index, value) {
         var html = `<option value="${value.country}">${value.country}</option>`;
-        console.log(html);
+        // console.log(html);
         $('.country-name').append(html)
       })
 
@@ -199,3 +199,4 @@ $('.confirm').click(function () {
   })
 })
 // contact form conform
+
