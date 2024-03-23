@@ -3,7 +3,7 @@
 
         <div class="col-lg-3 col-md-4 col-sm-12 text-white">
             <div>
-                <img src="./assets/images/logo-2.png" class="mb-3" width="250" alt="logo">
+                <img src="./assets/images/SMTA-foot.png" class="mb-3" width="250" alt="logo">
             </div>
             <div class="small ms-2">
              <p class="m-0">

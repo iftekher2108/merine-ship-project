@@ -17,19 +17,20 @@ console.log($('.slick-slide'))
 
 // navigation hover effect menu show
 
-$('.dropdown-item').on('mouseenter click mouseleave focus blur', function (e) {
+$('.dropdown-item').on('mouseenter mouseleave focus blur', function (e) {
   e.preventDefault();
 })
 
 
-$('.menu ul li a.dropdown-toggle,.dropdown-menu').on('mouseenter click', function (e) {
-  e.preventDefault();
+$('.menu ul li a.dropdown-toggle,.dropdown-menu').on('mouseenter click', function () {
+
   $('.dropdown-menu').addClass('show');
 })
-$('.dropdown').on('mouseleave', function (e) {
-  e.preventDefault();
+$('.dropdown').on('mouseleave', function () {
   $('.dropdown-menu').removeClass('show');
 })
+
+
 // navigation hover effect menu show
 
 

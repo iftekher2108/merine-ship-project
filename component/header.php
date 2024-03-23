@@ -27,7 +27,7 @@
 
 
         <!-- nav menu bar -->
-        <div class="nav-menu fixed-top">
+        <div class="nav-menu fixed-top py-2">
 
 
             <!-- <div class="container info-content">
@@ -55,7 +55,7 @@
                 <div class="container">
 
                     <a class="navbar-brand d-lg-none d-md-block d-block" href="index.php">
-                        <img src="./assets/images/logo-2.png" width="100" class="img-fluid z-4 p-0 m-0" alt="logo">
+                        <img src="./assets/images/SMTA-head.png" width="100" class="img-fluid z-4 p-0 m-0" alt="logo">
                     </a>
 
                     <button class="navbar-toggler bg-primary me-3 mb-3 shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -65,7 +65,7 @@
                     <div class="collapse m-auto navbar-collapse" id="navbarSupportedContent">
 
                         <div class="d-flex align-items-center justify-content-around w-100">
-                            <ul class="navbar-nav align-items-center w-100 justify-content-around m-auto text-primary small mb-lg-0">
+                            <ul class="navbar-nav align-items-center w-100 justify-content-around m-auto text-primary mb-lg-0">
 
                                 <li class="nav-item"><a href="./index.php" class="nav-link"> Home </a></li>
                                 <li class="nav-item"><a href="" class="nav-link"> About </a></li>
@@ -83,11 +83,11 @@
 
                                         <li>
                                             <a class="dropdown-item">
-                                                Dredging <i class="fa-solid small fa-caret-right"></i>
+                                                Dredging 
                                             </a>
                                             <ul class="dropdown-menu dropdown-submenu animate slideIn">
                                                 <li>
-                                                    <a class="dropdown-item" href="#">Dredging and engineering
+                                                    <a class="dropdown-item" href="dred-eng.php">Dredging and Engineering
                                                          <!-- <i class="fa-solid small fa-caret-right"></i> -->
                                                          </a>
                                                     <!-- <ul class="dropdown-menu dropdown-submenu animate slideIn">
@@ -104,13 +104,26 @@
                                         </li>
 
                                         <li>
-                                            <a class="dropdown-item" href="#">Shipping/Constraction <i class="fa-solid small fa-caret-right"></i> </a>
+                                            <a class="dropdown-item" href="#">Shipping/ Merine </a>
                                             <ul class="dropdown-menu dropdown-submenu animate slideIn">
                                                 <li>
-                                                    <a class="dropdown-item" href="#">M/S SMTA Shipping and Merine Services</a>
+                                                    <a class="dropdown-item" href="shipping-merine.php">M/S SMTA Shipping and Merine Services</a>
                                                 </li>
-                                                <li>
+                                                <!-- <li>
                                                     <a class="dropdown-item" href="#">M/S SMTA Constraction and Engineering</a>
+                                                </li> -->
+                                            </ul>
+                                        </li>
+
+
+                                        <li>
+                                            <a class="dropdown-item" href="#">Constraction/Engineering </i> </a>
+                                            <ul class="dropdown-menu dropdown-submenu animate slideIn">
+                                                <!-- <li>
+                                                    <a class="dropdown-item" href="#">M/S SMTA Shipping and Merine Services</a>
+                                                </li> -->
+                                                <li>
+                                                    <a class="dropdown-item" href="constraction.php">M/S SMTA Constraction and Engineering</a>
                                                 </li>
                                             </ul>
                                         </li>
@@ -186,8 +199,8 @@
                                 </li>
                                 <li class="nav-item"><a href="" class="nav-link"> Gellery </a></li>
 
-                                <a class="navbar-brand d-lg-block mx-5 m-auto d-md-none d-none" href="index.php">
-                                    <img src="./assets/images/logo-2.png" width="230" class="img-fluid  z-4" alt="logo">
+                                <a class="navbar-brand d-lg-block mx-4 m-auto d-md-none d-none" href="index.php">
+                                    <img src="./assets/images/SMTA-head.png" width="250" class="img-fluid z-4" alt="logo">
                                 </a>
 
                                 <li class="nav-item"><a href="./news.php" class="nav-link"> News & Evants</a></li>
@@ -195,7 +208,7 @@
                                 <li class="nav-item"><a href="./contact.php" class="nav-link">Contact Us</a></li>
 
                                 <li class="ms-lg-4">
-                                    <a href="https://www.bb.org.bd/en/index.php/econdata/exchangerate" target="_blank" class=" bg-primary exchange text-white py-2 px-5 rounded-pill">Exchange Rate</a>
+                                    <a href="https://www.bb.org.bd/en/index.php/econdata/exchangerate" target="_blank" class=" exchange py-2 px-5 rounded-pill">Exchange Rate</a>
                                 </li>
                             </ul>
 

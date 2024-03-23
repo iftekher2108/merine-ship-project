@@ -4,7 +4,7 @@
 <div class="news-hero position-relative">
     <img src="./assets/images/new-events.jpg" class="img-fluid" alt="feature-img">
 
-    <div class="feature-content position-absolute text-white px-4 top-50 translate-middle-y">
+    <div class="feature-content position-absolute bg-dark bg-opacity-30 text-white px-4 top-50 translate-middle-y">
         <h1 class="fw-bold display-3 text-uppercase">Services</h1>
         <p class="small col-lg-6 col-md-8 col-sm-10">
             We are dedicated to understand your needs and to provide solutions that are customized to your
@@ -31,12 +31,8 @@
                     <div class="card bg-primary text-white rounded p-4">
                         <h2 class="text-uppercase fw-bold mb-3">Dredging and engineering</h2>
                         <p>
-
-
                             Maintenance dredging removes unwanted silt, sand or sludge from existing channels, lakes,
                             ponds and rivers. Performed by our long-reach excavator, we improve ...
-
-
                         </p>
                     </div>
                 </div>
@@ -134,42 +130,6 @@
 
     <div class="row bg-primary mb-5 m-1 position-relative">
 
-        <div class="col-lg-6 col-md-6 p-0 m-0 position-absolute bg-primary bg-opacity-50 h-100 top-0 start-0">
-
-            <div class="block-content p-5 mt-2 text-white">
-                <div class="d-flex gap-3 mb-3">
-                    <span class="display-3">
-                        <i class="fa-solid fa-ship"></i>
-                    </span>
-                    <h2 class="fw-bold">MARINE <br>
-                        TOWAGE
-                    </h2>
-                </div>
-
-                <p>
-                    SMTA for many years has been called upon for towage projects across the Bay of Bangle, Gulf
-                    and red sea. We offer a wide range of services to our customers including berthing and
-                    unberthing, escort towage, maneuvering, standby services, firefighting, line handling,
-                    jetty/buoy maintenance, waste management services, pilotage, emergency response, safety
-                    patrol, personnel recovery, personnel transfer and other marine services. SMTA strength is
-                    taking into account individual needs finding the right solution best suited. SMTA has a
-                    dedicated team providing delivered cargo for clients. If something needs to be moved at sea,
-                    SMTA is uniquely placed with expertise understanding, and ability to provide a ‘One‐stop
-                    Shop’. Our qualified crews have immense experience in all aspects of the challenging towage,
-                    SMTA works hard to ensure the project cost and the time targets are met for our clients.
-                </p>
-
-            </div>
-        </div>
-
-        <div class="col-lg-12 col-md-12 p-0 m-0">
-            <img src="./assets/images/service/Marine-Towage.jpg" class="img-fluid w-100 h-100" alt="image">
-        </div>
-
-    </div>
-
-    <div class="row bg-primary mb-5 m-1 position-relative">
-
         <div class="col-lg-12 col-md-12 p-0 m-0">
             <img src="./assets/images/service/Marine-Salvage-1.jpg" class="img-fluid w-100 h-100" alt="image">
         </div>
@@ -181,22 +141,14 @@
                     <span class="display-3">
                         <i class="fa-solid fa-life-ring"></i>
                     </span>
-                    <h2 class="fw-bold">MARINE <br>
-                        SALVAGE
-
+                    <h2 class="fw-bold">
+                        DREDGING AND <br> ENGINEERING
                     </h2>
                 </div>
 
                 <p>
-                    SMTA has been engaged in marine casualty response, pollution defense, wreck removal, cargo
-                    recovery, towage, and related activities. We offer a large variety of services. This is
-                    achieved by having the right combination of vessels and our diving teams, allowing us to
-                    deploy the resources required, for any given job even in extremely remote locations. SMTA’s
-                    main role in any salvage project is the protection of the environment and mitigation of any
-                    losses suffered by ship-owners and their insurers. SMTA understands that today, the
-                    protection of the coastal environment, from spillages of oil, or other contaminants, is a
-                    HIGH PRIORITY! SMTA can mobilize a dedicated crew and equipment to manage or support any
-                    size of the marine salvage
+                    Dredging is an essential process in the field of engineering, particularly in marine and coastal projects. This process involves removing sediment and other unwanted materials from the bottom of water bodies such as rivers, lakes, and oceans. Dredging is necessary to maintain navigation channels, prevent flooding, and preserve the environment.
+                    One of the primary reasons for dredging is to maintain navigation channels. These channels are vital for the transportation of goods and people by water. Sediment and debris can accumulate in these channels over time, reducing the depth and width of the waterway. This can make it difficult for ships and boats to navigate, leading to delays, accidents, and even groundings. Dredging removes the excess sediment, allowing vessels to travel safely and efficiently.
                 </p>
 
             </div>
@@ -209,28 +161,51 @@
         <div class="col-lg-6 col-md-6 p-0 m-0 position-absolute bg-primary bg-opacity-50 h-100 top-0 start-0">
 
             <div class="block-content p-5 mt-2 text-white">
+                <div class="d-flex gap-3 mb-3">
+                    <span class="display-3">
+                        <i class="fa-solid fa-ship"></i>
+                    </span>
+                    <h2 class="fw-bold">SHIPPING AND <br> MERINE</h2>
+                </div>
+
+                <p>
+
+                    As a provider of shipping and marine services, it is important to stay up-to-date on the latest trends and technologies in the industry. With the increased demand for shipping and the growing importance of sustainability, there are several key areas to focus on in order to remain competitive and successful.
+
+                    One of the most important trends in the shipping industry is the move towards more sustainable practices. With concerns about climate change and the impact of shipping on the environment, many companies are looking for ways to reduce their carbon footprint and operate in an eco-friendlier manner. This can include investing in more fuel-efficient ships, using alternative fuels, and implementing recycling and waste reduction programs.
+
+                </p>
+
+            </div>
+        </div>
+
+        <div class="col-lg-12 col-md-12 p-0 m-0">
+            <img src="./assets/images/service/Marine-Towage.jpg" class="img-fluid w-100 h-100" alt="image">
+        </div>
+
+    </div>
+
+
+
+    <div class="row bg-primary mb-5 m-1 position-relative">
+
+        <div class="col-lg-6 col-md-6 p-0 m-0 position-absolute bg-primary bg-opacity-50 h-100 top-0 end-0">
+
+            <div class="block-content p-5 mt-2 text-white">
                 <div class="d-flex gap-3   mb-3">
                     <span class="display-3">
                         <i class="fa-solid fa-user-nurse"></i>
                     </span>
-                    <h2 class="fw-bold">COMMERCIAL <br>
-                        DIVING
-
+                    <h2 class="fw-bold">
+                        CONSTRACTION AND <br> ENGINEERING
                     </h2>
                 </div>
 
                 <p>
-                    SMTA is your premier commercial diving resource, with over 5 years’ involvement in
-                    performing in‐water and underwater projects. our divers will travel whenever and wherever
-                    the job requires (it,) we provide a vast array of commercial diving services to the industry
-                    in any body of water, ranging from small lakes, rivers, and waterways, to the largest ocean,
-                    having multiple dive teams, enabling us to deploy full resources required, to any project
-                    throughout the Republic of Bangladesh and worldwide as well Our diving services includes;
-                    marine salvage & wreck removal, oil and fuel removals, erosion control, underwater welding
-                    and burning, trash racks and gates, storm drains and underwater pipes, culvert maintenance
-                    and inspection, pipe plug installation, dredging and jetting, video inspections, cathodic
-                    protection, barge and rig support, debris removal and clean up, water
-                </p>
+                Steel is a versatile and durable material that has been used in construction and engineering for centuries. Its strength and resilience make it an ideal choice for buildings, bridges, and other structures that need to withstand the test of time. Steel Construction and Engineering is a leading company in the field, committed to providing high-quality steel products and services to clients around the world.
+                At Steel Construction and Engineering, we understand the importance of delivering reliable and cost-effective solutions to our clients. We have a team of experienced engineers and technicians who use state-of-the-art technology to design, fabricate, and construct steel structures that meet the highest standards of quality and safety. From small-scale projects to large-scale developments, we have the expertise and resources to handle any job, no matter how complex.
+            
+            </p>
 
             </div>
         </div>
@@ -248,7 +223,7 @@
             <img src="./assets/images/service/Marine-Salvage-1.jpg" class="img-fluid w-100 " alt="image">
         </div>
 
-        <div class="col-lg-6 col-md-6 p-0 m-0 position-absolute bg-primary bg-opacity-50 h-100 top-0 end-0">
+        <div class="col-lg-6 col-md-6 p-0 m-0 position-absolute bg-primary bg-opacity-50 h-100 top-0 start-0">
 
             <div class="block-content p-5 mt-2 text-white">
                 <div class="d-flex gap-3  mb-3">
@@ -272,6 +247,11 @@
             </div>
         </div>
     </div>
+
+
+
+
+
 
 </div>
 

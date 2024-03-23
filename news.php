@@ -5,7 +5,7 @@
 <div class="news-hero position-relative">
     <img src="./assets/images/new-events.jpg" class="img-fluid" alt="feature-img">
 
-    <div class="feature-content position-absolute text-white px-4 top-50 translate-middle-y">
+    <div class="feature-content position-absolute bg-dark bg-opacity-30 text-white px-4 top-50 translate-middle-y">
         <h1 class="display-4 fw-bold text-uppercase">News And Events</h1>
         <p class="small col-lg-6 col-md-8 col-sm-10">
             A short description is a short piece of text that supports the app title. Once Play Store users land on your app's store listing page, the first screen they see ...
@@ -18,7 +18,7 @@
 
     <div class="row g-2 m-0 py-4">
 
-        <div class="col-xxl-8 col-xl-8 col-lg-8 col-md-12 col-sm-12 m-auto p-2">
+        <div class="col-xxl-10 col-xl-10 col-lg-10 col-md-12 col-sm-12 m-auto p-2">
             <h1 class="text-primary text-capitalize fw-bold">news Events title here</h1>
             <hr>
             <div class="d-flex align-items-center justify-content-end mb-4">

@@ -50,20 +50,21 @@
         <div class="col-lg-6 col-md-12 col-sm-12">
             <h1 class="mb-3 text-primary h-sm-5 fw-bold text-uppercase">Wellcome To SMTA Group</h1>
             <div class="p-1 bg-primary effect rounded w-25 mb-3"></div>
+
             <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere amet in quae eius aut omnis, ducimus
-                sint, hic dolores inventore quo exercitationem eum, tenetur doloremque quaerat eaque modi odio
-                eligendi!
+                It is my pleasure to extend a warm welcome to each and every one of you. As a new member of this esteemed group, you have joined a community of like-minded professionals who are committed to excellence in their respective fields.
             </p>
-            <p class="d-none d-lg-block d-xl-block d-xxl-block">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem sequi officiis deleniti
-                aspernatur voluptatibus quia, debitis commodi nulla iusto placeat, sint pariatur suscipit itaque.
-                Aut quae dolores cumque dicta explicabo.
+
+            <p class="k">
+                Our goal is to provide our members with the resources and tools they need to succeed in their careers. We believe that by working together, we can achieve great things and make a positive impact on our industry. <br>
+                As a member of the SMTA Group, you will have access to a wide range of benefits and opportunities. These include Dredging and Engineering, Construction and Engineering, Shipping and Merine Services and more. We encourage you to take advantage of these resources and connect with your fellow members.
             </p>
-            <p class="d-none d-lg-block d-xl-block d-xxl-block">
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus, commodi nisi accusantium
-                deserunt sit cum numquam soluta, hic modi ex sequi. Harum, mollitia. Veritatis, delectus!
-            </p>
+
+            <!-- <p class="">
+            As a helpful, fair, and safe Technical Director, my role is to support you in any way I can. If you have any questions or concerns, please don't hesitate to reach out to me or any member of the SMTA team. We are here to help you succeed. <br>
+            I would like to once again extend a warm welcome to the SMTA Group.  Thank you for your commitment to excellence, and we wish you all the best in your future endeavors.
+        </p> -->
+
         </div>
         <div class="col-lg-6 col-md-12 col-sm-12 block-img">
             <img src="./assets/images/welcometoSMTA.jpeg" class="img-fluid w-100" alt="images">
@@ -119,15 +120,14 @@
                     </svg>
                 </span>
                 <h1 class="text-uppercase fw-bold mb-2">Our Vission</h1>
-                <h4 class="text-uppercase fw-bold mb-2">THROUGH THE TELESCOPE</h4>
+                <h4 class="text-uppercase fw-bold mb-2">safety and environmental</h4>
                 <p class="pe-1">
-                    To become the Marine Service Provider of Choice in the South Asia, Middle East Region and
-                    internationally, through outstanding consistent quality and high added value to its clients.
+                    I am proud to share our company vision with you. We are a global leader in the dredging and engineering, construction and engineering, and shipping and marine services industries. Our goal is to provide top-quality services to our clients while maintaining a safe and sustainable approach. <br>
+                    At the heart of our company vision is the commitment to excellence in everything we do. This means we strive to provide the best services to our clients, while also ensuring the safety of our workers and the environment. We believe that by maintaining high standards, we can achieve our goals and continue to grow as a company.
                 </p>
-                <p class="d-none d-lg-block d-xl-block d-xxl-block">
-                    The service‐minded and innovative attitude of the organization represents the vision of the
-                    founders of the company and the family generations that followed
-                </p>
+                <!-- <p class="">
+                    In the construction and engineering sector, we provide a wide range of services, including civil engineering, project management, and construction. We have experience delivering complex projects across various sectors, from infrastructure to commercial and public buildings. Our team of highly skilled professionals works closely with our clients to ensure that their goals are met, and their expectations are exceeded.
+                </p> -->
             </div>
         </div>
 
@@ -396,7 +396,7 @@
         <div class="p-1 bg-primary m-auto rounded w-5 mb-4"></div>
     </div>
 
-    <div class="d-flex gap-3 flex-wrap  align-items-center">
+    <div class="d-flex gap-3 flex-wrap  justify-content-center">
         <div class="card px-5">
             <img src="./assets/images/clients/logo-1.png" class="img-fluid p-0 m-0" width="100" alt="client-logo">
         </div>
@@ -436,6 +436,22 @@
 
         <div class="card px-5">
             <img src="./assets/images/clients/logo-9.png" class="img-fluid p-0 m-0" width="100" alt="client-logo">
+        </div>
+
+        <div class="card px-5">
+            <img src="./assets/images/clients/logo-11.png" class="img-fluid p-0 m-0" width="100" alt="client-logo">
+        </div>
+
+        <div class="card px-5">
+            <img src="./assets/images/clients/logo-12.png" class="img-fluid p-0 m-0" width="100" alt="client-logo">
+        </div>
+
+        <div class="card px-5">
+            <img src="./assets/images/clients/logo-13.png" class="img-fluid p-0 m-0" width="100" alt="client-logo">
+        </div>
+
+        <div class="card px-5">
+            <img src="./assets/images/clients/logo-14.png" class="img-fluid p-0 m-0" width="100" alt="client-logo">
         </div>
 
 
