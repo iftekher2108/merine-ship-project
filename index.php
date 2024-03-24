@@ -157,7 +157,7 @@
     </div>
 
 
-    <a href="" class="btn btn-outline-primary mb-3 text-white fw-bold border-2 rounded-pill py-2 px-5">
+    <a href="about.php" class="btn btn-outline-primary mb-3 text-white fw-bold border-2 rounded-pill py-2 px-5">
         <i class="fa-solid small me-2 fa-chevron-right"></i> Read More About SMTA GROUP</a>
 
     <div class="mt-5 px-4 pb-2 opacity-75">

@@ -19,10 +19,59 @@
 
 <div class="container-fluid">
 
-    <div class="row g-2 m-0 py-4">
 
-        <div class="col-xxl-10 col-xl-10 col-lg-10 col-md-12 col-sm-12 m-auto p-2">
-            <h1 class="text-primary text-capitalize fw-bold">Dredging And Engineering: The Importance of Dredging</h1>
+<div class="p-lg-6 welcome p-md-5 p-sm-3">     
+            <div class="row g-5">
+
+                <div class="col-lg-6 col-md-12 col-sm-12 block-img">
+                    <img src="./assets/images/welcometoSMTA.jpeg" class="img-fluid w-100" alt="images">
+                </div>
+
+                <div class="col-lg-6 col-md-12 col-sm-12">
+                    <h5 class="mb-3 text-primary h-sm-5 fw-bold text-uppercase">Information of ‘SMTA Dredging and Engineering’</h5>
+                    <div class="p-1 bg-primary effect rounded w-25 mb-3"></div>
+
+                    <p>
+                       <strong> SMTA Dredging and Engineering</strong>, founded in 2022 is engaged in manufacturing of dredger and all types Ships and performed any types of Dredging works in Bangladesh. The Company started the dredging works from March 2023 in Chattogram for earth filling from Karnaphuly River. The Company has been founded by Capt. S M Sazzedeen as Managing Director and CEO who served 15 years holding different Rank in Foreign Merchant Vessels with Commander Abul Hossain (Rtd, BN) as Chairman, S M Saleh Uddin ex Banker as Vice Chairman, Vice Admiral Zahir Uddin Ahmed (Ex - Chief of Naval Staff) as Business Consultant, Engr. Md. Saidur Rahman, Ex Managing Director, Chittagong Dry Dock Ltd associate with this Company as Executive Director (Technical) and Ahsanul Alam as Director, Marketing of the Company.
+                    </p>
+
+                    <!-- <p class="">
+            As a helpful, fair, and safe Technical Director, my role is to support you in any way I can. If you have any questions or concerns, please don't hesitate to reach out to me or any member of the SMTA team. We are here to help you succeed. <br>
+            I would like to once again extend a warm welcome to the SMTA Group.  Thank you for your commitment to excellence, and we wish you all the best in your future endeavors.
+        </p> -->
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+        <!-- <p>
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis voluptatibus, quod culpa tempore magnam repellendus? Minus, repellat alias laboriosam ea labore explicabo, quam quisquam perferendis voluptates aut est veniam optio.
+                </p> -->
+
+        <h3 class="text-center fw-bold text-primary text-capitalize">Our Work Proccess Information</h3>
+        <div class="p-1 bg-primary effect m-auto rounded w-5 mb-3"></div>
+
+        <div class="row g-3 mt-3">
+
+        <?php for($i=0; $i<10; $i++) { ?>
+            <div class="col-lg-3 col-md-6 col-sm-12">
+            <img src="./assets/images/about-us/card-<?php echo $i+1; ?>.png" class="img-fluid" alt="news-image">
+            </div>
+            <?php } ?>
+        </div>
+
+
+    <div class="row g-2 m-0">
+
+        <div class="col-xxl-10 col-xl-10 col-lg-10 col-md-12 col-sm-12 m-auto">
+            <!-- <h1 class="text-primary text-capitalize fw-bold">Dredging And Engineering: The Importance of Dredging</h1> -->
+
             <!-- <hr> -->
 
             <!-- <div class="d-flex align-items-center justify-content-end mb-4">
@@ -36,29 +85,30 @@
                     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis voluptatibus, quod culpa tempore magnam repellendus? Minus, repellat alias laboriosam ea labore explicabo, quam quisquam perferendis voluptates aut est veniam optio.
                 </p> -->
 
+                <h4 class="text-capitalize">Dredging And Engineering</h4>
 
                 <p>
                     Dredging is an essential process in the field of engineering, particularly in marine and coastal projects. This process involves removing sediment and other unwanted materials from the bottom of water bodies such as rivers, lakes, and oceans. Dredging is necessary to maintain navigation channels, prevent flooding, and preserve the environment. <br>
 
 
-                    <img src="./assets/images/SMTA-Dredge.jpg" class="img-fluid w-25 float-end m-2" alt="news-image">
+                    <img src="./assets/images/SMTA-Dredge.jpg" class="img-fluid w-50 float-end m-2" alt="news-image">
 
 
                     One of the primary reasons for dredging is to maintain navigation channels. These channels are vital for the transportation of goods and people by water. Sediment and debris can accumulate in these channels over time, reducing the depth and width of the waterway. This can make it difficult for ships and boats to navigate, leading to delays, accidents, and even groundings. Dredging removes the excess sediment, allowing vessels to travel safely and efficiently. <br>
 
                     Dredging is also necessary to prevent flooding. When sediment accumulates in rivers and other water bodies, it can reduce their capacity to hold water. This can lead to flooding during heavy rainfall or storms. Dredging enables water bodies to hold more water, reducing the risk of flooding. In addition, dredging can help to prevent erosion by stabilizing the banks of rivers and lakes. <br> <br>
 
-                    Dredging is also essential for preserving the environment. When sediment accumulates on the bottom of water bodies, it can lead to the growth of harmful algae and other organisms. This can harm the aquatic ecosystem, affecting the health of fish and other marine life. Dredging removes the excess sediment, allowing sunlight to reach the bottom of the water body and promoting the growth of healthy aquatic plants. <br>
+                    Dredging is also essential for preserving the environment. <br>
                    
                     <img src="./assets/images/DREDGING AND ENGINEERING-1.jpg" class="img-fluid w-50 float-start m-2" alt="news-image">
 
-                    <!-- <h4 class="text-capitalize">sub title here</h4> -->
+                    <h4 class="text-capitalize">The Importance Of Dredging</h4>
 
 
                     <!-- <img src="https://www.royalihc.com/sites/default/files/styles/twig_image_landscape_1844_826/public/images/DSCF0032.webp?itok=A89a_0hm" class="img-fluid w-50 float-end m-2 rounded" alt="news-image"> -->
 
 
-
+                    When sediment accumulates on the bottom of water bodies, it can lead to the growth of harmful algae and other organisms. This can harm the aquatic ecosystem, affecting the health of fish and other marine life. Dredging removes the excess sediment, allowing sunlight to reach the bottom of the water body and promoting the growth of healthy aquatic plants. <br>
 
                     In addition, dredging can help to restore wetlands and other habitats that have been damaged by human activity. By removing excess sediment and debris, dredging can create a more suitable environment for plants and animals to thrive.
 

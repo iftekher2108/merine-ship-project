@@ -131,7 +131,7 @@
     <div class="row bg-primary mb-5 m-1 position-relative">
 
         <div class="col-lg-12 col-md-12 p-0 m-0">
-            <img src="./assets/images/service/Marine-Salvage-1.jpg" class="img-fluid w-100 h-100" alt="image">
+            <img src="./assets/images/service/dredging-engineering.jpg" class="img-fluid w-100 h-100" alt="image">
         </div>
 
         <div class="col-lg-6 col-md-6 p-0 m-0 position-absolute bg-primary bg-opacity-50 h-100 top-0 end-0">
@@ -211,7 +211,7 @@
         </div>
 
         <div class="col-lg-12 col-md-12 p-0 m-0">
-            <img src="./assets/images/service/COMMERCIAL-DIVING.jpg" class="img-fluid w-100 h-100" alt="image">
+            <img src="./assets/images/service/constraction-engineering.jpg" class="img-fluid w-100 h-100" alt="image">
         </div>
 
     </div>

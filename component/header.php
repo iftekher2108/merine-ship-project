@@ -68,7 +68,7 @@
                             <ul class="navbar-nav align-items-center w-100 justify-content-around m-auto text-primary mb-lg-0">
 
                                 <li class="nav-item"><a href="./index.php" class="nav-link"> Home </a></li>
-                                <li class="nav-item"><a href="" class="nav-link"> About </a></li>
+                                <li class="nav-item"><a href="about.php" class="nav-link"> About </a></li>
                                 <li class="nav-item"><a href="./service.php" class="nav-link"> Services </a></li>
 
                                 <li class="nav-item dropdown">
@@ -83,13 +83,13 @@
 
                                         <li>
                                             <a class="dropdown-item">
-                                                Dredging 
+                                                Dredging
                                             </a>
                                             <ul class="dropdown-menu dropdown-submenu animate slideIn">
                                                 <li>
                                                     <a class="dropdown-item" href="dred-eng.php">Dredging and Engineering
-                                                         <!-- <i class="fa-solid small fa-caret-right"></i> -->
-                                                         </a>
+                                                        <!-- <i class="fa-solid small fa-caret-right"></i> -->
+                                                    </a>
                                                     <!-- <ul class="dropdown-menu dropdown-submenu animate slideIn">
                                                         <li>
                                                             <a class="dropdown-item" href="#">Sub sub item 5</a>
@@ -197,14 +197,15 @@
 
                                     </ul>
                                 </li>
-                                <li class="nav-item"><a href="" class="nav-link"> Gellery </a></li>
+
+                                <li class="nav-item"><a href="" class="nav-link"> Gallery </a></li>
 
                                 <a class="navbar-brand d-lg-block mx-4 m-auto d-md-none d-none" href="index.php">
                                     <img src="./assets/images/SMTA-head.png" width="250" class="img-fluid z-4" alt="logo">
                                 </a>
 
                                 <li class="nav-item"><a href="./news.php" class="nav-link"> News & Evants</a></li>
-                                <li class="nav-item"><a href="" class="nav-link">Career</a></li>
+                                <li class="nav-item"><a href="career.php" class="nav-link">Career</a></li>
                                 <li class="nav-item"><a href="./contact.php" class="nav-link">Contact Us</a></li>
 
                                 <li class="ms-lg-4">
@@ -213,7 +214,6 @@
                             </ul>
 
                         </div>
-
 
 
                         <!-- <li class="nav-item dropdown"><a href="#" role="button" data-bs-toggle="dropdown"
@@ -229,9 +229,6 @@
                                 </ul>
 
                             </li> -->
-
-
-
 
 
                     </div>
