@@ -45,8 +45,8 @@
 <!-- hero section -->
 
 
-<div class="p-lg-7 welcome p-md-5 p-sm-3">
-    <div class="row g-5">
+<div class="p-lg-7 welcome p-md-5 p-sm-2">
+    <div class="row g-3">
         <div class="col-lg-6 col-md-12 col-sm-12">
             <h1 class="mb-3 text-primary h-sm-5 fw-bold text-uppercase">Wellcome To SMTA Group</h1>
             <div class="p-1 bg-primary effect rounded w-25 mb-3"></div>
@@ -55,7 +55,7 @@
                 It is my pleasure to extend a warm welcome to each and every one of you. As a new member of this esteemed group, you have joined a community of like-minded professionals who are committed to excellence in their respective fields.
             </p>
 
-            <p class="k">
+            <p>
                 Our goal is to provide our members with the resources and tools they need to succeed in their careers. We believe that by working together, we can achieve great things and make a positive impact on our industry. <br>
                 As a member of the SMTA Group, you will have access to a wide range of benefits and opportunities. These include Dredging and Engineering, Construction and Engineering, Shipping and Merine Services and more. We encourage you to take advantage of these resources and connect with your fellow members.
             </p>
@@ -67,7 +67,7 @@
 
         </div>
         <div class="col-lg-6 col-md-12 col-sm-12 block-img">
-            <img src="./assets/images/welcometoSMTA.jpeg" class="img-fluid w-100" alt="images">
+            <img src="./assets/images/welcometoSMTA.jpeg" class="img-fluid" alt="images">
         </div>
 
     </div>
@@ -77,8 +77,8 @@
 
 
 <div class="bg-primary">
-    <div class="row">
-        <div class="col-lg-6 col-md-12 col-sm-12 p-0">
+    <div class="row g-0">
+        <div class="col-lg-6 col-md-12 col-sm-12">
             <div class="mv-content text-white p-4">
                 <span class="display-5"><i class="fa-solid fa-ferry"></i></span>
                 <h1 class="text-uppercase fw-bold mb-2">Our Mission</h1>
@@ -92,17 +92,17 @@
                 </p>
             </div>
         </div>
-        <div class="col-lg-6 col-md-12 col-sm-12 block-img p-0 m-0">
-            <img src="./assets/images/Mission.jpg" class="img-fluid w-100 p-0 m-0" alt="image">
+        <div class="col-lg-6 col-md-12 col-sm-12 block-img overflow-hidden">
+            <img src="./assets/images/Mission.jpg" class="img-fluid" alt="image">
         </div>
 
     </div>
 
-    <div class="row">
-        <div class="col-lg-6 col-md-12 col-sm-12 pe-lg-0 block-img pe-sm-auto">
-            <img src="./assets/images/Our-vision.jpg" class="img-fluid w-100 m-0 p-0" alt="image">
+    <div class="row g-0">
+        <div class="col-lg-6 col-md-12 col-sm-12 block-img overflow-hidden">
+            <img src="./assets/images/Our-vision.jpg" class="img-fluid w-100" alt="image">
         </div>
-        <div class="col-lg-6 col-md-12 col-sm-12 p-0 m-0">
+        <div class="col-lg-6 col-md-12 col-sm-12">
             <div class="mv-content text-white p-4">
                 <span class="display-5">
                     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="70" height="70" viewBox="0 0 256 256" xml:space="preserve">

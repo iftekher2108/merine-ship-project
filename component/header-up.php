@@ -62,15 +62,15 @@
                         <i class="fa-solid text-white p-1 fs-3 fa-bars"></i>
                     </button>
 
-                    <div class="collapse m-auto  navbar-collapse" id="navbarSupportedContent">
+                    <div class="collapse m-auto navbar-collapse" id="navbarSupportedContent">
 
                         <div class="d-flex align-items-center justify-content-around w-100">
                             <ul class="navbar-nav align-items-center w-100 justify-content-around m-auto text-primary mb-lg-0">
 
                                 <li class="nav-item"><a href="./index.php" class="nav-link"> Home </a></li>
 								
-                                <li class="nav-item"><a href="about.php" class="nav-link"> About </a></li>
-                                <li class="nav-item"><a href="./service.php" class="nav-link"> Services </a></li>
+                                <!-- <li class="nav-item"><a href="about.php" class="nav-link"> About </a></li>
+                                <li class="nav-item"><a href="./service.php" class="nav-link"> Services </a></li> -->
 
                                 <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -103,31 +103,25 @@
 
                                             </ul>
                                         </li>
-
+<!-- 
                                         <li>
                                             <a class="dropdown-item" href="#">Shipping/ Merine </a>
                                             <ul class="dropdown-menu dropdown-submenu animate slideIn">
                                                 <li>
                                                     <a class="dropdown-item" href="shipping-merine.php">M/S SMTA Shipping and Merine Services</a>
                                                 </li>
-                                                <!-- <li>
-                                                    <a class="dropdown-item" href="#">M/S SMTA Constraction and Engineering</a>
-                                                </li> -->
                                             </ul>
-                                        </li>
+                                        </li> -->
 
-
+<!-- 
                                         <li>
                                             <a class="dropdown-item" href="#">Constraction/Engineering </i> </a>
                                             <ul class="dropdown-menu dropdown-submenu animate slideIn">
-                                                <!-- <li>
-                                                    <a class="dropdown-item" href="#">M/S SMTA Shipping and Merine Services</a>
-                                                </li> -->
                                                 <li>
                                                     <a class="dropdown-item" href="constraction.php">M/S SMTA Constraction and Engineering</a>
                                                 </li>
                                             </ul>
-                                        </li>
+                                        </li> -->
 
                                         <!-- <li>
                                             <a class="dropdown-item">
@@ -198,8 +192,8 @@
 
                                     </ul>
                                 </li>
-
-                                <li class="nav-item"><a href="" class="nav-link"> Gallery </a></li>
+<!-- 
+                                <li class="nav-item"><a href="" class="nav-link"> Gallery </a></li> -->
 
                                 <a class="navbar-brand d-lg-block mx-4 m-auto d-md-none d-none" href="index.php">
                                     <img src="./assets/images/SMTA-head.png" width="250" class="img-fluid z-4" alt="logo">
