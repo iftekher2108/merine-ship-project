@@ -686,6 +686,13 @@ a.exchange {
 .contact-menu {
     display: none;
     background: rgba(0, 0, 0, 0.4);
+   
+}
+
+.contact-menu .slide-menu {
+    width: 65%;
+     height: 100vh;
+    overflow-y: scroll;
 }
 
 .slide-menu .slide-2 {
@@ -718,12 +725,6 @@ a.exchange {
 }
 
 
-.contact-section {
-    height: 100vh;
-    overflow-y: scroll;
-
-}
-
 /* ============================== contact us page ================================================= */
 
 
@@ -745,3 +746,18 @@ a.exchange {
 }
 
 /* =============================== news page section ================================================ */
+
+/* =============================== career page section ============================================== */
+
+.career-reward {
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../../images/reward-bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+/* =============================== career page section ============================================== */

@@ -15,26 +15,26 @@
 <div class="custom-slide">
 
     <div>
-        <img src="./assets/images/banner-2.jpg" class="ratio w-100">
+        <img src="./assets/images/banner-2.jpg" class="ratio h-100 w-100">
     </div>
 
     <div>
-        <img src="./assets/images/Main_banner.jpg" class="ratio w-100">
+        <img src="./assets/images/Main_banner.jpg" class="ratio h-100 w-100">
     </div>
 
     <div>
-        <img src="./assets/images/banner-img-3.jpg" class="ratio w-100">
+        <img src="./assets/images/banner-img-3.jpg" class="ratio h-100 w-100">
     </div>
 
     <div>
-        <img src="./assets/images/banner-img-4.jpg" class="ratio w-100">
+        <img src="./assets/images/banner-img-4.jpg" class="ratio h-100 w-100">
     </div>
     <!-- <div>
         <img src="./assets/images/image-3.PNG" class="ratio w-100">
     </div> -->
 
     <div>
-        <img src="./assets/images/image-4.PNG" class="ratio w-100">
+        <img src="./assets/images/image-4.PNG" class="ratio h-100 w-100">
     </div>
 
 </div>
@@ -348,30 +348,36 @@
         <div class="service row g-3">
 
             <div class="col-lg-4 col-md-6 col-sm-12">
-                <div class="card bg-white bg-opacity-75 rounded p-4">
-                    <h2 class="text-primary text-uppercase fw-bold mb-3">Dredging and engineering</h2>
-                    <p>
+                <a href="dred-eng.php" class="nav-link">
+                    <div class="card bg-white bg-opacity-75 rounded p-4">
+                        <h2 class="text-primary text-uppercase fw-bold mb-3">Dredging and engineering</h2>
+                        <p>
 
 
-                        Maintenance dredging removes unwanted silt, sand or sludge from existing channels, lakes,
-                        ponds and rivers. Performed by our long-reach excavator, we improve ...
+                            Maintenance dredging removes unwanted silt, sand or sludge from existing channels, lakes,
+                            ponds and rivers. Performed by our long-reach excavator, we improve ...
 
 
-                    </p>
-                </div>
+                        </p>
+                    </div>
+                </a>
+
             </div>
 
             <div class="col-lg-4 col-md-6 col-sm-12">
-                <div class="card bg-white bg-opacity-75 rounded p-4">
-                    <h2 class="text-primary text-uppercase fw-bold mb-3">Shipping and Merine</h2>
-                    <p>
-                        SMTA specializes in small and medium fabrication for structures and equipment used in the
-                        renewable energy, marine, and offshore oil and gas industries…
-                    </p>
-                </div>
+                <a href="shipping-merine.php" class="nav-link">
+                    <div class="card bg-white bg-opacity-75 rounded p-4">
+                        <h2 class="text-primary text-uppercase fw-bold mb-3">Shipping and Merine</h2>
+                        <p>
+                            SMTA specializes in small and medium fabrication for structures and equipment used in the
+                            renewable energy, marine, and offshore oil and gas industries…
+                        </p>
+                    </div>
+                </a>
             </div>
 
             <div class="col-lg-4 col-md-6 col-sm-12">
+                <a href="constraction.php" class="nav-link">
                 <div class="card bg-white bg-opacity-75 rounded p-4">
                     <h2 class="text-primary text-uppercase fw-bold mb-3">Constraction and Engineering</h2>
                     <p>
@@ -379,6 +385,7 @@
                         Gulf and red sea. We offer a wide range of services to our customers...
                     </p>
                 </div>
+                </a>
             </div>
 
         </div>

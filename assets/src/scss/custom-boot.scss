@@ -1,5 +1,13 @@
-
-
 // $primary: #0174BE;
 $primary: #387ADF;
 @import '../../plugins/bootstrap/scss/bootstrap.scss';
+
+
+@for $i from 1 through 10 {
+    .line-clamp-#{$i} {
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: $i;
+    }
+}

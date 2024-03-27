@@ -3,7 +3,7 @@
 <!-- contact hero -->
 
 <div class="news-hero position-relative">
-    <img src="./assets/images/contact-banner.jpg" class="img-fluid" alt="feature-img">
+    <img src="./assets/images/contact-banner.jpg" class="img-fluid w-100 h-100" alt="feature-img">
 
     <div class="feature-content position-absolute text-white px-4 top-50 translate-middle-y">
         <h1 class="fw-bold display-3 text-uppercase">Contact Us</h1>
@@ -88,7 +88,8 @@
                         <hr class="p-0 m-0">
                     </div>
 
-                    <div class="row g-4 m-auto mb-3">
+                    <div class="row g-4 
+                     mb-3">
 
                         <div class="col-lg-4 col-md-6 col-sm-12">
                             <div class="card contact-content rounded-0 shadow-sm p-3">
@@ -105,9 +106,9 @@
                             <div class="fixed-top contact-menu w-100">
                                 <div class="position-absolute z-n1 close-menu w-100 h-100">
                                 </div>
-                                <div class="ms-auto slide-menu position-relative z-2 w-65">
+                                <div class="ms-auto slide-menu position-relative z-2">
 
-                                    <div class="bg-primary d-flex align-items-center cursor-pointer justify-content-center close-menu z-4 end-3 top-3 text-white position-absolute" style="height:30px; width:30px">
+                                    <div class="bg-primary d-flex align-items-center cursor-pointer justify-content-center close-menu z-4 end-3 top-3 text-white position-fixed" style="height:30px; width:30px">
                                         <i class="fa-solid fa-xmark"></i>
                                     </div>
 
@@ -243,7 +244,7 @@
 
                         <div class="col-lg-4 col-md-6 col-sm-12">
                             <div class="card contact-content rounded-0 shadow-sm p-3">
-                                <h3 class="text-primary">SHIPPING AND MERINE</h3>
+                                <h3 class="text-primary">SHIPPING AND <br> MERINE</h3>
                                 <p>
                                     Maintenance dredging removes unwanted silt, sand or sludge from existing channels, lakes, ponds and rivers. Performed by our long-reach excavator, we improve ...
                                 </p>
@@ -256,9 +257,9 @@
                             <div class="fixed-top contact-menu w-100 h-100">
                                 <div class="position-absolute z-n1 close-menu w-100 h-100">
                                 </div>
-                                <div class="ms-auto slide-menu position-relative z-2 h-100 w-65">
+                                <div class="ms-auto slide-menu position-relative z-2 h-100">
 
-                                    <div class="bg-primary d-flex align-items-center cursor-pointer justify-content-center close-menu z-4 end-3 top-3 text-white position-absolute" style="height:30px; width:30px">
+                                    <div class="bg-primary d-flex align-items-center cursor-pointer justify-content-center close-menu z-4 end-3 top-3 text-white position-fixed" style="height:30px; width:30px">
                                         <i class="fa-solid fa-xmark"></i>
                                     </div>
 
@@ -406,9 +407,9 @@
                             <div class="fixed-top contact-menu w-100 h-100">
                                 <div class="position-absolute z-n1 close-menu w-100 h-100">
                                 </div>
-                                <div class="ms-auto slide-menu position-relative z-2 h-100 w-65">
+                                <div class="ms-auto slide-menu position-relative z-2 h-100">
 
-                                    <div class="bg-primary d-flex align-items-center cursor-pointer justify-content-center close-menu z-4 end-3 top-3 text-white position-absolute" style="height:30px; width:30px">
+                                    <div class="bg-primary d-flex align-items-center cursor-pointer justify-content-center close-menu z-4 end-3 top-3 text-white position-fixed" style="height:30px; width:30px">
                                         <i class="fa-solid fa-xmark"></i>
                                     </div>
 

@@ -522,11 +522,30 @@
 
     // hero slide section
 
+
+
+    // service section
+    .service-read-section {
+        .block-content {
+            position: static !important;
+        }
+    }
+
+
+    // contact section 
+
+    .contact-menu {
+        .slide-menu {
+            width: 100%;
+        }
+    }
+
+
+
 }
 
 // =========================================== 1200px ==================================================
 
 @media screen and (max-width: 1200px) {
 
-    
 }

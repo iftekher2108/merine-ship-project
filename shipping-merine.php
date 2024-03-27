@@ -3,7 +3,7 @@
 
 <!-- main section  -->
 <div class="news-hero position-relative">
-    <img src="./assets/images/shipping-marine-banner.jpeg" class="img-fluid" alt="feature-img">
+    <img src="./assets/images/shipping-marine-banner.jpeg" class="img-fluid w-100 h-100" alt="feature-img">
 
     <div class="feature-content position-absolute bg-dark bg-opacity-30 text-white px-4 top-50 translate-middle-y">
         <div class="col-lg-6 col-md-8 col-sm-10">
@@ -26,29 +26,28 @@
 
             <div class="news-content text-justify">
 
-            <h4 class="text-capitalize">Shipping And Merine</h4>
+                <!-- <h4 class="text-capitalize">Shipping And Merine</h4> -->
 
                 <p>
                     One of the most important trends in the shipping industry is the move towards more sustainable practices. With concerns about climate change and the impact of shipping on the environment, many companies are looking for ways to reduce their carbon footprint and operate in an eco-friendlier manner. This can include investing in more fuel-efficient ships, using alternative fuels, and implementing recycling and waste reduction programs. <br>
 
+                </p>
+                <img src="./assets/images/shipping-merine.jpg" class="img-fluid my-3" alt="news-image">
 
-                    <img src="./assets/images/shipping-merine.jpg" class="img-fluid w-50 float-end m-2" alt="news-image">
-
-
+                <p>
                     Another key area of focus for shipping and marine services providers is technology. With advances in automation, artificial intelligence, and data analytics, there are many opportunities to improve efficiency, reduce costs, and enhance safety. For example, automated cargo handling systems can help to speed up loading and unloading times, while predictive maintenance systems can help to identify potential issues before they become major problems. <br>
 
                     In addition to sustainability and technology, it is also important for shipping and marine services providers to focus on safety. Shipping can be a dangerous industry, with many potential hazards including rough seas, storms, and accidents. To ensure the safety of crew members and cargo, it is important to have rigorous safety protocols in place and to invest in the latest safety equipment and technologies. <br>
+                </p>
 
-                    <img src="./assets/images/shipping-merine-2.jpg" class="img-fluid w-50 float-start m-2" alt="news-image">
+                <img src="./assets/images/shipping-merine-2.jpg" class="img-fluid my-2" alt="news-image">
 
-                    <h4 class="text-capitalize">Shipping And Merine</h4>
-
+                <h4 class="text-capitalize">Shipping And Merine</h4>
+                
+                <p>
                     Finally, it is important for shipping and marine services providers to focus on customer service. With so many options available to customers, it is essential to provide high-quality service and to be responsive to customer needs and concerns. This can include providing real-time tracking information, offering flexible delivery options, and providing excellent communication throughout the shipping process. <br>
 
                     Overall, there are many challenges and opportunities facing shipping and marine services providers today. By focusing on sustainability, technology, safety, and customer service, companies can stay ahead of the competition and provide high-quality services to their customers. As the industry continues to evolve, it is important to stay up-to-date on the latest trends and technologies in order to remain successful and competitive in the years ahead.
-
-
-
 
                 </p>
 
