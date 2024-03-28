@@ -205,7 +205,7 @@
                                     <img src="./assets/images/SMTA-head.png" width="250" class="img-fluid z-4" alt="logo">
                                 </a>
 
-                                <li class="nav-item"><a href="./news.php" class="nav-link"> News & Evants</a></li>
+                                <li class="nav-item"><a href="./news-events.php" class="nav-link"> News & Evants</a></li>
                                 <li class="nav-item"><a href="career.php" class="nav-link">Career</a></li>
                                 <li class="nav-item"><a href="./contact.php" class="nav-link">Contact Us</a></li>
 

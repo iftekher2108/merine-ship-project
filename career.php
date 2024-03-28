@@ -22,7 +22,12 @@
 <div>
 
     <!-- reward -->
-    <div class="career-reward px-2 py-lg-7 py-md-5 py-4">
+
+    <div class="career-reward px-2 py-lg-7 py-md-5 py-4" style=" background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url('assets/images/SMTA-Dredge.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;">
         <div class="content text-white col-lg-8 col-md-10 col-sm-12">
             <h3 class="mb-4 fw-bold">We reward you for arguing and implementing your ideas!</h3>
             <p>At SMTA, your potential is limited only by your talents and ambitions. Within SMTA or beyond, our people make a difference because of the leaders they become while here. You will do more than just build! Our aspiration is to change lifestyles, business practices and even society.</p>
@@ -32,12 +37,12 @@
     <!-- reward -->
 
 
-    <div class="bg-thin-light py-7 py-md-5 py-sm-4">
+    <div class="py-7 py-md-5 py-sm-4" style="background:#40679E">
         <div class="col-lg-8 col-md-10 col-12 m-auto text-white">
             <p class="display-6">SHARE YOUR DETAILS</p>
             <p>Drop your All Information & CV to this Mail: <br> <a href="mailto:cv@smta-group.com" class="nav-link fw-bold">cv@smta-group.com </a></p>
             <p>Contact With Us: <br>
-            +880 1810-020098</p>
+                +880 1810-020098</p>
         </div>
 
     </div>

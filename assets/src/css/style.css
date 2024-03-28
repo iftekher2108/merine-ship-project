@@ -512,12 +512,12 @@ a.exchange {
 
 }
 
-.latest-news .news-slide .slide {
+.latest-news .news-slide .slide,.news-block .block {
     overflow: hidden;
 
 }
 
-.latest-news .news-slide .slide img {
+.latest-news .news-slide .slide img, .news-block .block img {
     transition: all 0.5s ease;
     -webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
@@ -525,7 +525,7 @@ a.exchange {
     -o-transition: all 0.5s ease;
 }
 
-.latest-news .news-slide .slide:hover img {
+.latest-news .news-slide .slide:hover img,.news-block .block:hover img {
     transform: scale(1.1);
     -webkit-transform: scale(1.1);
     -moz-transform: scale(1.1);
@@ -548,13 +548,13 @@ a.exchange {
     white-space: nowrap;
 }
 
-.latest-news .news-content a i {
+:where(.latest-news, .news-block) .news-content :where(span,a) i {
 
     border-radius: 50%;
     width: 1.5rem;
     height: 1.5rem;
     padding: 0.5rem;
-    padding-top: 0.35rem;
+    padding-top: 0.3rem;
     padding-left: 0.45rem;
     transition: all 0.3s ease-in-out;
     -webkit-transition: all 0.3s ease-in-out;
@@ -570,7 +570,7 @@ a.exchange {
 }
 
 
-.latest-news .news-content a:hover i {
+:where(.latest-news, .news-block) .news-content :where(span,a):hover i {
     transform: translateX(10px);
     -webkit-transform: translateX(10px);
     -moz-transform: translateX(10px);
@@ -752,11 +752,6 @@ a.exchange {
 .career-reward {
     display: flex;
     justify-content: center;
-    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../../images/reward-bg.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
 }
 
 

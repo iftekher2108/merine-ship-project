@@ -2,7 +2,7 @@
 
 <!-- service hero -->
 <div class="news-hero position-relative">
-    <img src="./assets/images/new-events.jpg" class="img-fluid h-100 w-100" alt="feature-img">
+    <img src="./assets/images/services-bg.jpg" class="img-fluid h-100 w-100" alt="feature-img">
 
     <div class="feature-content position-absolute bg-dark bg-opacity-30 text-white px-4 top-50 translate-middle-y">
         <h1 class="fw-bold display-3 text-uppercase">Services</h1>
