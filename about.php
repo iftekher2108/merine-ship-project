@@ -27,7 +27,7 @@
                 <p class="p-0 m-0"><span class="text-primary fw-bold">Date: </span>29 Feb 2024</p>
             </div> -->
 
-    <div class="news-content text-justify my-4">
+    <div class="news-content text-justify my-5">
 
         <!-- about us -->
         <!-- 
@@ -132,25 +132,66 @@
 
         <div class="col-10 m-auto">
 
-           
-            <h2 class=" fw-bold text-primary my-3 text-capitalize">About Our SMTA GROUP</h2>
-            <p>
-                Dredging and engineering are our specialties, and we take great pride in our ability to deliver excellent results. Our team is made up of highly skilled professionals who are dedicated to providing you with the best service possible. We use the latest technology and equipment to ensure that your project is completed on time and within budget.
-            </p>
+            <div class="row g-4 mb-3">
 
-            <p>
-                When it comes to shipping and marine services, we have you covered. Our team of experts has experience in dealing with all aspects of shipping and marine operations. From logistics to vessel operations, we are committed to providing you with the best possible service.
-            </p>
+                <div class="col-lg-6 col-md-12 col-sm-12">
+                    <img src="./assets/images/welcometoSMTA.jpeg" class="img-fluid w-100" alt="images">
+                </div>
 
-                <img src="./assets/images/Metal Fabrication.jpg" class="img-fluid py-3" alt="">
+                <div class="col-lg-6 col-md-12 col-sm-12">
+                    <h2 class=" fw-bold text-primary my-3 text-capitalize">About Our SMTA GROUP</h2>
 
-            <p>
-                In the construction and engineering field, we provide a wide range of services. Our team can handle everything from project management to design and construction. We have experience in a variety of construction projects, from residential to commercial, and we are confident that we can provide you with the best possible service.
-            </p>
+                    <div class="p-1 bg-primary effect rounded w-25 mb-3"></div>
 
-            <p>
-                At the SMTA Group, we pride ourselves on our commitment to safety. We take every precaution to ensure that our workers, your employees, and the general public are safe at all times. We follow all safety protocols and regulations, and we are committed to providing you with a safe and secure environment.
-            </p>
+                    <p>
+                        At the SMTA Group, we pride ourselves on our commitment to safety. We take every precaution to ensure that our workers, your employees, and the general public are safe at all times. We follow all safety protocols and regulations, and we are committed to providing you with a safe and secure environment.
+                    </p>
+
+                    <p>
+                        When it comes to shipping and marine services, we have you covered. Our team of experts has experience in dealing with all aspects of shipping and marine operations. From logistics to vessel operations, we are committed to providing you with the best possible service.
+                    </p>
+
+
+                    <p>
+                        When it comes to shipping and marine services, we have you covered. Our team of experts has experience in dealing with all aspects of shipping and marine operations. From logistics to vessel operations, we are committed to providing you with the best possible service.
+                    </p>
+
+
+                </div>
+            </div>
+
+
+            <div class="row g-3">
+
+                <div class="col-lg-6 col-md-12 col-sm-12">
+                    <!-- <h2 class=" fw-bold text-primary my-3 text-capitalize">About Our SMTA GROUP</h2> -->
+
+                    <!-- <div class="p-1 bg-primary effect rounded w-25 mb-3"></div> -->
+
+                    <p>
+                        Dredging and engineering are our specialties, and we take great pride in our ability to deliver excellent results. Our team is made up of highly skilled professionals who are dedicated to providing you with the best service possible. We use the latest technology and equipment to ensure that your project is completed on time and within budget.
+                    </p>
+                    
+                    <p>
+                        Dredging and engineering are our specialties, and we take great pride in our ability to deliver excellent results. Our team is made up of highly skilled professionals who are dedicated to providing you with the best service possible. We use the latest technology and equipment to ensure that your project is completed on time and within budget.
+                    </p>
+
+
+                    <p>
+                        In the construction and engineering field, we provide a wide range of services. Our team can handle everything from project management to design and construction. We have experience in a variety of construction projects, from residential to commercial, and we are confident that we can provide you with the best possible service.
+                    </p>
+
+
+                </div>
+
+                <div class="col-lg-6 col-md-12 col-sm-12">
+                    <img src="./assets/images/welcometoSMTA.jpeg" class="img-fluid w-100" alt="images">
+                </div>
+
+            </div>
+
+
+
 
             <p>
                 We also understand the importance of fairness in all aspects of our business. We treat all of our clients with respect and fairness, and we are committed to providing you with the best possible service at a fair price. We believe that honesty and transparency are key to building long-term relationships with our clients.

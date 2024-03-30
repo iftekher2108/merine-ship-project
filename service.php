@@ -254,7 +254,7 @@
                     dedicated team of experienced logistics support. SMTA also has expertise in supply chain
                     solutions for storage, warehousing, fork lifting, cranage, and road transportation.
                 </p>
-                    <a href="" class="btn btn-dark py-1 px-4">Read More</a>
+                    <!-- <a href="" class="btn btn-dark py-1 px-4">Read More</a> -->
             </div>
         </div>
     </div>

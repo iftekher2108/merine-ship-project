@@ -93,17 +93,19 @@ var lastScrollTop; // This Varibale will store the top position
 var navbar = $('.nav-menu')
 
 $(document).scroll(function () {
-
   if ($(document).scrollTop() < 5) {
+    navbar.addClass('bg-dark')
     navbar.css({
-      'background': 'transparent',
       "box-shadow": "none"
     });
+
   } else {
+    navbar.removeClass('bg-dark')
     navbar.css({
-      'background': '#89caf8',
+      'background': 'rgba(0,0,0,0.7)',
       'box-shadow': '3px 5px 10px rgba(0,0,0,0.5)'
     });
+   
   }
 
 
