@@ -212,3 +212,17 @@ $('.confirm').click(function () {
   })
 })
 // contact form conform
+
+
+// gellery image preview
+$('.preview-close').click(function(){
+  $(this).parents('.preview-block').hide()
+})
+$('.block-img').click(function(){
+  $('.preview-img').attr('src', $(this).children('.gallery-img').attr('src'));
+  $('.preview-block').show();
+  // console.log($(this).children('.gallery-img').attr('src'))
+})
+
+
+

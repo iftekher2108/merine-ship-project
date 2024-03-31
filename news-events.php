@@ -25,7 +25,7 @@
                 <div class="row g-3">
 
                     <div class="col-lg-4 col-md-6 col-sm-12">
-                        <a href="hello" class="nav-link block">
+                        <a href="#" class="nav-link block">
                             <div class="position-relative shadow m-1">
                                 <img src="./assets/images/news-1.jpg" class="img-fluid w-100 h-100" alt="news-img">
                                 <div class="news-content p-4 text-white bg-dark bg-opacity-25 d-flex flex-column justify-content-end position-absolute top-0 start-0 w-100 h-100">
@@ -41,7 +41,7 @@
                     </div>
 
                     <div class="col-lg-4 col-md-6 col-sm-12">
-                        <a href="hello" class="nav-link block">
+                        <a href="#" class="nav-link block">
                             <div class="position-relative shadow m-1">
                                 <img src="./assets/images/new-2.jpg" class="img-fluid w-100 h-100" alt="news-img">
                                 <div class="news-content p-4 text-white bg-dark bg-opacity-25 d-flex flex-column justify-content-end position-absolute top-0 start-0 w-100 h-100">
@@ -57,7 +57,7 @@
                     </div>
 
                     <div class="col-lg-4 col-md-6 col-sm-12">
-                        <a href="hello" class="nav-link block">
+                        <a href="#" class="nav-link block">
                             <div class="position-relative shadow m-1">
                                 <img src="./assets/images/new-3.jpg" class="img-fluid w-100 h-100" alt="news-img">
                                 <div class="news-content p-4 text-white d-flex bg-dark bg-opacity-25 flex-column justify-content-end position-absolute top-0 start-0 w-100 h-100">
@@ -73,7 +73,7 @@
                     </div>
 
                     <div class="col-lg-4 col-md-6 col-sm-12">
-                        <a href="hello" class="nav-link block">
+                        <a href="#" class="nav-link block">
                             <div class="position-relative shadow m-1">
                                 <img src="./assets/images/new-3.jpg" class="img-fluid w-100 h-100" alt="news-img">
                                 <div class="news-content p-4 text-white d-flex bg-dark bg-opacity-25 flex-column justify-content-end position-absolute top-0 start-0 w-100 h-100">
@@ -89,7 +89,7 @@
                     </div>
 
                     <div class="col-lg-4 col-md-6 col-sm-12">
-                        <a href="hello" class="nav-link block">
+                        <a href="#" class="nav-link block">
                             <div class="position-relative shadow m-1">
                                 <img src="./assets/images/new-3.jpg" class="img-fluid w-100 h-100" alt="news-img">
                                 <div class="news-content p-4 text-white d-flex bg-dark bg-opacity-25 flex-column justify-content-end position-absolute top-0 start-0 w-100 h-100">
@@ -105,7 +105,7 @@
                     </div>
 
                     <div class="col-lg-4 col-md-6 col-sm-12">
-                        <a href="hello" class="nav-link block">
+                        <a href="#" class="nav-link block">
                             <div class="position-relative shadow m-1">
                                 <img src="./assets/images/new-3.jpg" class="img-fluid w-100 h-100" alt="news-img">
                                 <div class="news-content p-4 text-white d-flex bg-dark bg-opacity-25 flex-column justify-content-end position-absolute top-0 start-0 w-100 h-100">
@@ -128,7 +128,7 @@
 
                 </div>
 
-                <div class="d-flex justify-content-center py-4">
+                <!-- <div class="d-flex justify-content-center py-4">
                     <nav aria-label="Page navigation">
                         <ul class="pagination gap-2">
                             <li class="page-item"><a class="page-link" href="#">Previous</a></li>
@@ -138,7 +138,7 @@
                             <li class="page-item"><a class="page-link" href="#">Next</a></li>
                         </ul>
                     </nav>
-                </div>
+                </div> -->
 
 
             </div>

@@ -44,8 +44,8 @@
                         <div class="card bg-primary text-white rounded p-4">
                             <h2 class="text-uppercase fw-bold mb-3">Shipping and Merine</h2>
                             <p>
-                                SMTA specializes in small and medium fabrication for structures and equipment used in the
-                                renewable energy, marine, and offshore oil and gas industries…
+                                SMTA Marin for many years has been called upon for towage projects across the Bay of Bangle,
+                                Gulf and red sea. We offer a wide range of services to our customers...
                             </p>
                         </div>
                     </a>
@@ -56,8 +56,8 @@
                         <div class="card bg-primary text-white rounded p-4">
                             <h2 class="text-uppercase fw-bold mb-3">Constraction and Engineering</h2>
                             <p>
-                                SMTA Marin for many years has been called upon for towage projects across the Bay of Bangle,
-                                Gulf and red sea. We offer a wide range of services to our customers...
+                                SMTA specializes in small and medium fabrication for structures and equipment used in the
+                                renewable energy, marine, and offshore oil and gas industries…
                             </p>
                         </div>
                     </a>
@@ -155,8 +155,8 @@
                 <p class="line-clamp-6">
                     Dredging is an essential process in the field of engineering, particularly in marine and coastal projects. This process involves removing sediment and other unwanted materials from the bottom of water bodies such as rivers, lakes, and oceans. Dredging is necessary to maintain navigation channels, prevent flooding, and preserve the environment.
                     One of the primary reasons for dredging is to maintain navigation channels.
-                     <!-- These channels are vital for the transportation of goods and people by water. -->
-                      Sediment and debris can accumulate in these channels over time, reducing the depth and width of the waterway. This can make it difficult for ships and boats to navigate, leading to delays, accidents, and even groundings. Dredging removes the excess sediment, allowing vessels to travel safely and efficiently.
+                    <!-- These channels are vital for the transportation of goods and people by water. -->
+                    Sediment and debris can accumulate in these channels over time, reducing the depth and width of the waterway. This can make it difficult for ships and boats to navigate, leading to delays, accidents, and even groundings. Dredging removes the excess sediment, allowing vessels to travel safely and efficiently.
                 </p>
                 <a href="./dred-eng.php" class="btn py-1 px-4 btn-dark">Read More</a>
 
@@ -213,7 +213,7 @@
 
                 <p class="line-clamp-6">
                     Steel is a versatile and durable material that has been used in construction and engineering for centuries. Its strength and resilience make it an ideal choice for buildings, bridges, and other structures that need to withstand the test of time. Steel Construction and Engineering is a leading company in the field, committed to providing high-quality steel products and services to clients around the world.
-                    At Steel Construction and Engineering, we understand the importance of delivering reliable and cost-effective solutions to our clients. We have a team of experienced engineers and technicians who use state-of-the-art technology to design, fabricate, and construct steel structures that meet the highest standards of quality and safety. 
+                    At Steel Construction and Engineering, we understand the importance of delivering reliable and cost-effective solutions to our clients. We have a team of experienced engineers and technicians who use state-of-the-art technology to design, fabricate, and construct steel structures that meet the highest standards of quality and safety.
                     <!-- From small-scale projects to large-scale developments, we have the expertise and resources to handle any job, no matter how complex. -->
 
                 </p>
@@ -254,7 +254,7 @@
                     dedicated team of experienced logistics support. SMTA also has expertise in supply chain
                     solutions for storage, warehousing, fork lifting, cranage, and road transportation.
                 </p>
-                    <!-- <a href="" class="btn btn-dark py-1 px-4">Read More</a> -->
+                <!-- <a href="" class="btn btn-dark py-1 px-4">Read More</a> -->
             </div>
         </div>
     </div>

@@ -3,7 +3,7 @@
 
 <!-- main section  -->
 <div class="news-hero position-relative">
-    <img src="./assets/images/Dredge-eng-banner.jpg" class="img-fluid w-100 h-100" alt="feature-img">
+    <img src="./assets/images/Dredge-eng-banner.jpeg" class="img-fluid w-100 h-100" alt="feature-img">
 
     <div class="feature-content position-absolute bg-dark bg-opacity-30 text-white px-4 top-50 translate-middle-y">
         <div class="col-lg-6 col-md-8 col-sm-10">
@@ -93,7 +93,7 @@
                     Dredging is an essential process in the field of engineering, particularly in marine and coastal projects. This process involves removing sediment and other unwanted materials from the bottom of water bodies such as rivers, lakes, and oceans. Dredging is necessary to maintain navigation channels, prevent flooding, and preserve the environment. <br>
 
                 </p>
-                    <img src="./assets/images/SMTA-Dredge.jpg" class="img-fluid  my-3" alt="news-image">
+                    <!-- <img src="./assets/images/SMTA-Dredge.jpg" class="img-fluid  my-3" alt="news-image"> -->
 
                 <p>
                     One of the primary reasons for dredging is to maintain navigation channels. These channels are vital for the transportation of goods and people by water. Sediment and debris can accumulate in these channels over time, reducing the depth and width of the waterway. This can make it difficult for ships and boats to navigate, leading to delays, accidents, and even groundings. Dredging removes the excess sediment, allowing vessels to travel safely and efficiently. <br>
@@ -102,7 +102,7 @@
 
                     Dredging is also essential for preserving the environment. <br>
                 </p>
-                    <img src="./assets/images/DREDGING AND ENGINEERING-1.jpg" class="img-fluid my-3" alt="news-image">
+                    <!-- <img src="./assets/images/DREDGING AND ENGINEERING-1.jpg" class="img-fluid my-3" alt="news-image"> -->
 
                     <h4 class="text-capitalize">The Importance Of Dredging</h4>
 

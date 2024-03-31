@@ -10,10 +10,10 @@
     <div class='position-relative'>
         <img src="./assets/images/banner-2.jpg" class="ratio h-100 w-100">
 
-        <div class="p-5 slide-block d-none d-lg-block d-xl-block d-xxl-block position-absolute translate-middle-y top-50 start-0 z-1">
+        <div class="p-5 slide-block d-none d-lg-block d-xl-block d-xxl-block position-absolute translate-middle-y top-75 start-0 z-1">
             <div class="slide-content col-lg-6 col-md-8 col-sm-12 m-auto text-center py-4 px-2 rounded-3">
                 <h1 class="fw-bold text-white">Quality First, Innovation always</h1>
-                <p class="text-white">Skilled welders and technicians use welding techniques to assemble the</p>
+                <!-- <p class="text-white">Skilled welders and technicians use welding techniques to assemble the</p> -->
             </div>
         </div>
 
@@ -22,10 +22,10 @@
     <div class="position-relative">
         <img src="./assets/images/Main_banner.jpg" class="ratio h-100 w-100">
 
-        <div class="p-5 slide-block d-none d-lg-block d-xl-block d-xxl-block  position-absolute translate-middle-y top-50 start-0 z-1">
+        <div class="p-5 slide-block d-none d-lg-block d-xl-block d-xxl-block  position-absolute translate-middle-y top-75 start-0 z-1">
             <div class="slide-content col-lg-6 col-md-8 col-sm-12 m-auto text-center py-4 px-2 rounded-3">
                 <h1 class="fw-bold text-white">Quality First, Innovation always</h1>
-                <p class="text-white">Skilled welders and technicians use welding techniques</p>
+                <!-- <p class="text-white">Skilled welders and technicians use welding techniques</p> -->
             </div>
         </div>
 
@@ -33,20 +33,20 @@
 
     <div class="position-relative">
         <img src="./assets/images/banner-img-3.jpg" class="ratio h-100 w-100">
-        <div class="p-5 slide-block d-none d-lg-block d-xl-block d-xxl-block  position-absolute translate-middle-y top-50 start-0 z-1">
+        <div class="p-5 slide-block d-none d-lg-block d-xl-block d-xxl-block  position-absolute translate-middle-y top-75 start-0 z-1">
             <div class="slide-content col-lg-6 col-md-8 col-sm-12 m-auto text-center py-4 px-2 rounded-3">
                 <h1 class="fw-bold text-white">Quality First, Innovation always</h1>
-                <p class="text-white">Skilled welders and technicians use welding techniques</p>
+                <!-- <p class="text-white">Skilled welders and technicians use welding techniques</p> -->
             </div>
         </div>
     </div>
 
     <div class="position-relative">
         <img src="./assets/images/banner-img-4.jpg" class="ratio h-100 w-100">
-        <div class="p-5 slide-block d-none d-lg-block d-xl-block d-xxl-block  position-absolute translate-middle-y top-50 start-0 z-1">
+        <div class="p-5 slide-block d-none d-lg-block d-xl-block d-xxl-block  position-absolute translate-middle-y top-75 start-0 z-1">
             <div class="slide-content col-lg-6 col-md-8 col-sm-12 m-auto text-center py-4 px-2 rounded-3">
                 <h1 class="fw-bold text-white">Quality First, Innovation always</h1>
-                <p class="text-white">Skilled welders and technicians use welding techniques to assemble</p>
+                <!-- <p class="text-white">Skilled welders and technicians use welding techniques to assemble</p> -->
             </div>
         </div>
     </div>
@@ -56,10 +56,10 @@
 
     <div class="position-relative">
         <img src="./assets/images/image-4.PNG" class="ratio h-100 w-100">
-        <div class="p-5 slide-block d-none d-lg-block d-xl-block d-xxl-block  position-absolute translate-middle-y top-50 start-0 z-1">
+        <div class="p-5 slide-block d-none d-lg-block d-xl-block d-xxl-block  position-absolute translate-middle-y top-75 start-0 z-1">
             <div class="slide-content col-lg-6 col-md-8 col-sm-12 m-auto text-center py-4 px-2 rounded-3">
                 <h1 class="fw-bold text-white">Quality First, Innovation always</h1>
-                <p class="text-white">Skilled welders and technicians use welding techniques to assemble the</p>
+                <!-- <p class="text-white">Skilled welders and technicians use welding techniques to assemble the</p> -->
             </div>
         </div>
     </div>

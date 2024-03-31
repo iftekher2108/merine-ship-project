@@ -67,7 +67,7 @@
                         <div class="d-flex align-items-center justify-content-around w-100">
                             <ul class="navbar-nav align-items-center w-100 justify-content-justify m-auto text-primary mb-lg-0">
                                 <div class="d-flex flex-lg-row flex-column justify-content-center  w-100 ">
-                                    <li class="nav-item"><a href="./index.php" class="nav-link active"> Home </a></li>
+                                    <li class="nav-item"><a href="./index.php" class="nav-link"> Home </a></li>
 
                                     <li class="nav-item"><a href="about.php" class="nav-link"> About </a></li>
                                     <li class="nav-item"><a href="./service.php" class="nav-link"> Services </a></li>
@@ -199,7 +199,7 @@
                                         </ul>
                                     </li>
 
-                                    <li class="nav-item"><a href="" class="nav-link"> Gallery </a></li>
+                                    <li class="nav-item"><a href="gallery.php" class="nav-link"> Gallery </a></li>
 
                                 </div>
 

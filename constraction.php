@@ -41,7 +41,7 @@
                     Another advantage of steel construction is its durability. Steel is resistant to corrosion, fire, and pests, which means that structures built with steel can last for decades or even centuries with minimal maintenance. This makes it a cost-effective choice for clients who want a long-term solution that will stand the test of time. <br>
                 </p>
 
-                <img src="./assets/images/Steel Construction and Engineering photo 2.jpg" class="img-fluid my-3" alt="news-image">
+                <!-- <img src="./assets/images/Steel Construction and Engineering photo 2.jpg" class="img-fluid my-3" alt="news-image"> -->
 
 
 
