@@ -132,10 +132,10 @@
 
         <div class="col-10 m-auto">
 
-            <div class="row g-4 mb-3">
+            <div class="row g-4 mb-3 align-items-center ">
 
                 <div class="col-lg-6 col-md-12 col-sm-12">
-                    <img src="./assets/images/welcometoSMTA.jpeg" class="img-fluid w-100" alt="images">
+                    <img src="./assets/images/about-1.jpg" class="img-fluid w-100" alt="images">
                 </div>
 
                 <div class="col-lg-6 col-md-12 col-sm-12">
@@ -151,11 +151,9 @@
                         When it comes to shipping and marine services, we have you covered. Our team of experts has experience in dealing with all aspects of shipping and marine operations. From logistics to vessel operations, we are committed to providing you with the best possible service.
                     </p>
 
-
                     <p>
-                        When it comes to shipping and marine services, we have you covered. Our team of experts has experience in dealing with all aspects of shipping and marine operations. From logistics to vessel operations, we are committed to providing you with the best possible service.
+                        We also understand the importance of fairness in all aspects of our business. We treat all of our clients with respect and fairness, and we are committed to providing you with the best possible service at a fair price. We believe that honesty and transparency are key to building long-term relationships with our clients.
                     </p>
-
 
                 </div>
             </div>
@@ -171,16 +169,15 @@
                     <p>
                         Dredging and engineering are our specialties, and we take great pride in our ability to deliver excellent results. Our team is made up of highly skilled professionals who are dedicated to providing you with the best service possible. We use the latest technology and equipment to ensure that your project is completed on time and within budget.
                     </p>
-                    
-                    <p>
-                        Dredging and engineering are our specialties, and we take great pride in our ability to deliver excellent results. Our team is made up of highly skilled professionals who are dedicated to providing you with the best service possible. We use the latest technology and equipment to ensure that your project is completed on time and within budget.
-                    </p>
 
 
                     <p>
                         In the construction and engineering field, we provide a wide range of services. Our team can handle everything from project management to design and construction. We have experience in a variety of construction projects, from residential to commercial, and we are confident that we can provide you with the best possible service.
                     </p>
 
+                    <p>
+                        In conclusion, if you are in need of top-notch services in the fields of dredging and engineering, shipping and marine, or construction and engineering, look no further than the SMTA Group. With our commitment to safety, fairness, and excellence, we are confident that we can provide you with the best possible service. Contact us today to learn more about our services and how we can help you achieve your goals.
+                    </p>
 
                 </div>
 
@@ -193,13 +190,9 @@
 
 
 
-            <p>
-                We also understand the importance of fairness in all aspects of our business. We treat all of our clients with respect and fairness, and we are committed to providing you with the best possible service at a fair price. We believe that honesty and transparency are key to building long-term relationships with our clients.
-            </p>
 
-            <p>
-                In conclusion, if you are in need of top-notch services in the fields of dredging and engineering, shipping and marine, or construction and engineering, look no further than the SMTA Group. With our commitment to safety, fairness, and excellence, we are confident that we can provide you with the best possible service. Contact us today to learn more about our services and how we can help you achieve your goals.
-            </p>
+
+
         </div>
 
 

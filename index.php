@@ -602,7 +602,7 @@
 
     </div>
     <div class="d-flex justify-content-center mt-4">
-        <a href="" class="btn px-5 py-2 fw-bold border-3 rounded-pill btn-outline-primary">Read More</a>
+        <a href="news-events.php" class="btn px-5 py-2 fw-bold border-3 rounded-pill btn-outline-primary">Read More</a>
     </div>
 
 </div>

@@ -77,57 +77,55 @@
                                             Enterprise
                                         </a>
                                         <ul class="dropdown-menu animate slideIn" aria-labelledby="dropdownMenuButton">
-                                            <!-- <li><a class="dropdown-item" href="#">Constraction and Engineering</a></li>
-                                        <li>
-                                            <a class="dropdown-item" href="#">Shipping and Merine Services</a>
-                                        </li> -->
 
                                             <li>
+                                                <a class="dropdown-item" href="dred-eng.php">Dredging and Engineering</a>
+                                            </li>
+
+                                            <li>
+                                                <a class="dropdown-item" href="shipping-merine.php">M/S SMTA Shipping and Merine Services</a>
+                                            </li>
+
+                                            <li>
+                                                <a class="dropdown-item" href="constraction.php">M/S SMTA Constraction and Engineering</a>
+                                            </li>
+
+                                            <!-- <li>
                                                 <a class="dropdown-item">
                                                     Dredging
                                                 </a>
                                                 <ul class="dropdown-menu dropdown-submenu animate slideIn">
                                                     <li>
                                                         <a class="dropdown-item" href="dred-eng.php">Dredging and Engineering
-                                                            <!-- <i class="fa-solid small fa-caret-right"></i> -->
+                                                        
                                                         </a>
-                                                        <!-- <ul class="dropdown-menu dropdown-submenu animate slideIn">
+                                                        <ul class="dropdown-menu dropdown-submenu animate slideIn">
                                                         <li>
                                                             <a class="dropdown-item" href="#">Sub sub item 5</a>
                                                         </li>
-                                                        <li>
-                                                            <a class="dropdown-item" href="#">Multi level 2</a>
-                                                        </li>
-                                                    </ul> -->
+                                                    </ul>
                                                     </li>
-
                                                 </ul>
-                                            </li>
+                                            </li> -->
 
-                                            <li>
+                                            <!-- <li>
                                                 <a class="dropdown-item" href="#">Shipping/ Merine </a>
                                                 <ul class="dropdown-menu dropdown-submenu animate slideIn">
                                                     <li>
                                                         <a class="dropdown-item" href="shipping-merine.php">M/S SMTA Shipping and Merine Services</a>
                                                     </li>
-                                                    <!-- <li>
-                                                    <a class="dropdown-item" href="#">M/S SMTA Constraction and Engineering</a>
-                                                </li> -->
                                                 </ul>
-                                            </li>
+                                            </li> -->
 
-
+                                            <!-- 
                                             <li>
                                                 <a class="dropdown-item" href="#">Constraction/Engineering </i> </a>
                                                 <ul class="dropdown-menu dropdown-submenu animate slideIn">
-                                                    <!-- <li>
-                                                    <a class="dropdown-item" href="#">M/S SMTA Shipping and Merine Services</a>
-                                                </li> -->
                                                     <li>
                                                         <a class="dropdown-item" href="constraction.php">M/S SMTA Constraction and Engineering</a>
                                                     </li>
                                                 </ul>
-                                            </li>
+                                            </li> -->
 
                                             <!-- <li>
                                             <a class="dropdown-item">
@@ -209,16 +207,16 @@
                                 </a>
 
                                 <div class="d-flex flex-lg-row flex-column justify-content-center w-100">
-                                <li class="nav-item"><a href="./news-events.php" class="nav-link"> News & Evants</a></li>
-                                <li class="nav-item"><a href="career.php" class="nav-link">Career</a></li>
-                                <li class="nav-item"><a href="./contact.php" class="nav-link">Contact Us</a></li>
-                                <li class="nav-item ms-lg-2">
-                                    <a href="https://www.bb.org.bd/en/index.php/econdata/exchangerate" target="_blank" class="exchange nav-link">Exchange Rate</a>
-                                </li>
+                                    <li class="nav-item"><a href="./news-events.php" class="nav-link"> News & Evants</a></li>
+                                    <li class="nav-item"><a href="career.php" class="nav-link">Career</a></li>
+                                    <li class="nav-item"><a href="./contact.php" class="nav-link">Contact Us</a></li>
+                                    <li class="nav-item ms-lg-2">
+                                        <a href="https://www.bb.org.bd/en/index.php/econdata/exchangerate" target="_blank" class="exchange nav-link">Exchange Rate</a>
+                                    </li>
                                 </div>
 
-                                
-                                
+
+
                             </ul>
 
                         </div>

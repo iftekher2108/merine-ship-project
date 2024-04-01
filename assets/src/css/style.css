@@ -388,6 +388,7 @@ a.exchange {
 }
 
 .service .card {
+    height: 17rem;
     transition: all 0.4s ease-in-out;
     -webkit-transition: all 0.4s ease-in-out;
     -moz-transition: all 0.4s ease-in-out;
@@ -697,6 +698,11 @@ a.exchange {
     background-size: cover;
     background-attachment: fixed;
 }
+
+.contact-group-card .contact-content {
+    height: 17rem;
+}
+
 
 .contact-us li {
     list-style: none;

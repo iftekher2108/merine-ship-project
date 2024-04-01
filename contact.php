@@ -88,14 +88,17 @@
                         <hr class="p-0 m-0">
                     </div>
 
-                    <div class="row g-4 
+                    <div class="contact-group-card row g-4 
                      mb-3">
 
                         <div class="col-lg-4 col-md-6 col-sm-12">
                             <div class="card contact-content rounded-0 shadow-sm p-3">
                                 <h3 class="text-primary">DREDGING AND ENGINEERING</h3>
-                                <p>
-                                    Maintenance dredging removes unwanted silt, sand or sludge from existing channels, lakes, ponds and rivers. Performed by our long-reach excavator, we improve ...
+                                <p class="line-clamp-4">
+
+                                    Maintenance dredging removes unwanted silt, sand or sludge from existing channels, lakes,
+                                    ponds and rivers. Performed by our long-reach excavator, we improve ...
+
                                 </p>
 
                                 <button class="btn btn-outline-primary px-4 py-2 rounded-0 contact-us-btn">Contact Us</button>
@@ -245,8 +248,11 @@
                         <div class="col-lg-4 col-md-6 col-sm-12">
                             <div class="card contact-content rounded-0 shadow-sm p-3">
                                 <h3 class="text-primary">SHIPPING AND <br> MERINE</h3>
-                                <p>
-                                    Maintenance dredging removes unwanted silt, sand or sludge from existing channels, lakes, ponds and rivers. Performed by our long-reach excavator, we improve ...
+                                <p class="line-clamp-4">
+
+                                    SMTA Marin for many years has been called upon for towage projects across the Bay of Bangle,
+                                    Gulf and red sea. We offer a wide range of services to our customers...
+
                                 </p>
 
                                 <button class="btn btn-outline-primary px-4 py-2 rounded-0 contact-us-btn">Contact Us</button>
@@ -395,8 +401,11 @@
                         <div class="col-lg-4 col-md-6 col-sm-12">
                             <div class="card contact-content rounded-0 shadow-sm p-3">
                                 <h3 class="text-primary">CONSTRACTION AND ENGINEERING</h3>
-                                <p>
-                                    Maintenance dredging removes unwanted silt, sand or sludge from existing channels, lakes, ponds and rivers. Performed by our long-reach excavator, we improve ...
+                                <p class="line-clamp-4">
+
+                                    SMTA specializes in small and medium fabrication for structures and equipment used in the
+                                    renewable energy, marine, and offshore oil and gas industries…
+
                                 </p>
 
                                 <button class="btn btn-outline-primary px-4 py-2 rounded-0 contact-us-btn">Contact Us</button>

@@ -38,7 +38,7 @@
                 <div class="preview-block fixed-top w-100 h-100 bg-dark bg-opacity-75">
                     <span class="bg-primary preview-close"><i class="fa-solid m-auto fa-xmark"></i></span>
                     <div class="d-flex h-100 w-100 align-items-center m-auto p-lg-8 p-md-6 p-sm-4 justify-content-center">
-                        <img src="" class="preview-img img-fluid w-100 h-100" alt="preview">
+                        <img src="" class="preview-img img-fluid w-100" alt="preview">
                     </div>
                         
                 </div>

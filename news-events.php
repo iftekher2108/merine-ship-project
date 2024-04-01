@@ -21,13 +21,13 @@
         <div class="col-xxl-10 col-xl-10 col-lg-10 col-md-12 col-sm-12 m-auto p-2">
             <h1 class="text-primary text-capitalize mb-5 fw-bold">Latest News & Events</h1>
 
-            <div class="news-block text-justify">
+            <div class="news-block text-justify mb-5">
                 <div class="row g-3">
 
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <a href="#" class="nav-link block">
                             <div class="position-relative shadow m-1">
-                                <img src="./assets/images/news-1.jpg" class="img-fluid w-100 h-100" alt="news-img">
+                                <img src="./assets/images/news/news-1.jpg" class="img-fluid w-100 h-100" alt="news-img">
                                 <div class="news-content p-4 text-white bg-dark bg-opacity-25 d-flex flex-column justify-content-end position-absolute top-0 start-0 w-100 h-100">
                                     <span class="small">21/02/2024</span>
                                     <h5 class="fw-bold line-clamp-2">Breakthrough in Eco-Friendly Shipping</h5>
@@ -43,7 +43,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <a href="#" class="nav-link block">
                             <div class="position-relative shadow m-1">
-                                <img src="./assets/images/new-2.jpg" class="img-fluid w-100 h-100" alt="news-img">
+                                <img src="./assets/images/news/news-2.jpg" class="img-fluid w-100 h-100" alt="news-img">
                                 <div class="news-content p-4 text-white bg-dark bg-opacity-25 d-flex flex-column justify-content-end position-absolute top-0 start-0 w-100 h-100">
                                     <span class="small">21/02/2024</span>
                                     <h5 class="fw-bold line-clamp-2">Breakthrough in Eco-Friendly Shipping</h5>
@@ -59,7 +59,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <a href="#" class="nav-link block">
                             <div class="position-relative shadow m-1">
-                                <img src="./assets/images/new-3.jpg" class="img-fluid w-100 h-100" alt="news-img">
+                                <img src="./assets/images/news/news-3.jpg" class="img-fluid w-100 h-100" alt="news-img">
                                 <div class="news-content p-4 text-white d-flex bg-dark bg-opacity-25 flex-column justify-content-end position-absolute top-0 start-0 w-100 h-100">
                                     <span class="small">21/02/2024</span>
                                     <h5 class="fw-bold line-clamp-2">Breakthrough in Eco-Friendly Shipping</h5>
@@ -75,7 +75,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <a href="#" class="nav-link block">
                             <div class="position-relative shadow m-1">
-                                <img src="./assets/images/new-3.jpg" class="img-fluid w-100 h-100" alt="news-img">
+                                <img src="./assets/images/news/news-4.jpg" class="img-fluid w-100 h-100" alt="news-img">
                                 <div class="news-content p-4 text-white d-flex bg-dark bg-opacity-25 flex-column justify-content-end position-absolute top-0 start-0 w-100 h-100">
                                     <span class="small">21/02/2024</span>
                                     <h5 class="fw-bold line-clamp-2">Breakthrough in Eco-Friendly Shipping</h5>
@@ -91,7 +91,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <a href="#" class="nav-link block">
                             <div class="position-relative shadow m-1">
-                                <img src="./assets/images/new-3.jpg" class="img-fluid w-100 h-100" alt="news-img">
+                                <img src="./assets/images/news/news-5.jpg" class="img-fluid w-100 h-100" alt="news-img">
                                 <div class="news-content p-4 text-white d-flex bg-dark bg-opacity-25 flex-column justify-content-end position-absolute top-0 start-0 w-100 h-100">
                                     <span class="small">21/02/2024</span>
                                     <h5 class="fw-bold line-clamp-2">Breakthrough in Eco-Friendly Shipping</h5>
@@ -107,7 +107,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <a href="#" class="nav-link block">
                             <div class="position-relative shadow m-1">
-                                <img src="./assets/images/new-3.jpg" class="img-fluid w-100 h-100" alt="news-img">
+                                <img src="./assets/images/news/news-6.jpg" class="img-fluid w-100 h-100" alt="news-img">
                                 <div class="news-content p-4 text-white d-flex bg-dark bg-opacity-25 flex-column justify-content-end position-absolute top-0 start-0 w-100 h-100">
                                     <span class="small">21/02/2024</span>
                                     <h5 class="fw-bold line-clamp-2">Breakthrough in Eco-Friendly Shipping</h5>
