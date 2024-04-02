@@ -3,7 +3,7 @@
 
 <!-- main section  -->
 <div class="news-hero position-relative">
-    <img src="./assets/images/Dredge-eng-banner.jpg" class="img-fluid w-100 h-100" alt="feature-img">
+    <img src="./assets/images/about-us/about-us.jpg" class="img-fluid w-100 h-100" alt="feature-img">
 
     <div class="feature-content position-absolute bg-dark bg-opacity-30 text-white px-4 top-50 translate-middle-y">
         <div class="col-lg-6 col-md-8 col-sm-10">

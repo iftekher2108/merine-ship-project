@@ -44,7 +44,7 @@
                         <div class="card bg-primary text-white rounded p-4">
                             <h2 class="text-uppercase fw-bold mb-3">Shipping and Merine</h2>
                             <p>
-                                SMTA Marin for many years has been called upon for towage projects across the Bay of Bangle,
+                                SMTA Merine for many years has been called upon for towage projects across the Bay of Bangle,
                                 Gulf and red sea. We offer a wide range of services to our customers...
                             </p>
                         </div>
