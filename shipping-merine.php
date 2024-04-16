@@ -7,7 +7,7 @@
 
     <div class="feature-content position-absolute bg-dark bg-opacity-30 text-white px-4 top-50 translate-middle-y">
         <div class="col-lg-6 col-md-8 col-sm-10">
-            <h1 class="display-4 fw-bold text-uppercase">Shipping and Merine Services</h1>
+            <h1 class="display-4 fw-bold text-uppercase">Shipping and Marine Services</h1>
             <p class="small ">
                 As a provider of shipping and marine services, it is important to stay up-to-date on the latest trends and technologies in the industry. With the increased demand for shipping and the growing importance of sustainability, there are several key areas to focus on in order to remain competitive and successful.
             </p>
@@ -22,11 +22,11 @@
     <div class="row g-2 m-0 py-4">
 
         <div class="col-xxl-10 col-xl-10 col-lg-10 col-md-12 col-sm-12 m-auto p-2">
-            <h1 class="text-primary text-capitalize fw-bold">Shipping and Merine services</h1>
+            <h1 class="text-primary text-capitalize fw-bold">Shipping and Marine services</h1>
 
             <div class="news-content text-justify">
 
-                <!-- <h4 class="text-capitalize">Shipping And Merine</h4> -->
+                <!-- <h4 class="text-capitalize">Shipping And Marine</h4> -->
 
                 <p>
                     One of the most important trends in the shipping industry is the move towards more sustainable practices. With concerns about climate change and the impact of shipping on the environment, many companies are looking for ways to reduce their carbon footprint and operate in an eco-friendlier manner. This can include investing in more fuel-efficient ships, using alternative fuels, and implementing recycling and waste reduction programs. <br>
@@ -42,7 +42,7 @@
 
                 <!-- <img src="./assets/images/shipping-merine-2.jpg" class="img-fluid my-2" alt="news-image"> -->
 
-                <h4 class="text-capitalize">Shipping And Merine</h4>
+                <h4 class="text-capitalize">Shipping And Marine</h4>
                 
                 <p>
                     Finally, it is important for shipping and marine services providers to focus on customer service. With so many options available to customers, it is essential to provide high-quality service and to be responsive to customer needs and concerns. This can include providing real-time tracking information, offering flexible delivery options, and providing excellent communication throughout the shipping process. <br>

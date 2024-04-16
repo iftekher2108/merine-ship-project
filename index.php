@@ -84,7 +84,7 @@
 
             <p>
                 Our goal is to provide our members with the resources and tools they need to succeed in their careers. We believe that by working together, we can achieve great things and make a positive impact on our industry. <br>
-                As a member of the SMTA Group, you will have access to a wide range of benefits and opportunities. These include Dredging and Engineering, Construction and Engineering, Shipping and Merine Services and more. We encourage you to take advantage of these resources and connect with your fellow members.
+                As a member of the SMTA Group, you will have access to a wide range of benefits and opportunities. These include Dredging and Engineering, Construction and Engineering, Shipping and Marine Services and more. We encourage you to take advantage of these resources and connect with your fellow members.
             </p>
 
             <!-- <p class="">
@@ -94,7 +94,7 @@
 
         </div>
         <div class="col-lg-6 col-md-12 col-sm-12 block-img">
-            <img src="./assets/images/welcometoSMTA.jpeg" class="img-fluid" alt="images">
+            <img src="./assets/images/WELLCOME-TO-SMTA-GROUP.png" class="img-fluid" alt="images">
         </div>
 
     </div>
@@ -146,7 +146,7 @@
                         </g>
                     </svg>
                 </span>
-                <h1 class="text-uppercase fw-bold mb-2">Our Vission</h1>
+                <h1 class="text-uppercase fw-bold mb-2">Our Vision</h1>
                 <h4 class="text-uppercase fw-bold mb-2">safety and environmental</h4>
                 <p class="pe-1">
                     I am proud to share our company vision with you. We are a global leader in the dredging and engineering, construction and engineering, and shipping and marine services industries. Our goal is to provide top-quality services to our clients while maintaining a safe and sustainable approach. <br>
@@ -365,7 +365,7 @@
             We are dedicated to understand your needs and to provide solutions that are customized to your business.
             Our approach is proactive, collaborative and transparent.
             We make the best use of our vast experience, cutting edge equipment and data driven operations to serve,
-            with a focus on a best‐inclass reliability and operational efficiency.
+            with a focus on a best‐in class reliability and operational efficiency.
         </p>
 
 
@@ -394,7 +394,7 @@
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <a href="shipping-merine.php" class="nav-link">
                     <div class="card bg-white bg-opacity-75 rounded p-4">
-                        <h2 class="text-primary text-uppercase fw-bold mb-3">Shipping and Merine</h2>
+                        <h2 class="text-primary text-uppercase fw-bold mb-3">Shipping and Marine</h2>
                         <p>
                             SMTA specializes in small and medium fabrication for structures and equipment used in the
                             renewable energy, marine, and offshore oil and gas industries…
@@ -406,9 +406,9 @@
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <a href="constraction.php" class="nav-link">
                     <div class="card bg-white bg-opacity-75 rounded p-4">
-                        <h2 class="text-primary text-uppercase fw-bold mb-3">Constraction and Engineering</h2>
+                        <h2 class="text-primary text-uppercase fw-bold mb-3">Construction and Engineering</h2>
                         <p>
-                            SMTA Merine for many years has been called upon for towage projects across the Bay of Bangle,
+                            SMTA Marine for many years has been called upon for towage projects across the Bay of Bangle,
                             Gulf and red sea. We offer a wide range of services to our customers...
                         </p>
                     </div>

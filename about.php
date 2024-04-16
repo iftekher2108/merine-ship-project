@@ -135,7 +135,7 @@
             <div class="row g-4 mb-3 align-items-center ">
 
                 <div class="col-lg-6 col-md-12 col-sm-12">
-                    <img src="./assets/images/about-1.jpg" class="img-fluid w-100" alt="images">
+                    <img src="./assets/images/about-1.png" class="img-fluid w-100" alt="images">
                 </div>
 
                 <div class="col-lg-6 col-md-12 col-sm-12">

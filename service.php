@@ -11,7 +11,7 @@
             business.
             Our approach is proactive, collaborative and transparent. We make the best use of our vast
             experience, cutting edge equipment and data driven operations to serve, with a focus on a
-            best‐inclass reliability and operational efficiency.
+            best‐in class reliability and operational efficiency.
         </p>
     </div>
 </div>
@@ -42,9 +42,9 @@
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <a href="./shipping-merine.php" class="nav-link">
                         <div class="card bg-primary text-white rounded p-4">
-                            <h2 class="text-uppercase fw-bold mb-3">Shipping and Merine</h2>
+                            <h2 class="text-uppercase fw-bold mb-3">Shipping and Marine</h2>
                             <p>
-                                SMTA Merine for many years has been called upon for towage projects across the Bay of Bangle,
+                                SMTA Marine for many years has been called upon for towage projects across the Bay of Bangle,
                                 Gulf and red sea. We offer a wide range of services to our customers...
                             </p>
                         </div>
@@ -54,7 +54,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <a href="./constraction.php" class="nav-link">
                         <div class="card bg-primary text-white rounded p-4">
-                            <h2 class="text-uppercase fw-bold mb-3">Constraction and Engineering</h2>
+                            <h2 class="text-uppercase fw-bold mb-3">Construction and Engineering</h2>
                             <p>
                                 SMTA specializes in small and medium fabrication for structures and equipment used in the
                                 renewable energy, marine, and offshore oil and gas industries…
@@ -174,7 +174,7 @@
                     <span class="display-3">
                         <i class="fa-solid fa-ship"></i>
                     </span>
-                    <h2 class="fw-bold">SHIPPING AND <br> MERINE</h2>
+                    <h2 class="fw-bold">SHIPPING AND <br> MARINE</h2>
                 </div>
 
                 <p class="line-clamp-6">
@@ -207,7 +207,7 @@
                         <i class="fa-solid fa-user-nurse"></i>
                     </span>
                     <h2 class="fw-bold">
-                        CONSTRACTION AND <br> ENGINEERING
+                        CONSTRUCTION AND <br> ENGINEERING
                     </h2>
                 </div>
 

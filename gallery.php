@@ -3,7 +3,7 @@
 
 <!-- main section  -->
 <div class="news-hero position-relative">
-    <img src="./assets/images/news-and-events.jpeg" class="img-fluid w-100 h-100" alt="feature-img">
+    <img src="./assets/images/gallery-banner.jpg" class="img-fluid w-100 h-100" alt="feature-img">
 
     <div class="feature-content position-absolute bg-dark bg-opacity-30 text-white px-4 top-50 translate-middle-y">
         <h1 class="display-4 fw-bold text-uppercase">Gallery</h1>

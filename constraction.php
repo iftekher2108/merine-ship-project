@@ -7,7 +7,7 @@
 
     <div class="feature-content position-absolute bg-dark bg-opacity-30 text-white px-4 top-50 translate-middle-y">
         <div class="col-lg-6 col-md-8 col-sm-10">
-            <h1 class="display-4 fw-bold text-uppercase">Constraction and Engineering</h1>
+            <h1 class="display-4 fw-bold text-uppercase">Construction and Engineering</h1>
             <p class="small ">
                 As a provider of shipping and marine services, it is important to stay up-to-date on the latest trends and technologies in the industry. With the increased demand for shipping and the growing importance of sustainability, there are several key areas to focus on in order to remain competitive and successful.
             </p>
@@ -31,7 +31,7 @@
                     Steel is a versatile and durable material that has been used in construction and engineering for centuries. Its strength and resilience make it an ideal choice for buildings, bridges, and other structures that need to withstand the test of time. Steel Construction and Engineering is a leading company in the field, committed to providing high-quality steel products and services to clients around the world. <br>
                 </p>
 
-                <img src="./assets/images/Steel Construction and Engineering.jpg" class="img-fluid my-3" alt="news-image">
+                <img src="./assets/images/constraction-2.jpeg" class="img-fluid my-3" alt="news-image">
 
                 <p>
                     At Steel Construction and Engineering, we understand the importance of delivering reliable and cost-effective solutions to our clients. We have a team of experienced engineers and technicians who use state-of-the-art technology to design, fabricate, and construct steel structures that meet the highest standards of quality and safety. From small-scale projects to large-scale developments, we have the expertise and resources to handle any job, no matter how complex. <br>
@@ -42,7 +42,7 @@
                 </p>
 
                 <!-- <img src="./assets/images/Steel Construction and Engineering photo 2.jpg" class="img-fluid my-3" alt="news-image"> -->
-
+                <img src="./assets/images/Steel Construction and Engineering.jpg" class="img-fluid my-3" alt="news-image">
 
 
                 <p>

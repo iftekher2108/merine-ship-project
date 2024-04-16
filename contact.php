@@ -247,10 +247,10 @@
 
                         <div class="col-lg-4 col-md-6 col-sm-12">
                             <div class="card contact-content rounded-0 shadow-sm p-3">
-                                <h3 class="text-primary">SHIPPING AND <br> MERINE</h3>
+                                <h3 class="text-primary">SHIPPING AND <br> MARINE</h3>
                                 <p class="line-clamp-4">
 
-                                    SMTA Marin for many years has been called upon for towage projects across the Bay of Bangle,
+                                    SMTA Marine for many years has been called upon for towage projects across the Bay of Bangle,
                                     Gulf and red sea. We offer a wide range of services to our customers...
 
                                 </p>
@@ -274,7 +274,7 @@
                                             <div class="w-100 h-100  bg-dark">
                                                 <div class="p-4 text-white">
 
-                                                    <h4 class="text-uppercase fw-bold">SHIPPING AND MERINE</h4>
+                                                    <h4 class="text-uppercase fw-bold">SHIPPING AND MARINE</h4>
                                                     <div class="w-100">
                                                         <hr>
                                                     </div>
@@ -400,7 +400,7 @@
 
                         <div class="col-lg-4 col-md-6 col-sm-12">
                             <div class="card contact-content rounded-0 shadow-sm p-3">
-                                <h3 class="text-primary">CONSTRACTION AND ENGINEERING</h3>
+                                <h3 class="text-primary">CONSTRUCTION AND ENGINEERING</h3>
                                 <p class="line-clamp-4">
 
                                     SMTA specializes in small and medium fabrication for structures and equipment used in the
@@ -427,7 +427,7 @@
                                             <div class="w-100 h-100  bg-dark">
                                                 <div class="py-5 px-3 text-white">
 
-                                                    <h4 class="text-uppercase fw-bold">CONSTRACTION AND ENGINEERING</h4>
+                                                    <h4 class="text-uppercase fw-bold">CONSTRUCTION AND ENGINEERING</h4>
                                                     <div class="w-100">
                                                         <hr>
                                                     </div>

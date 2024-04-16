@@ -83,11 +83,11 @@
                                             </li>
 
                                             <li>
-                                                <a class="dropdown-item" href="shipping-merine.php">M/S SMTA Shipping and Merine Services</a>
+                                                <a class="dropdown-item" href="shipping-merine.php">M/S SMTA Shipping and Marine Services</a>
                                             </li>
 
                                             <li>
-                                                <a class="dropdown-item" href="constraction.php">M/S SMTA Constraction and Engineering</a>
+                                                <a class="dropdown-item" href="constraction.php">M/S SMTA Construction and Engineering</a>
                                             </li>
 
                                             <!-- <li>
@@ -207,7 +207,7 @@
                                 </a>
 
                                 <div class="d-flex flex-lg-row flex-column justify-content-center w-100">
-                                    <li class="nav-item"><a href="./news-events.php" class="nav-link"> News & Evants</a></li>
+                                    <li class="nav-item"><a href="./news-events.php" class="nav-link"> News & Events</a></li>
                                     <li class="nav-item"><a href="career.php" class="nav-link">Career</a></li>
                                     <li class="nav-item"><a href="./contact.php" class="nav-link">Contact Us</a></li>
                                     <li class="nav-item ms-lg-2">

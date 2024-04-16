@@ -40,7 +40,7 @@
     <div class="py-7 py-md-5 py-sm-4" style="background:#40679E">
         <div class="col-lg-8 col-md-10 col-12 m-auto text-white">
             <p class="display-6">SHARE YOUR DETAILS</p>
-            <p>Drop your All Information & CV to this Mail: <br> <a href="mailto:cv@smta-group.com" class="nav-link fw-bold">cv@smta-group.com </a></p>
+            <p>Drop your All Information & CV to this Mail: <br> <a href="mailto:career@smta-group.com" class="nav-link fw-bold">career@smta-group.com </a></p>
             <p>Contact With Us: <br>
                 +880 1810-020098</p>
         </div>
