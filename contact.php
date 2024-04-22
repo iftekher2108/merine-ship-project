@@ -150,14 +150,14 @@
 
                                                             <div class="col-lg-12 col-md-12 col-sm-12">
                                                                 <div class="form-group border-1 border-bottom border-primary mb-3">
-                                                                    <label for="" class="form-label text-primary">Interrested in</label>
+                                                                    <label for="" class="form-label text-primary">Interested in</label>
                                                                     <select name="" id="" class="form-select form-select-md text-capitalize border-0 shadow-none" required>
                                                                         <option value="" selected>Select</option>
                                                                         <option value="Dredging">Dredging</option>
                                                                         <option value="Engineering">Engineering</option>
                                                                         <option value="Shipping">Shipping</option>
-                                                                        <option value="Merine">Merine</option>
-                                                                        <option value="Constraction">Constraction</option>
+                                                                        <option value="Marine">Marine</option>
+                                                                        <option value="Construction">Construction</option>
                                                                         <option value="Something else">Something else</option>
                                                                     </select>
 
@@ -220,7 +220,7 @@
                                                             <div class="col-lg-12 col-md-12 col-sm-12">
                                                                 <div class="mb-3">
                                                                     <input type="checkbox" class="form-check-input border-primary confirm me-2" name="" id="floatingTextarea2">
-                                                                    <label for="confirm" class="form-check-label">I agree with your <span class="text-primary">Tarm & Condition</span></label>
+                                                                    <label for="confirm" class="form-check-label">I agree with your <span class="text-primary">Tarms & Conditions</span></label>
                                                                 </div>
                                                             </div>
 
@@ -310,8 +310,8 @@
                                                                         <option value="Dredging">Dredging</option>
                                                                         <option value="Engineering">Engineering</option>
                                                                         <option value="Shipping">Shipping</option>
-                                                                        <option value="Merine">Merine</option>
-                                                                        <option value="Constraction">Constraction</option>
+                                                                        <option value="Marine">Marine</option>
+                                                                        <option value="Construction">Construction</option>
                                                                         <option value="Something else">Something else</option>
                                                                     </select>
 
@@ -374,7 +374,7 @@
                                                             <div class="col-lg-12 col-md-12 col-sm-12">
                                                                 <div class="mb-3">
                                                                     <input type="checkbox" class="form-check-input border-primary confirm me-2" name="" id="floatingTextarea2">
-                                                                    <label for="confirm" class="form-check-label">I agree with your <span class="text-primary">Tarm & Condition</span></label>
+                                                                    <label for="confirm" class="form-check-label">I agree with your <span class="text-primary">Tarms & Conditions</span></label>
                                                                 </div>
                                                             </div>
 
@@ -462,8 +462,8 @@
                                                                         <option value="Dredging">Dredging</option>
                                                                         <option value="Engineering">Engineering</option>
                                                                         <option value="Shipping">Shipping</option>
-                                                                        <option value="Merine">Merine</option>
-                                                                        <option value="Constraction">Constraction</option>
+                                                                        <option value="Marine">Marine</option>
+                                                                        <option value="Construction">Construction</option>
                                                                         <option value="Something else">Something else</option>
                                                                     </select>
 
@@ -526,7 +526,7 @@
                                                             <div class="col-lg-12 col-md-12 col-sm-12">
                                                                 <div class="mb-3">
                                                                     <input type="checkbox" class="form-check-input border-primary confirm me-2" name="" id="floatingTextarea2">
-                                                                    <label for="confirm" class="form-check-label">I agree with your <span class="text-primary">Tarm & Condition</span></label>
+                                                                    <label for="confirm" class="form-check-label">I agree with your <span class="text-primary">Tarms & Conditions</span></label>
                                                                 </div>
                                                             </div>
 
