@@ -16,8 +16,12 @@
 
 <!-- contact hero -->
 
-
-
+<?php // if(isset($_SESSION['success']) || $_SESSION['success'] !== null) { ?>
+    <!-- <div class="alert alert-success alert-dismissible m-lg-7 m-md-5 m-sm-2 fade show" role="alert">
+        <strong>Thank You !</strong> <?php // echo $_SESSION['success']; ?>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div> -->
+<?php //} ?>
 
 <div class="pt-lg-7 pt-md-5 pt-sm-2 contact-us">
     <h1 class="text-center text-uppercase text-primary fw-bold">Contact With Our Team</h1>
@@ -25,6 +29,8 @@
 
 
     <div class="row g-2 mt-3 mb-lg-5 mb-md-4 mb-sm-3 ">
+
+    
 
         <div class="col-lg-10 m-auto col-md-12 col-sm-12">
             <!-- <h3>Office Information</h3> -->
@@ -145,13 +151,13 @@
                                             <div class="contact-section w-100 bg-white">
                                                 <div class="p-4">
                                                     <h1 class="text-uppercase my-3">Contact Us</h1>
-                                                    <form action="" class="" method="post">
+                                                    <form action="./functions/contact-mail.php" class="" method="post">
                                                         <div class="row g-3 my-3">
 
                                                             <div class="col-lg-12 col-md-12 col-sm-12">
                                                                 <div class="form-group border-1 border-bottom border-primary mb-3">
                                                                     <label for="" class="form-label text-primary">Interested in</label>
-                                                                    <select name="" id="" class="form-select form-select-md text-capitalize border-0 shadow-none" required>
+                                                                    <select name="service" id="" class="form-select form-select-md text-capitalize border-0 shadow-none" required>
                                                                         <option value="" selected>Select</option>
                                                                         <option value="Dredging">Dredging</option>
                                                                         <option value="Engineering">Engineering</option>
@@ -166,21 +172,21 @@
 
                                                             <div class="col-lg-12 col-md-12 col-sm-12">
                                                                 <div class="form-floating border-1 border-bottom border-primary mb-3">
-                                                                    <input type="text" name="" class="form-control border-0 shadow-none " id="floatingInput1" placeholder="First Name" required>
+                                                                    <input type="text" name="fname" class="form-control border-0 shadow-none " id="floatingInput1" placeholder="First Name" required>
                                                                     <label for="floatingInput1" class="text-primary">First Name</label>
                                                                 </div>
                                                             </div>
 
                                                             <div class="col-lg-12 col-md-12 col-sm-12">
                                                                 <div class="form-floating border-1 border-bottom border-primary mb-3">
-                                                                    <input type="text" name="" class="form-control border-0 shadow-none" id="floatingInput2" placeholder="Last Name" required>
+                                                                    <input type="text" name="lname" class="form-control border-0 shadow-none" id="floatingInput2" placeholder="Last Name" required>
                                                                     <label for="floatingInput2" class="text-primary">Last Name</label>
                                                                 </div>
                                                             </div>
 
                                                             <div class="col-lg-12 col-md-12 col-sm-12">
                                                                 <div class="form-floating border-1 border-bottom border-primary mb-3">
-                                                                    <input type="email" name="" class="form-control border-0 shadow-none" id="floatingInput3" placeholder="Email Address" required>
+                                                                    <input type="email" name="email" class="form-control border-0 shadow-none" id="floatingInput3" placeholder="Email Address" required>
                                                                     <label for="floatingInput3" class="text-primary">Email Address</label>
                                                                 </div>
                                                             </div>
@@ -188,7 +194,7 @@
                                                             <div class="col-lg-12 col-md-12 col-sm-12">
                                                                 <div class="form-group border-1 border-bottom border-primary mb-3">
                                                                     <label for="" class="form-label text-primary">Country</label>
-                                                                    <select name="" id="" class="form-select form-select-md border-0 shadow-none country-name" required>
+                                                                    <select name="country" id="" class="form-select form-select-md border-0 shadow-none country-name" required>
                                                                         <option value="" selected>Select</option>
                                                                     </select>
 
@@ -197,14 +203,14 @@
 
                                                             <div class="col-lg-12 col-md-12 col-sm-12">
                                                                 <div class="form-floating border-1 border-bottom border-primary mb-3">
-                                                                    <input type="text" name="" class="form-control number border-0 shadow-none" pattern="[0-9]+" id="floatingInput4" placeholder="Phone" required>
+                                                                    <input type="text" name="phone" class="form-control number border-0 shadow-none" pattern="[0-9]+" id="floatingInput4" placeholder="Phone" required>
                                                                     <label for="floatingInput4" class="text-primary">Phone</label>
                                                                 </div>
                                                             </div>
 
                                                             <div class="col-lg-12 col-md-12 col-sm-12">
                                                                 <div class="form-floating border-1 border-bottom border-primary mb-3">
-                                                                    <input type="text" name="" class="form-control border-0 shadow-none" id="floatingInput3" placeholder="Email Address" required>
+                                                                    <input type="text" name="company" class="form-control border-0 shadow-none" id="floatingInput3" placeholder="Email Address" required>
                                                                     <label for="floatingInput3" class="text-primary">Company</label>
                                                                 </div>
                                                             </div>
@@ -212,7 +218,7 @@
 
                                                             <div class="col-lg-12 col-md-12 col-sm-12">
                                                                 <div class="form-floating border-1 border-bottom border-primary mb-3">
-                                                                    <textarea class="form-control border-0 shadow-none" name="" placeholder="Write a valuable message for us" id="floatingTextarea2" style="height: 100px"></textarea>
+                                                                    <textarea class="form-control border-0 shadow-none" name="message" placeholder="Write a valuable message for us" id="floatingTextarea2" style="height: 100px"></textarea>
                                                                     <label for="floatingTextarea2" class="text-primary">Write a valuable message for us</label>
                                                                 </div>
                                                             </div>
@@ -299,13 +305,13 @@
                                             <div class="contact-section w-100 bg-white">
                                                 <div class="p-4">
                                                     <h1 class="text-uppercase my-3">Contact Us</h1>
-                                                    <form action="" class="" method="post">
+                                                    <form action="./functions/contact-mail.php" class="" method="post">
                                                         <div class="row g-3 my-3">
 
                                                             <div class="col-lg-12 col-md-12 col-sm-12">
                                                                 <div class="form-group border-1 border-bottom border-primary mb-3">
                                                                     <label for="" class="form-label text-primary">Interrested in</label>
-                                                                    <select name="" id="" class="form-select form-select-md text-capitalize border-0 shadow-none" required>
+                                                                    <select name="service" id="" class="form-select form-select-md text-capitalize border-0 shadow-none" required>
                                                                         <option value="" selected>Select</option>
                                                                         <option value="Dredging">Dredging</option>
                                                                         <option value="Engineering">Engineering</option>
@@ -320,21 +326,21 @@
 
                                                             <div class="col-lg-12 col-md-12 col-sm-12">
                                                                 <div class="form-floating border-1 border-bottom border-primary mb-3">
-                                                                    <input type="text" name="" class="form-control border-0 shadow-none " id="floatingInput1" placeholder="First Name" required>
+                                                                    <input type="text" name="fname" class="form-control border-0 shadow-none " id="floatingInput1" placeholder="First Name" required>
                                                                     <label for="floatingInput1" class="text-primary">First Name</label>
                                                                 </div>
                                                             </div>
 
                                                             <div class="col-lg-12 col-md-12 col-sm-12">
                                                                 <div class="form-floating border-1 border-bottom border-primary mb-3">
-                                                                    <input type="text" name="" class="form-control border-0 shadow-none" id="floatingInput2" placeholder="Last Name" required>
+                                                                    <input type="text" name="lname" class="form-control border-0 shadow-none" id="floatingInput2" placeholder="Last Name" required>
                                                                     <label for="floatingInput2" class="text-primary">Last Name</label>
                                                                 </div>
                                                             </div>
 
                                                             <div class="col-lg-12 col-md-12 col-sm-12">
                                                                 <div class="form-floating border-1 border-bottom border-primary mb-3">
-                                                                    <input type="email" name="" class="form-control border-0 shadow-none" id="floatingInput3" placeholder="Email Address" required>
+                                                                    <input type="email" name="email" class="form-control border-0 shadow-none" id="floatingInput3" placeholder="Email Address" required>
                                                                     <label for="floatingInput3" class="text-primary">Email Address</label>
                                                                 </div>
                                                             </div>
@@ -342,7 +348,7 @@
                                                             <div class="col-lg-12 col-md-12 col-sm-12">
                                                                 <div class="form-group border-1 border-bottom border-primary mb-3">
                                                                     <label for="" class="form-label text-primary">Country</label>
-                                                                    <select name="" id="" class="form-select form-select-md border-0 shadow-none country-name" required>
+                                                                    <select name="country" id="" class="form-select form-select-md border-0 shadow-none country-name" required>
                                                                         <option value="" selected>Select</option>
                                                                     </select>
 
@@ -351,14 +357,14 @@
 
                                                             <div class="col-lg-12 col-md-12 col-sm-12">
                                                                 <div class="form-floating border-1 border-bottom border-primary mb-3">
-                                                                    <input type="text" name="" class="form-control number border-0 shadow-none" pattern="[0-9]+" id="floatingInput4" placeholder="Phone" required>
+                                                                    <input type="text" name="phone" class="form-control number border-0 shadow-none" pattern="[0-9]+" id="floatingInput4" placeholder="Phone" required>
                                                                     <label for="floatingInput4" class="text-primary">Phone</label>
                                                                 </div>
                                                             </div>
 
                                                             <div class="col-lg-12 col-md-12 col-sm-12">
                                                                 <div class="form-floating border-1 border-bottom border-primary mb-3">
-                                                                    <input type="text" name="" class="form-control border-0 shadow-none" id="floatingInput3" placeholder="Email Address" required>
+                                                                    <input type="text" name="company" class="form-control border-0 shadow-none" id="floatingInput3" placeholder="Email Address" required>
                                                                     <label for="floatingInput3" class="text-primary">Company</label>
                                                                 </div>
                                                             </div>
@@ -366,7 +372,7 @@
 
                                                             <div class="col-lg-12 col-md-12 col-sm-12">
                                                                 <div class="form-floating border-1 border-bottom border-primary mb-3">
-                                                                    <textarea class="form-control border-0 shadow-none" name="" placeholder="Write a valuable message for us" id="floatingTextarea2" style="height: 100px"></textarea>
+                                                                    <textarea class="form-control border-0 shadow-none" name="message" placeholder="Write a valuable message for us" id="floatingTextarea2" style="height: 100px"></textarea>
                                                                     <label for="floatingTextarea2" class="text-primary">Write a valuable message for us</label>
                                                                 </div>
                                                             </div>
@@ -451,13 +457,13 @@
                                             <div class="contact-section w-100 bg-white">
                                                 <div class="p-4">
                                                     <h1 class="text-uppercase my-3">Contact Us</h1>
-                                                    <form action="" class="" method="post">
+                                                    <form action="./functions/contact-mail.php" class="" method="post">
                                                         <div class="row g-3 my-3">
 
                                                             <div class="col-lg-12 col-md-12 col-sm-12">
                                                                 <div class="form-group border-1 border-bottom border-primary mb-3">
                                                                     <label for="" class="form-label text-primary">Interrested in</label>
-                                                                    <select name="" id="" class="form-select form-select-md text-capitalize border-0 shadow-none" required>
+                                                                    <select name="service" id="" class="form-select form-select-md text-capitalize border-0 shadow-none" required>
                                                                         <option value="" selected>Select</option>
                                                                         <option value="Dredging">Dredging</option>
                                                                         <option value="Engineering">Engineering</option>
@@ -472,21 +478,21 @@
 
                                                             <div class="col-lg-12 col-md-12 col-sm-12">
                                                                 <div class="form-floating border-1 border-bottom border-primary mb-3">
-                                                                    <input type="text" name="" class="form-control border-0 shadow-none " id="floatingInput1" placeholder="First Name" required>
+                                                                    <input type="text" name="fname" class="form-control border-0 shadow-none " id="floatingInput1" placeholder="First Name" required>
                                                                     <label for="floatingInput1" class="text-primary">First Name</label>
                                                                 </div>
                                                             </div>
 
                                                             <div class="col-lg-12 col-md-12 col-sm-12">
                                                                 <div class="form-floating border-1 border-bottom border-primary mb-3">
-                                                                    <input type="text" name="" class="form-control border-0 shadow-none" id="floatingInput2" placeholder="Last Name" required>
+                                                                    <input type="text" name="lname" class="form-control border-0 shadow-none" id="floatingInput2" placeholder="Last Name" required>
                                                                     <label for="floatingInput2" class="text-primary">Last Name</label>
                                                                 </div>
                                                             </div>
 
                                                             <div class="col-lg-12 col-md-12 col-sm-12">
                                                                 <div class="form-floating border-1 border-bottom border-primary mb-3">
-                                                                    <input type="email" name="" class="form-control border-0 shadow-none" id="floatingInput3" placeholder="Email Address" required>
+                                                                    <input type="email" name="email" class="form-control border-0 shadow-none" id="floatingInput3" placeholder="Email Address" required>
                                                                     <label for="floatingInput3" class="text-primary">Email Address</label>
                                                                 </div>
                                                             </div>
@@ -494,7 +500,7 @@
                                                             <div class="col-lg-12 col-md-12 col-sm-12">
                                                                 <div class="form-group border-1 border-bottom border-primary mb-3">
                                                                     <label for="" class="form-label text-primary">Country</label>
-                                                                    <select name="" id="" class="form-select form-select-md border-0 shadow-none country-name" required>
+                                                                    <select name="country" id="" class="form-select form-select-md border-0 shadow-none country-name" required>
                                                                         <option value="" selected>Select</option>
                                                                     </select>
 
@@ -503,14 +509,14 @@
 
                                                             <div class="col-lg-12 col-md-12 col-sm-12">
                                                                 <div class="form-floating border-1 border-bottom border-primary mb-3">
-                                                                    <input type="text" name="" class="form-control number border-0 shadow-none" pattern="[0-9]+" id="floatingInput4" placeholder="Phone" required>
+                                                                    <input type="text" name="phone" class="form-control number border-0 shadow-none" pattern="[0-9]+" id="floatingInput4" placeholder="Phone" required>
                                                                     <label for="floatingInput4" class="text-primary">Phone</label>
                                                                 </div>
                                                             </div>
 
                                                             <div class="col-lg-12 col-md-12 col-sm-12">
                                                                 <div class="form-floating border-1 border-bottom border-primary mb-3">
-                                                                    <input type="text" name="" class="form-control border-0 shadow-none" id="floatingInput3" placeholder="Email Address" required>
+                                                                    <input type="text" name="company" class="form-control border-0 shadow-none" id="floatingInput3" placeholder="Email Address" required>
                                                                     <label for="floatingInput3" class="text-primary">Company</label>
                                                                 </div>
                                                             </div>
@@ -518,7 +524,7 @@
 
                                                             <div class="col-lg-12 col-md-12 col-sm-12">
                                                                 <div class="form-floating border-1 border-bottom border-primary mb-3">
-                                                                    <textarea class="form-control border-0 shadow-none" name="" placeholder="Write a valuable message for us" id="floatingTextarea2" style="height: 100px"></textarea>
+                                                                    <textarea class="form-control border-0 shadow-none" name="message" placeholder="Write a valuable message for us" id="floatingTextarea2" style="height: 100px"></textarea>
                                                                     <label for="floatingTextarea2" class="text-primary">Write a valuable message for us</label>
                                                                 </div>
                                                             </div>
