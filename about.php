@@ -130,16 +130,16 @@
 
         <!-- about us -->
 
-        <div class="col-10 m-auto">
+        <div class=" m-auto">
 
-            <div class="row g-4 mb-3 align-items-center ">
+            <div class="row g-6 align-items-center p-4 mb-5 ">
 
                 <div class="col-lg-6 col-md-12 col-sm-12">
                     <img src="./assets/images/about-1.png" class="img-fluid w-100" alt="images">
                 </div>
 
                 <div class="col-lg-6 col-md-12 col-sm-12">
-                    <h2 class=" fw-bold text-primary my-3 text-capitalize">About Our SMTA GROUP</h2>
+                    <h2 class=" fw-bold text-primary my-3 text-capitalize">About SMTA GROUP</h2>
 
                     <div class="p-1 bg-primary effect rounded w-25 mb-3"></div>
 
@@ -159,7 +159,7 @@
             </div>
 
 
-            <div class="row g-3">
+            <div class="row g-6 align-items-center p-4 mb-7">
 
                 <div class="col-lg-6 col-md-12 col-sm-12">
                     <!-- <h2 class=" fw-bold text-primary my-3 text-capitalize">About Our SMTA GROUP</h2> -->
@@ -191,15 +191,126 @@
 
 
 
+            <div class="row g-0 mt-4 align-items-center p-4 my-6">
+                <div class="col-lg-6 col-md-12 col-sm-12">
+                    <div class="d-flex flex-column align-items-center h-100 gap-2 justify-content-center ">
+                        <img src="./assets/images/user-picture.jpg" class="img-fluid rounded-pill w-50 h-50" alt="picture">
+                        <h3 class="title">S.M. Saleh Uddin</h3>
+                        <p>Chairman</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-6 col-md-12 col-sm-12 align-self-start">
+                    <div class="px-2 py-4">
+                        <h3 class="mb-2">Message Form Chairman</h3>
+                        <p class="text-justify">
+                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorum, hic assumenda? Accusamus maxime debitis pariatur autem,
+                            nostrum adipisci natus temporibus dicta saepe praesentium molestiae, magnam repellat eaque maiores eveniet numquam dignissimos
+                            fuga consectetur! Eum quae minus odio illo eveniet tenetur temporibus voluptas, esse nam aut ea nesciunt, debitis recusandae.
+                            Minus illo animi impedit alias blanditiis in quidem rerum nostrum? Aperiam. Lorem ipsum dolor sit amet consectetur adipisicing
+                            elit. Dolor rem libero commodi voluptates ad maxime dolore soluta. Maiores, incidunt fugit.
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+
+
+            <div class="row g-0 mt-4 align-items-center p-4 my-5">
+
+                <div class="col-lg-6 col-md-12 col-sm-12 align-self-start">
+                    <div class="px-2 py-4">
+                        <h3 class="mb-2">Message Form Managing Director</h3>
+                        <p class="text-justify">
+                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorum, hic assumenda? Accusamus maxime
+                            debitis pariatur autem, nostrum adipisci natus temporibus dicta saepe praesentium molestiae, magnam
+                            repellat eaque maiores eveniet numquam dignissimos fuga consectetur! Eum quae minus odio illo eveniet
+                            tenetur temporibus voluptas, esse nam aut ea nesciunt, debitis recusandae. Minus illo animi impedit
+                            alias blanditiis in quidem rerum nostrum? Aperiam. Lorem, ipsum dolor sit amet consectetur adipisicing
+                            elit. Id, iure ducimus! Rerum omnis odio assumenda maxime quam sit mollitia molestiae.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-lg-6 col-md-12 col-sm-12">
+                    <div class="d-flex flex-column align-items-center h-100 gap-2 justify-content-center ">
+                        <img src="./assets/images//people/vice-chairman.jpeg" class="img-fluid rounded-pill w-50 h-50" alt="picture">
+                        <h3 class="title">Capt. S. M. Sazzedeen</h3>
+                        <p>Managing Director</p>
+                    </div>
+                </div>
+
+            </div>
+
+            <div>
+                <div class="row align-items-center justify-content-center">
+                    <div class="col-lg-4 col-md-6 col-sm-8">
+                        <div class="d-flex p-1 about-effect overflow-hidden flex-column align-items-center h-100 gap-2 justify-content-center ">
+                            <img src="./assets/images/people/tecnical-director.jpeg" class="img-fluid rounded-pill w-50 h-50" alt="picture">
+                            <h6 class="title">Saidur Rahman</h6>
+                            <p class="small">Technical Director</p>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="flow-message col-8 mt-2
+                         bg-primary text-white h-100
+                         w-100 py-5 
+                         text-center">
+                    <p class="col-lg-8 col-md-10 col-sm-10 m-auto">
+                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur voluptatum quibusdam illum sit harum possimus tempora dolore cum magni dicta.
+                    </p>
+                </div>
+
+            </div>
+
+
+            <div class="row g-4 align-items-center justify-content-center my-5">
+
+
+
+                <div class="col-lg-3 col-md-6 col-sm-12">
+                    <div class="d-flex flex-column align-items-center p-1 h-100 gap-2 justify-content-center ">
+                        <img src="./assets/images/user-picture.jpg" class="img-fluid rounded-pill w-50 h-50" alt="picture">
+                        <h6 class="title">Name here</h6>
+                        <p class="small">Designation - Position</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 col-sm-12">
+                    <div class="d-flex flex-column align-items-center p-1 h-100 gap-2 justify-content-center ">
+                        <img src="./assets/images/user-picture.jpg" class="img-fluid rounded-pill w-50 h-50" alt="picture">
+                        <h6 class="title">Name here</h6>
+                        <p class="small">Designation - Position</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 col-sm-12">
+                    <div class="d-flex flex-column align-items-center p-1 h-100 gap-2 justify-content-center ">
+                        <img src="./assets/images/user-picture.jpg" class="img-fluid rounded-pill w-50 h-50" alt="picture">
+                        <h6 class="title">Name here</h6>
+                        <p class="small">Designation - Position</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 col-sm-12">
+                    <div class="d-flex flex-column align-items-center p-1 h-100 gap-2 justify-content-center ">
+                        <img src="./assets/images/user-picture.jpg" class="img-fluid rounded-pill w-50 h-50" alt="picture">
+                        <h6 class="title">Name here</h6>
+                        <p class="small">Designation - Position</p>
+                    </div>
+                </div>
+
+
+            </div>
+
+
 
 
         </div>
 
-
-
     </div>
-
-
 
 </div>
 

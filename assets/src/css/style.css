@@ -688,6 +688,38 @@ a.exchange {
 /* ============================== service section page ======================================= */
 
 
+
+/* ============================== about-us section page ======================================= */
+
+
+.flow-message {
+    position: relative;
+}
+
+.flow-message::before {
+    content: '';
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 10px;
+    height: 10px;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-bottom: 20px solid var(--sp-primary);
+    z-index: 2;
+    -webkit-transform: translate(-50%,-100%);
+    -moz-transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+    -o-transform: translate(-50%,-50%);
+}
+
+
+
+/* ============================== about-us section page ======================================= */
+
+
+
 /* ============================== contact us page ================================================= */
 
 .contact-us-hero {

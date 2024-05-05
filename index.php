@@ -174,7 +174,7 @@
 
     </div>
     <div class="col-lg-6 col-md-8 col-sm-12">
-        <p class="text-center">Welcome to SMTA Group, where precision meets reliability in the world of shipping and
+        <p class="text-justify">Welcome to SMTA Group, where precision meets reliability in the world of shipping and
             logistics.
             As a leader in the industry, we take pride in our rich history and unwavering commitment to delivering
             seamless shipping solutions
@@ -194,7 +194,7 @@
                 <div class="about-content text-white text-center text-truncate">
                     <span class="display-3 mb-2"><i class="fa-solid fa-people-line"></i></span>
                     <!-- <h1 class="mb-2 text-uppercase fw-bold">200+</h1> -->
-                    <P class="small">SMTA Group employees</P>
+                    <P class="small">SMTA Group Employees</P>
                 </div>
             </div>
 
@@ -213,7 +213,7 @@
                 <div class="about-content text-white text-center text-truncate">
                     <span class="display-3 mb-2"><i class="fa-solid fa-ferry"></i></span>
                     <!-- <h1 class="mb-2 text-uppercase fw-bold">800+</h1> -->
-                    <P class="small">vessels</P>
+                    <P class="small">Vessels</P>
                 </div>
             </div>
 
@@ -232,7 +232,7 @@
                 <div class="about-content text-white text-center text-truncate">
                     <span class="display-3 mb-2"><i class="fa-solid fa-building-columns"></i></span>
                     <!-- <h1 class="mb-2 text-uppercase fw-bold">22.5</h1> -->
-                    <P class="small">million TEU (estimated)</P>
+                    <P class="small">Million TEU (Estimated)</P>
                 </div>
             </div>
 
@@ -251,7 +251,28 @@
                 <div class="about-content text-white text-center text-truncate">
                     <span class="display-3 mb-2"><i class="fa-solid fa-city"></i></span>
                     <!-- <h1 class="mb-2 text-uppercase fw-bold">675</h1> -->
-                    <P class="small">offices</P>
+                    <P class="small">Offices</P>
+                </div>
+            </div>
+
+            <div class="col d-none d-lg-block d-md-none d-xl-block">
+                <div class="d-flex dots text-primary small gap-2">
+                    <i class="fa-solid fa-circle"></i>
+                    <i class="fa-solid fa-circle"></i>
+                    <i class="fa-solid fa-circle"></i>
+                    <i class="fa-solid fa-circle"></i>
+                    <i class="fa-solid fa-circle"></i>
+                    <i class="fa-solid fa-circle"></i>
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="about-content text-white text-center text-truncate">
+                <span class="display-3 mb-2">
+                    <img src="./assets/images/docker-ship.png" class="img-fluid" alt="icon">
+                </span>
+                    <!-- <h1 class="mb-2 text-uppercase fw-bold">675</h1> -->
+                    <P class="small">Dockyard</P>
                 </div>
             </div>
 

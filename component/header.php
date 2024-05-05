@@ -69,7 +69,7 @@
                                 <div class="d-flex flex-lg-row flex-column justify-content-center  w-100 ">
                                     <li class="nav-item"><a href="./index.php" class="nav-link"> Home </a></li>
 
-                                    <li class="nav-item"><a href="about.php" class="nav-link"> About </a></li>
+                                    <li class="nav-item"><a href="about.php" class="nav-link"> About Us</a></li>
                                     <li class="nav-item"><a href="./service.php" class="nav-link"> Services </a></li>
 
                                     <li class="nav-item dropdown">
@@ -79,15 +79,15 @@
                                         <ul class="dropdown-menu animate slideIn" aria-labelledby="dropdownMenuButton">
 
                                             <li>
-                                                <a class="dropdown-item" href="dred-eng.php">Dredging and Engineering</a>
+                                                <a class="dropdown-item" href="dred-eng.php">SMTA Dredging and Engineering</a>
                                             </li>
 
                                             <li>
-                                                <a class="dropdown-item" href="shipping-merine.php">M/S SMTA Shipping and Marine Services</a>
+                                                <a class="dropdown-item" href="shipping-merine.php">SMTA Shipping and Marine Services</a>
                                             </li>
 
                                             <li>
-                                                <a class="dropdown-item" href="constraction.php">M/S SMTA Construction and Engineering</a>
+                                                <a class="dropdown-item" href="constraction.php">SMTA Construction and Engineering</a>
                                             </li>
 
                                             <!-- <li>

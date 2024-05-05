@@ -20,8 +20,8 @@
 <div class="container-fluid">
 
 
-<div class="p-lg-6 welcome p-md-5 p-sm-3">     
-            <div class="row g-5">
+<div class="p-lg-4 welcome p-md-3 p-sm-2">     
+            <div class="row g-4 px-4">
 
                 <div class="col-lg-4 col-md-12 col-sm-12 block-img">
                     <img src="./assets/images/welcometoSMTA.jpeg" class="img-fluid w-100" alt="images">
@@ -53,23 +53,23 @@
         <!-- <p>
                     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis voluptatibus, quod culpa tempore magnam repellendus? Minus, repellat alias laboriosam ea labore explicabo, quam quisquam perferendis voluptates aut est veniam optio.
                 </p> -->
-
+<!-- 
         <h3 class="text-center fw-bold text-primary text-capitalize">Our Work Proccess Information</h3>
-        <div class="p-1 bg-primary effect m-auto rounded w-5 mb-3"></div>
-
+        <div class="p-1 bg-primary effect m-auto rounded w-5 mb-3"></div> -->
+<!-- 
         <div class="row g-3 justify-content-center mt-3">
 
-        <?php for($i=0; $i<10; $i++) { ?>
+        <?php // for($i=0; $i<10; $i++) { ?>
             <div class="col-lg-3 col-md-6 col-sm-12">
-            <img src="./assets/images/about-us/card-<?php echo $i+1; ?>.png" class="img-fluid" alt="news-image">
+            <img src="./assets/images/about-us/card-<?php // echo $i+1; ?>.png" class="img-fluid" alt="news-image">
             </div>
-            <?php } ?>
-        </div>
+            <?php // } ?>
+        </div> -->
 
 
     <div class="row g-2 m-0">
 
-        <div class="col-10 m-auto">
+        <div class="col-11 m-auto">
             <!-- <h1 class="text-primary text-capitalize fw-bold">Dredging And Engineering: The Importance of Dredging</h1> -->
 
             <!-- <hr> -->
@@ -79,9 +79,9 @@
                 <p class="p-0 m-0"><span class="text-primary fw-bold">Date: </span>29 Feb 2024</p>
             </div> -->
 
-            <hr>
+            <!-- <hr> -->
 
-            <div class="news-content text-justify my-4">
+            <div class="news-content text-justify my-2">
 
                 <!-- <p>
                     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis voluptatibus, quod culpa tempore magnam repellendus? Minus, repellat alias laboriosam ea labore explicabo, quam quisquam perferendis voluptates aut est veniam optio.
