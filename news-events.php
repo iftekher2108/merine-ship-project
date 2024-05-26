@@ -22,7 +22,7 @@
             <h1 class="text-primary text-capitalize mb-5 fw-bold">Latest News & Events</h1>
 
             <div class="news-block text-justify mb-5">
-                <div class="row g-3">
+                <!-- <div class="row g-3">
 
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <a href="#" class="nav-link block">
@@ -126,7 +126,7 @@
 
                     
 
-                </div>
+                </div> -->
 
                 <!-- <div class="d-flex justify-content-center py-4">
                     <nav aria-label="Page navigation">

@@ -429,7 +429,7 @@
                     <div class="card bg-white bg-opacity-75 rounded p-4">
                         <h2 class="text-primary text-uppercase fw-bold mb-3">Construction and Engineering</h2>
                         <p>
-                            SMTA Marine for many years has been called upon for towage projects across the Bay of Bangle,
+                            SMTA Marine for many years has been called upon for towage projects across the Bay of Bengal,
                             Gulf and red sea. We offer a wide range of services to our customers...
                         </p>
                     </div>

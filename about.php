@@ -204,11 +204,7 @@
                     <div class="px-2 py-4">
                         <h3 class="mb-2">Message Form Chairman</h3>
                         <p class="text-justify">
-                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorum, hic assumenda? Accusamus maxime debitis pariatur autem,
-                            nostrum adipisci natus temporibus dicta saepe praesentium molestiae, magnam repellat eaque maiores eveniet numquam dignissimos
-                            fuga consectetur! Eum quae minus odio illo eveniet tenetur temporibus voluptas, esse nam aut ea nesciunt, debitis recusandae.
-                            Minus illo animi impedit alias blanditiis in quidem rerum nostrum? Aperiam. Lorem ipsum dolor sit amet consectetur adipisicing
-                            elit. Dolor rem libero commodi voluptates ad maxime dolore soluta. Maiores, incidunt fugit.
+                            Message Coming Soon
                         </p>
                     </div>
                 </div>
@@ -222,12 +218,7 @@
                     <div class="px-2 py-4">
                         <h3 class="mb-2">Message Form Managing Director</h3>
                         <p class="text-justify">
-                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorum, hic assumenda? Accusamus maxime
-                            debitis pariatur autem, nostrum adipisci natus temporibus dicta saepe praesentium molestiae, magnam
-                            repellat eaque maiores eveniet numquam dignissimos fuga consectetur! Eum quae minus odio illo eveniet
-                            tenetur temporibus voluptas, esse nam aut ea nesciunt, debitis recusandae. Minus illo animi impedit
-                            alias blanditiis in quidem rerum nostrum? Aperiam. Lorem, ipsum dolor sit amet consectetur adipisicing
-                            elit. Id, iure ducimus! Rerum omnis odio assumenda maxime quam sit mollitia molestiae.
+                           Message Coming Soon
                         </p>
                     </div>
                 </div>
@@ -259,7 +250,7 @@
                          w-100 py-5 
                          text-center">
                     <p class="col-lg-8 col-md-10 col-sm-10 m-auto">
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur voluptatum quibusdam illum sit harum possimus tempora dolore cum magni dicta.
+                       Message Coming Soon....!!!
                     </p>
                 </div>
 
